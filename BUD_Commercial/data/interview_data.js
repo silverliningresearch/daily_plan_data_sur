@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "MXP",
         "AirlineCode": "W6",
         "InterviewerID": 7,
-        "download_time": "13-04-2023 12:34:18"
+        "download_time": "15-04-2023 01:02:16"
     },
     {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
@@ -181,6 +181,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "0cd20489-4d0d-45ad-b4fd-d44729d4d3d1",
+        "InterviewEndDate": "2023-04-14 11:22:30",
+        "InterviewState": "Completed",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "0ef154ab-1c12-446e-9024-68321d58da32",
         "InterviewEndDate": "2023-04-07 18:57:03",
         "InterviewState": "Completed",
@@ -278,6 +287,60 @@ let interview_data_raw = `[
         "Dest": "BSL",
         "AirlineCode": "EZS1218",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d31cb643-6ee6-4569-9cc7-2f1d9e8e8cbb",
+        "InterviewEndDate": "2023-04-14 12:03:19",
+        "InterviewState": "Completed",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "f47a4f8e-960e-455f-b948-251f4c56f255",
+        "InterviewEndDate": "2023-04-14 11:20:45",
+        "InterviewState": "Completed",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "f90fbe76-6b03-4af8-a744-12cb63d2336f",
+        "InterviewEndDate": "2023-04-14 11:27:35",
+        "InterviewState": "Completed",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "c8d3b0cc-f745-4688-b173-5c2915eced36",
+        "InterviewEndDate": "2023-04-14 12:03:00",
+        "InterviewState": "Completed",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "01afe88c-0bf6-4ddd-9083-45c8e974024f",
+        "InterviewEndDate": "2023-04-14 12:01:42",
+        "InterviewState": "Completed",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "546a63b7-e8d3-4b19-8bc7-15fe6da541cb",
+        "InterviewEndDate": "2023-04-14 12:01:33",
+        "InterviewState": "Completed",
+        "Flight": "EZY8732",
+        "Dest": "LGW",
+        "AirlineCode": "EZY8732",
+        "InterviewerID": 7
     }
 ]    
 
