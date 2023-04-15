@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "MXP",
         "AirlineCode": "W6",
         "InterviewerID": 7,
-        "download_time": "15-04-2023 19:40:15"
+        "download_time": "15-04-2023 20:39:38"
     },
     {
         "InterviewId": "611894fe-2f78-4f05-8286-e9cc966385f9",
@@ -429,6 +429,33 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 6278",
         "Dest": "CTA",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "f899b1f2-1617-400b-bb3f-68f4a89b8c12",
+        "InterviewEndDate": "2023-04-15 20:49:38",
+        "InterviewState": "Completed",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ba7d9c43-215d-4f13-aca4-3013e9924a29",
+        "InterviewEndDate": "2023-04-15 20:56:48",
+        "InterviewState": "Completed",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "48883af5-0a8c-4827-b055-13831ea72f8f",
+        "InterviewEndDate": "2023-04-15 20:51:23",
+        "InterviewState": "Completed",
+        "Flight": "FR 3827",
+        "Dest": "BLQ",
         "AirlineCode": "FR",
         "InterviewerID": 1
     }
