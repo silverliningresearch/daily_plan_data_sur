@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "16-04-2023 10:40:04"
+        "download_time": "16-04-2023 11:40:03"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -5219,6 +5219,60 @@ let interview_data_raw = `[
         "Dest": "London (LTN)",
         "AirlineCode": "easyJet UK",
         "InterviewerID": 12
+    },
+    {
+        "InterviewId": "79d9c6ed-0c91-4b4c-aaa0-55a1e7325197",
+        "InterviewEndDate": "2023-04-16 12:27:33",
+        "InterviewState": "Completed",
+        "Flight": "OG  701",
+        "Dest": "Reykjavik (KEF)",
+        "AirlineCode": "PLAY",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d1ace828-2021-4211-b39a-96fc04b81aaf",
+        "InterviewEndDate": "2023-04-16 12:27:34",
+        "InterviewState": "Completed",
+        "Flight": "OG  701",
+        "Dest": "Reykjavik (KEF)",
+        "AirlineCode": "PLAY",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "e086955a-5349-40dc-aced-606064120f59",
+        "InterviewEndDate": "2023-04-16 12:20:52",
+        "InterviewState": "Completed",
+        "Flight": "OG  701",
+        "Dest": "Reykjavik (KEF)",
+        "AirlineCode": "PLAY",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "5bcf1981-8791-4627-952a-d84226ccce74",
+        "InterviewEndDate": "2023-04-16 12:21:51",
+        "InterviewState": "Completed",
+        "Flight": "OG  701",
+        "Dest": "Reykjavik (KEF)",
+        "AirlineCode": "PLAY",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "276d32a3-c1fb-455d-b566-1a37301943ea",
+        "InterviewEndDate": "2023-04-16 12:12:54",
+        "InterviewState": "Completed",
+        "Flight": "OG  701",
+        "Dest": "Reykjavik (KEF)",
+        "AirlineCode": "PLAY",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "57776873-2225-4947-a755-01e3e0ffbe17",
+        "InterviewEndDate": "2023-04-16 12:24:48",
+        "InterviewState": "Completed",
+        "Flight": "EW 6891",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 1
     }
 ]    
 
