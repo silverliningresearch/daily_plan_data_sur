@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "16-04-2023 13:40:02"
+        "download_time": "16-04-2023 14:40:03"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -5374,12 +5374,57 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "395bd5da-5986-4567-ad57-45d2c681bc73",
+        "InterviewEndDate": "2023-04-16 15:15:00",
+        "InterviewState": "Completed",
+        "Flight": "TK 1726",
+        "Dest": "Istanbul (IST)",
+        "AirlineCode": "Turkish Airlines",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "8fca22d5-8de7-4fc4-9abe-3416fd7ec3de",
         "InterviewEndDate": "2023-04-16 14:29:09",
         "InterviewState": "Completed",
         "Flight": "EJU5071",
         "Dest": "Mailand (LIN)",
         "AirlineCode": "easyJet Europe",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "2b74c090-9e3d-43ab-b525-3518a139aa7b",
+        "InterviewEndDate": "2023-04-16 15:10:38",
+        "InterviewState": "Completed",
+        "Flight": "TK 1726",
+        "Dest": "Istanbul (IST)",
+        "AirlineCode": "Turkish Airlines",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "17db2c98-64ec-4327-881e-9e6557ea8a0f",
+        "InterviewEndDate": "2023-04-16 15:13:19",
+        "InterviewState": "Completed",
+        "Flight": "TK 1726",
+        "Dest": "Istanbul (IST)",
+        "AirlineCode": "Turkish Airlines",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "e3d8936a-5027-48db-846f-d6af44bd3ee1",
+        "InterviewEndDate": "2023-04-16 15:19:45",
+        "InterviewState": "Completed",
+        "Flight": "TK 1726",
+        "Dest": "Istanbul (IST)",
+        "AirlineCode": "Turkish Airlines",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "65b4cbf6-88a8-430e-a620-964e53a0cc89",
+        "InterviewEndDate": "2023-04-16 15:24:50",
+        "InterviewState": "Completed",
+        "Flight": "TK 1726",
+        "Dest": "Istanbul (IST)",
+        "AirlineCode": "Turkish Airlines",
         "InterviewerID": 1
     }
 ]    
