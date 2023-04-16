@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "16-04-2023 11:40:03"
+        "download_time": "16-04-2023 12:40:03"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -5272,6 +5272,51 @@ let interview_data_raw = `[
         "Flight": "EW 6891",
         "Dest": "Palma de Mallorca (PMI)",
         "AirlineCode": "Eurowings",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "b8a50804-4a4c-43b0-a156-2029fa589746",
+        "InterviewEndDate": "2023-04-16 13:06:52",
+        "InterviewState": "Completed",
+        "Flight": "EJU5187",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d0ddab7c-f4de-4c27-a9d1-d8459601354c",
+        "InterviewEndDate": "2023-04-16 13:10:18",
+        "InterviewState": "Completed",
+        "Flight": "EJU5187",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "94851399-68cc-46a7-bd66-dcbbe406a05d",
+        "InterviewEndDate": "2023-04-16 13:10:22",
+        "InterviewState": "Completed",
+        "Flight": "EJU5187",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "50f47889-cd6e-437d-ab6f-bc66f9cff6b4",
+        "InterviewEndDate": "2023-04-16 13:03:32",
+        "InterviewState": "Completed",
+        "Flight": "EJU5187",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "822d72ed-c182-4faa-86e0-038f529fd9ac",
+        "InterviewEndDate": "2023-04-16 13:08:40",
+        "InterviewState": "Completed",
+        "Flight": "EJU5187",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "easyJet Europe",
         "InterviewerID": 1
     }
 ]    
