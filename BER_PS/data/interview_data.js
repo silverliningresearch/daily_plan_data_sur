@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "16-04-2023 15:39:59"
+        "download_time": "16-04-2023 16:40:02"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -5383,6 +5383,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "565ac1f2-0e04-47c5-8052-81b6dc270596",
+        "InterviewEndDate": "2023-04-16 16:43:25",
+        "InterviewState": "Completed",
+        "Flight": "EZY2934",
+        "Dest": "Bristol (BRS)",
+        "AirlineCode": "easyJet UK",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "395bd5da-5986-4567-ad57-45d2c681bc73",
         "InterviewEndDate": "2023-04-16 15:15:00",
         "InterviewState": "Completed",
@@ -5515,6 +5524,42 @@ let interview_data_raw = `[
         "Flight": "QR  082",
         "Dest": "Doha (DOH)",
         "AirlineCode": "Qatar Airways",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ffed5673-b648-4a95-80af-d8765d2292d1",
+        "InterviewEndDate": "2023-04-16 16:49:11",
+        "InterviewState": "Completed",
+        "Flight": "EZY2934",
+        "Dest": "Bristol (BRS)",
+        "AirlineCode": "easyJet UK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "b8e3b7e4-6f4d-4d80-ba77-05a483ee82a1",
+        "InterviewEndDate": "2023-04-16 16:43:27",
+        "InterviewState": "Completed",
+        "Flight": "EZY2934",
+        "Dest": "Bristol (BRS)",
+        "AirlineCode": "easyJet UK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "eab23727-d3a1-4612-9a38-7b301846700c",
+        "InterviewEndDate": "2023-04-16 16:42:18",
+        "InterviewState": "Completed",
+        "Flight": "EZY2934",
+        "Dest": "Bristol (BRS)",
+        "AirlineCode": "easyJet UK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "c4ceb7f6-834f-4e92-a29c-153c25b61cc9",
+        "InterviewEndDate": "2023-04-16 16:47:57",
+        "InterviewState": "Completed",
+        "Flight": "EZY2934",
+        "Dest": "Bristol (BRS)",
+        "AirlineCode": "easyJet UK",
         "InterviewerID": 1
     }
 ]    
