@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "16-04-2023 12:40:03"
+        "download_time": "16-04-2023 13:40:02"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -5316,6 +5316,69 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EJU5187",
         "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "dbc1be6e-e6ae-4835-87ae-f9b255fbc75d",
+        "InterviewEndDate": "2023-04-16 13:44:12",
+        "InterviewState": "Completed",
+        "Flight": "TP  533",
+        "Dest": "Lissabon (LIS)",
+        "AirlineCode": "TAP Air Portugal",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "606a9653-f25d-4959-bf75-83b7ed09994a",
+        "InterviewEndDate": "2023-04-16 13:43:20",
+        "InterviewState": "Completed",
+        "Flight": "TP  533",
+        "Dest": "Lissabon (LIS)",
+        "AirlineCode": "TAP Air Portugal",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "53dcb77d-4307-4295-9194-432c16b2404f",
+        "InterviewEndDate": "2023-04-16 13:47:09",
+        "InterviewState": "Completed",
+        "Flight": "TP  533",
+        "Dest": "Lissabon (LIS)",
+        "AirlineCode": "TAP Air Portugal",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "c5fd93b8-28cb-424c-bbe3-465d911f8bbb",
+        "InterviewEndDate": "2023-04-16 13:52:20",
+        "InterviewState": "Completed",
+        "Flight": "TP  533",
+        "Dest": "Lissabon (LIS)",
+        "AirlineCode": "TAP Air Portugal",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "611eb066-2a7a-438e-aec2-d98bd752e2dd",
+        "InterviewEndDate": "2023-04-16 13:52:22",
+        "InterviewState": "Completed",
+        "Flight": "TP  533",
+        "Dest": "Lissabon (LIS)",
+        "AirlineCode": "TAP Air Portugal",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "6c37f151-ca28-47d7-92bf-e57d436670fc",
+        "InterviewEndDate": "2023-04-16 13:55:22",
+        "InterviewState": "Completed",
+        "Flight": "EJU5055",
+        "Dest": "Olbia (OLB)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "8fca22d5-8de7-4fc4-9abe-3416fd7ec3de",
+        "InterviewEndDate": "2023-04-16 14:29:09",
+        "InterviewState": "Completed",
+        "Flight": "EJU5071",
+        "Dest": "Mailand (LIN)",
         "AirlineCode": "easyJet Europe",
         "InterviewerID": 1
     }
