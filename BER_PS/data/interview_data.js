@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "17-04-2023 09:40:02"
+        "download_time": "17-04-2023 10:40:04"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -5803,6 +5803,60 @@ let interview_data_raw = `[
         "Flight": "FR  144",
         "Dest": "London (STN)",
         "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "b9389abc-4bd5-4973-9dd5-a2f91ab87fc2",
+        "InterviewEndDate": "2023-04-17 11:15:14",
+        "InterviewState": "Completed",
+        "Flight": "OS  226",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "dadd4655-cfe9-4d08-aee9-9b4df060f04f",
+        "InterviewEndDate": "2023-04-17 11:13:24",
+        "InterviewState": "Completed",
+        "Flight": "OS  226",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "ca7664e1-e8e8-4778-a5a5-76195f8504aa",
+        "InterviewEndDate": "2023-04-17 11:11:32",
+        "InterviewState": "Completed",
+        "Flight": "OS  226",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "ac5f91a8-3e04-4fdd-b7bb-c0826bbe9619",
+        "InterviewEndDate": "2023-04-17 11:12:46",
+        "InterviewState": "Completed",
+        "Flight": "OS  226",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "bea407d8-25c3-46c9-be8e-f5455d677760",
+        "InterviewEndDate": "2023-04-17 11:11:50",
+        "InterviewState": "Completed",
+        "Flight": "OS  226",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "dabfe5b5-7b49-48a8-b977-053c86a8b9f2",
+        "InterviewEndDate": "2023-04-17 11:22:04",
+        "InterviewState": "Completed",
+        "Flight": "OS  226",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
         "InterviewerID": 11
     }
 ]    

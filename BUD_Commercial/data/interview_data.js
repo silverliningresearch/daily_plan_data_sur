@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "17-04-2023 09:39:39"
+        "download_time": "17-04-2023 10:39:41"
     },
     {
         "InterviewId": "b199a7b9-5e60-40b9-a4ea-4fa385bb46c5",
@@ -487,6 +487,33 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "d6762336-adda-4531-bcaa-e99e5fff7761",
+        "InterviewEndDate": "2023-04-17 10:50:01",
+        "InterviewState": "Completed",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "755ed7ae-b677-478d-b3f9-ae2b1e0ae7b7",
+        "InterviewEndDate": "2023-04-17 11:01:22",
+        "InterviewState": "Completed",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d34eebcc-1dec-4df5-b371-acce72914b42",
+        "InterviewEndDate": "2023-04-17 10:57:17",
+        "InterviewState": "Completed",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "4cea58c7-0cd3-43c9-82dc-e19d48343789",
         "InterviewEndDate": "2023-04-16 06:11:20",
         "InterviewState": "Completed",
@@ -521,6 +548,24 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "3acaec82-2df0-43ea-8d2a-631297475de0",
+        "InterviewEndDate": "2023-04-17 10:58:56",
+        "InterviewState": "Completed",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "01a352cf-ba66-4510-97f4-d09455eef14b",
+        "InterviewEndDate": "2023-04-17 10:58:28",
+        "InterviewState": "Completed",
+        "Flight": "FR 8745",
+        "Dest": "BLL",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
     }
 ]    
 
