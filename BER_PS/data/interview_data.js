@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "17-04-2023 12:40:08"
+        "download_time": "17-04-2023 13:40:04"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -5974,6 +5974,42 @@ let interview_data_raw = `[
         "Flight": "AY 1434",
         "Dest": "Helsinki (HEL)",
         "AirlineCode": "Finnair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "b50ed0ef-2b3f-4f52-ab4f-0f726f2e3aab",
+        "InterviewEndDate": "2023-04-17 14:21:26",
+        "InterviewState": "Completed",
+        "Flight": "EJU5071",
+        "Dest": "Mailand (LIN)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "2c3da12e-7426-40e6-8526-fb625f89741e",
+        "InterviewEndDate": "2023-04-17 14:12:23",
+        "InterviewState": "Completed",
+        "Flight": "EJU5071",
+        "Dest": "Mailand (LIN)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "2a8ca169-5353-4864-99df-37bf146aac7b",
+        "InterviewEndDate": "2023-04-17 14:07:43",
+        "InterviewState": "Completed",
+        "Flight": "EJU5071",
+        "Dest": "Mailand (LIN)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "2a41c863-3f98-49aa-a1ac-b4eb6dbec6d3",
+        "InterviewEndDate": "2023-04-17 14:17:55",
+        "InterviewState": "Completed",
+        "Flight": "EJU5071",
+        "Dest": "Mailand (LIN)",
+        "AirlineCode": "easyJet Europe",
         "InterviewerID": 11
     }
 ]    
