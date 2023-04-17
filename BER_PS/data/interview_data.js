@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "17-04-2023 11:40:07"
+        "download_time": "17-04-2023 12:40:08"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -5920,6 +5920,60 @@ let interview_data_raw = `[
         "Flight": "KL 1824",
         "Dest": "Amsterdam (AMS)",
         "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "f5088d22-56f4-4574-a0fb-f0be4aa6c522",
+        "InterviewEndDate": "2023-04-17 13:23:25",
+        "InterviewState": "Completed",
+        "Flight": "AY 1434",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "6efb8c14-f6bb-49c4-9335-05d9be75dd3f",
+        "InterviewEndDate": "2023-04-17 13:23:18",
+        "InterviewState": "Completed",
+        "Flight": "AY 1434",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "b17038f6-117e-430b-9d47-8f580241bf7a",
+        "InterviewEndDate": "2023-04-17 13:17:48",
+        "InterviewState": "Completed",
+        "Flight": "AY 1434",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "08ccd3e4-093d-4f3d-b025-6fe1721bb25b",
+        "InterviewEndDate": "2023-04-17 13:21:57",
+        "InterviewState": "Completed",
+        "Flight": "AY 1434",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "40f23616-95f8-41dc-bb72-af68788a6253",
+        "InterviewEndDate": "2023-04-17 13:27:39",
+        "InterviewState": "Completed",
+        "Flight": "AY 1434",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "9da8de1d-5e18-41c3-9a89-9ef6431981a7",
+        "InterviewEndDate": "2023-04-17 13:23:40",
+        "InterviewState": "Completed",
+        "Flight": "AY 1434",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
         "InterviewerID": 11
     }
 ]    
