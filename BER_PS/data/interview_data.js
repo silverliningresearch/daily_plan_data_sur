@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "17-04-2023 06:40:10"
+        "download_time": "17-04-2023 07:40:39"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -5561,6 +5561,96 @@ let interview_data_raw = `[
         "Dest": "Bristol (BRS)",
         "AirlineCode": "easyJet UK",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "505eb235-a0c2-4c12-89ff-672daaf056bb",
+        "InterviewEndDate": "2023-04-17 07:50:29",
+        "InterviewState": "Completed",
+        "Flight": "FR  216",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "3597f72c-2973-4973-a196-149b3d44271e",
+        "InterviewEndDate": "2023-04-17 08:12:33",
+        "InterviewState": "Completed",
+        "Flight": "FR  216",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "2125993a-b1c0-4173-abca-e559a95842eb",
+        "InterviewEndDate": "2023-04-17 07:54:00",
+        "InterviewState": "Completed",
+        "Flight": "FR  216",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "fde4d46b-2e83-43fb-99fb-8952f1df68d8",
+        "InterviewEndDate": "2023-04-17 07:58:10",
+        "InterviewState": "Completed",
+        "Flight": "FR  216",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "4f44f8ab-ee45-42d9-bed1-bf75f9456e9d",
+        "InterviewEndDate": "2023-04-17 07:57:39",
+        "InterviewState": "Completed",
+        "Flight": "FR  216",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "899907cf-c486-41b4-8807-bbddc32b9df1",
+        "InterviewEndDate": "2023-04-17 08:06:26",
+        "InterviewState": "Completed",
+        "Flight": "FR  216",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "96686872-6e6d-49f6-8fd3-9308b90a9531",
+        "InterviewEndDate": "2023-04-17 08:22:27",
+        "InterviewState": "Completed",
+        "Flight": "W6 4276",
+        "Dest": "Tuzla (TZL)",
+        "AirlineCode": "Wizz Air",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "b904c9a9-ad6e-4489-9fa8-8cdbf8c51682",
+        "InterviewEndDate": "2023-04-17 08:35:37",
+        "InterviewState": "Completed",
+        "Flight": "W6 4276",
+        "Dest": "Tuzla (TZL)",
+        "AirlineCode": "Wizz Air",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "a82f87c6-924e-421d-995e-cd8266f94008",
+        "InterviewEndDate": "2023-04-17 08:30:48",
+        "InterviewState": "Completed",
+        "Flight": "W6 4276",
+        "Dest": "Tuzla (TZL)",
+        "AirlineCode": "Wizz Air",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "32d1b32a-15dc-45f5-8739-9d1ca2c50b6f",
+        "InterviewEndDate": "2023-04-17 08:21:49",
+        "InterviewState": "Completed",
+        "Flight": "W6 4276",
+        "Dest": "Tuzla (TZL)",
+        "AirlineCode": "Wizz Air",
+        "InterviewerID": 11
     }
 ]    
 
