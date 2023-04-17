@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "17-04-2023 07:40:39"
+        "download_time": "17-04-2023 08:40:04"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -5626,6 +5626,15 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "2508217b-ef9d-4fea-96fc-440bbfa61dd2",
+        "InterviewEndDate": "2023-04-17 08:55:55",
+        "InterviewState": "Completed",
+        "Flight": "FR 2377",
+        "Dest": "Edinburgh (EDI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "b904c9a9-ad6e-4489-9fa8-8cdbf8c51682",
         "InterviewEndDate": "2023-04-17 08:35:37",
         "InterviewState": "Completed",
@@ -5650,6 +5659,87 @@ let interview_data_raw = `[
         "Flight": "W6 4276",
         "Dest": "Tuzla (TZL)",
         "AirlineCode": "Wizz Air",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "aed56a9b-0ef4-44a7-853d-7d06759bd12b",
+        "InterviewEndDate": "2023-04-17 09:02:28",
+        "InterviewState": "Completed",
+        "Flight": "FR 2377",
+        "Dest": "Edinburgh (EDI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "58acf438-e86c-446e-a452-5f261b042a6d",
+        "InterviewEndDate": "2023-04-17 09:05:13",
+        "InterviewState": "Completed",
+        "Flight": "FR 2377",
+        "Dest": "Edinburgh (EDI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "d2e57517-a846-417f-b5cd-d1b5adaa2c6f",
+        "InterviewEndDate": "2023-04-17 08:59:10",
+        "InterviewState": "Completed",
+        "Flight": "FR 2377",
+        "Dest": "Edinburgh (EDI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "08952216-91fe-416e-a025-6dfafd863ce4",
+        "InterviewEndDate": "2023-04-17 08:54:38",
+        "InterviewState": "Completed",
+        "Flight": "FR 2377",
+        "Dest": "Edinburgh (EDI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "37cfcb1b-d1e4-4102-ae92-679c83a293a1",
+        "InterviewEndDate": "2023-04-17 09:17:02",
+        "InterviewState": "Completed",
+        "Flight": "FR 2377",
+        "Dest": "Edinburgh (EDI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "54b56420-b630-4025-b815-f09a0c7434f2",
+        "InterviewEndDate": "2023-04-17 09:06:41",
+        "InterviewState": "Completed",
+        "Flight": "FR 2377",
+        "Dest": "Edinburgh (EDI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "4696e319-be40-47ad-978b-5687a90d2aab",
+        "InterviewEndDate": "2023-04-17 09:13:44",
+        "InterviewState": "Completed",
+        "Flight": "FR 2377",
+        "Dest": "Edinburgh (EDI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "4ce5b12f-8643-4470-a1b8-bbc43e94e469",
+        "InterviewEndDate": "2023-04-17 09:16:49",
+        "InterviewState": "Completed",
+        "Flight": "FR 2377",
+        "Dest": "Edinburgh (EDI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "5f0e6300-d29d-49e5-8f59-f499380cc78c",
+        "InterviewEndDate": "2023-04-17 09:35:14",
+        "InterviewState": "Completed",
+        "Flight": "FR  144",
+        "Dest": "London (STN)",
+        "AirlineCode": "Ryanair",
         "InterviewerID": 11
     }
 ]    
