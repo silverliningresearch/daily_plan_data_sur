@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "18-04-2023 19:05:23"
+        "download_time": "18-04-2023 19:15:24"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -17074,15 +17074,6 @@ let interview_data_raw = `[
         "InterviewerID": 2
     },
     {
-        "InterviewId": "e7bae67d-b9ee-4d5c-8fdb-b34ce2b6bc56",
-        "InterviewEndDate": "2023-04-17 21:53:25",
-        "InterviewState": "Completed",
-        "Flight": "SN2829",
-        "Dest": "BUD",
-        "AirlineCode": "",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "f7b7adb3-0dd8-4e84-bdf4-9f45933a012c",
         "InterviewEndDate": "2023-04-17 22:19:08",
         "InterviewState": "Completed",
@@ -17970,6 +17961,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "TK1940",
         "Dest": "IST",
+        "AirlineCode": "",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "c7dc6a19-3c0c-494e-ac5a-7703352c3610",
+        "InterviewEndDate": "2023-04-18 20:08:03",
+        "InterviewState": "Completed",
+        "Flight": "FR5237",
+        "Dest": "RAK",
         "AirlineCode": "",
         "InterviewerID": 8
     },
@@ -25372,6 +25372,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "e7bae67d-b9ee-4d5c-8fdb-b34ce2b6bc56",
+        "InterviewEndDate": "2023-04-17 21:53:25",
+        "InterviewState": "Completed",
+        "Flight": "SN2829",
+        "Dest": "BUD",
+        "AirlineCode": "",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "461a30ea-1627-4885-9f2f-fccb4d041566",
         "InterviewEndDate": "2023-04-17 21:58:46",
         "InterviewState": "Completed",
@@ -26061,6 +26070,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "TK1940",
         "Dest": "IST",
+        "AirlineCode": "",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "1789c3e2-9354-4a1b-bcf2-f79de7499323",
+        "InterviewEndDate": "2023-04-18 20:08:26",
+        "InterviewState": "Completed",
+        "Flight": "FR5237",
+        "Dest": "RAK",
         "AirlineCode": "",
         "InterviewerID": 8
     },
