@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "18-04-2023 07:34:14"
+        "download_time": "18-04-2023 08:34:14"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6148,12 +6148,84 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "d941ab08-9b36-4eb9-a2c0-6cf648751eff",
+        "InterviewEndDate": "2023-04-18 09:01:46",
+        "InterviewState": "Completed",
+        "Flight": "KL 1822",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "4a7d44be-b448-4ab8-8d4c-3b5439585eeb",
         "InterviewEndDate": "2023-04-18 08:15:35",
         "InterviewState": "Completed",
         "Flight": "EJU5191",
         "Dest": "Basel (BSL)",
         "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "5efbaf29-69ce-4b5f-8d0e-f93184e4b0d3",
+        "InterviewEndDate": "2023-04-18 09:01:31",
+        "InterviewState": "Completed",
+        "Flight": "KL 1822",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "e92b6666-c4ee-4dfd-b42e-1f9e72311f8c",
+        "InterviewEndDate": "2023-04-18 08:51:26",
+        "InterviewState": "Completed",
+        "Flight": "KL 1822",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "584045c5-9cf1-41e0-b1fa-f5035526046c",
+        "InterviewEndDate": "2023-04-18 09:00:08",
+        "InterviewState": "Completed",
+        "Flight": "KL 1822",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "8e99d457-5e2e-43de-a0be-e7305353db48",
+        "InterviewEndDate": "2023-04-18 09:00:41",
+        "InterviewState": "Completed",
+        "Flight": "KL 1822",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "7e975677-cc50-44dd-ae3c-18f266e53fbd",
+        "InterviewEndDate": "2023-04-18 08:57:00",
+        "InterviewState": "Completed",
+        "Flight": "KL 1822",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "860842d5-f659-4e56-9492-5449b496d605",
+        "InterviewEndDate": "2023-04-18 09:05:37",
+        "InterviewState": "Completed",
+        "Flight": "KL 1822",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "79ddf137-4c27-4638-9e19-734830e6aff4",
+        "InterviewEndDate": "2023-04-18 09:15:58",
+        "InterviewState": "Completed",
+        "Flight": "KL 1822",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
         "InterviewerID": 11
     }
 ]    
