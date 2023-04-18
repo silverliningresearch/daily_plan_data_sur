@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "18-04-2023 10:55:37"
+        "download_time": "18-04-2023 11:55:40"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6229,6 +6229,15 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "1b2125da-98a0-4db2-84d5-19db0a89aa8c",
+        "InterviewEndDate": "2023-04-18 12:04:35",
+        "InterviewState": "Completed",
+        "Flight": "FR 3311",
+        "Dest": "Mailand (BGY)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "ba09d8e1-2a50-4624-a74d-3fb9613033f9",
         "InterviewEndDate": "2023-04-18 09:38:08",
         "InterviewState": "Completed",
@@ -6274,11 +6283,56 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "65b4b659-18ec-4536-aa21-be71ee310b08",
+        "InterviewEndDate": "2023-04-18 12:17:39",
+        "InterviewState": "Completed",
+        "Flight": "FR 3311",
+        "Dest": "Mailand (BGY)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "8d82e2e8-9d1a-4f74-87c6-2dae7942d378",
         "InterviewEndDate": "2023-04-18 11:53:32",
         "InterviewState": "Completed",
         "Flight": "FR 3309",
         "Dest": "Bari (BRI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "6db1f93a-a193-45b8-ad22-a1f1fe53a675",
+        "InterviewEndDate": "2023-04-18 12:09:54",
+        "InterviewState": "Completed",
+        "Flight": "FR 3311",
+        "Dest": "Mailand (BGY)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "3810a43c-1c38-4218-9b0f-03586c6599f2",
+        "InterviewEndDate": "2023-04-18 12:32:39",
+        "InterviewState": "Completed",
+        "Flight": "FR 3311",
+        "Dest": "Mailand (BGY)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "eeb6a5e1-7311-4d2d-82b3-58847f9ed4df",
+        "InterviewEndDate": "2023-04-18 12:25:48",
+        "InterviewState": "Completed",
+        "Flight": "FR 3311",
+        "Dest": "Mailand (BGY)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "c98da8ea-ceb9-4d97-bdec-275c76e71719",
+        "InterviewEndDate": "2023-04-18 12:27:05",
+        "InterviewState": "Completed",
+        "Flight": "FR 3311",
+        "Dest": "Mailand (BGY)",
         "AirlineCode": "Ryanair",
         "InterviewerID": 11
     }
