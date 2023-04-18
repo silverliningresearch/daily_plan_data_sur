@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "18-04-2023 06:34:34"
+        "download_time": "18-04-2023 07:34:14"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6063,6 +6063,96 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EJU5261",
         "Dest": "Kopenhagen (CPH)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "f0a761de-3e81-4423-b693-f43b346f20bc",
+        "InterviewEndDate": "2023-04-18 08:01:44",
+        "InterviewState": "Completed",
+        "Flight": "EJU5191",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "2fb0db46-10c3-4488-9d79-b8490c781c81",
+        "InterviewEndDate": "2023-04-18 07:59:21",
+        "InterviewState": "Completed",
+        "Flight": "EJU5191",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "ab997c81-27b1-4a62-9e8e-053a1d68aec4",
+        "InterviewEndDate": "2023-04-18 07:57:17",
+        "InterviewState": "Completed",
+        "Flight": "EJU5191",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "a183c95e-b809-4d3b-abdd-2a1b50f9bb87",
+        "InterviewEndDate": "2023-04-18 08:04:43",
+        "InterviewState": "Completed",
+        "Flight": "EJU5191",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "44744b51-922a-466e-9343-cc408e009262",
+        "InterviewEndDate": "2023-04-18 07:59:25",
+        "InterviewState": "Completed",
+        "Flight": "EJU5191",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "2674647c-1376-479b-9c93-87cb0b715a20",
+        "InterviewEndDate": "2023-04-18 08:02:31",
+        "InterviewState": "Completed",
+        "Flight": "EJU5191",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "037b4369-7369-4537-bb46-7523c5ba45b9",
+        "InterviewEndDate": "2023-04-18 08:11:07",
+        "InterviewState": "Completed",
+        "Flight": "EJU5191",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "140dcc14-137b-468f-981f-a778efa9c806",
+        "InterviewEndDate": "2023-04-18 08:13:40",
+        "InterviewState": "Completed",
+        "Flight": "EJU5191",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "5e8f0437-504c-470a-9e73-dce046b362c5",
+        "InterviewEndDate": "2023-04-18 08:10:38",
+        "InterviewState": "Completed",
+        "Flight": "EJU5191",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "4a7d44be-b448-4ab8-8d4c-3b5439585eeb",
+        "InterviewEndDate": "2023-04-18 08:15:35",
+        "InterviewState": "Completed",
+        "Flight": "EJU5191",
+        "Dest": "Basel (BSL)",
         "AirlineCode": "easyJet Europe",
         "InterviewerID": 11
     }
