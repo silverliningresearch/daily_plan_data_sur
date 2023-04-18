@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "18-04-2023 17:45:24"
+        "download_time": "18-04-2023 17:55:33"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -10783,15 +10783,6 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
-        "InterviewId": "77d75f48-d782-49e2-b65a-b4da67107942",
-        "InterviewEndDate": "2023-04-06 11:27:29",
-        "InterviewState": "Completed",
-        "Flight": "SN3597",
-        "Dest": "MRS",
-        "AirlineCode": "",
-        "InterviewerID": 5
-    },
-    {
         "InterviewId": "60574eaa-de7f-4dc3-81af-644b1f0e47c1",
         "InterviewEndDate": "2023-04-06 11:34:07",
         "InterviewState": "Completed",
@@ -17974,6 +17965,15 @@ let interview_data_raw = `[
         "InterviewerID": 8
     },
     {
+        "InterviewId": "7a8bca1b-98cd-4de3-8ad3-a1de9627d895",
+        "InterviewEndDate": "2023-04-18 18:54:11",
+        "InterviewState": "Completed",
+        "Flight": "FR1453",
+        "Dest": "DUB",
+        "AirlineCode": "",
+        "InterviewerID": 8
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -19416,6 +19416,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "ac2038cb-10dd-4656-8a6f-eb4c62ac6c1e",
         "InterviewEndDate": "2023-04-06 11:21:35",
+        "InterviewState": "Completed",
+        "Flight": "SN3597",
+        "Dest": "MRS",
+        "AirlineCode": "",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "77d75f48-d782-49e2-b65a-b4da67107942",
+        "InterviewEndDate": "2023-04-06 11:27:29",
         "InterviewState": "Completed",
         "Flight": "SN3597",
         "Dest": "MRS",
@@ -25881,6 +25890,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "XQ551",
         "Dest": "AYT",
+        "AirlineCode": "",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "8d2ceb65-739f-4857-9a35-ec8e6da090c9",
+        "InterviewEndDate": "2023-04-18 18:55:06",
+        "InterviewState": "Completed",
+        "Flight": "FR1453",
+        "Dest": "DUB",
         "AirlineCode": "",
         "InterviewerID": 8
     }
