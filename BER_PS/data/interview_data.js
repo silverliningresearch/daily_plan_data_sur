@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "18-04-2023 08:34:14"
+        "download_time": "18-04-2023 08:55:49"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6226,6 +6226,24 @@ let interview_data_raw = `[
         "Flight": "KL 1822",
         "Dest": "Amsterdam (AMS)",
         "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "ba09d8e1-2a50-4624-a74d-3fb9613033f9",
+        "InterviewEndDate": "2023-04-18 09:38:08",
+        "InterviewState": "Completed",
+        "Flight": "LH  181",
+        "Dest": "Frankfurt (FRA)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "5244dac2-4b11-4c80-b57b-19a652b536b4",
+        "InterviewEndDate": "2023-04-18 09:41:44",
+        "InterviewState": "Completed",
+        "Flight": "LH  181",
+        "Dest": "Frankfurt (FRA)",
+        "AirlineCode": "Lufthansa",
         "InterviewerID": 11
     }
 ]    
