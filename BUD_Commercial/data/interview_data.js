@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "18-04-2023 09:55:11"
+        "download_time": "18-04-2023 10:55:10"
     },
     {
         "InterviewId": "b199a7b9-5e60-40b9-a4ea-4fa385bb46c5",
@@ -613,6 +613,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "f79d02b2-860e-4393-b908-2e5209855573",
+        "InterviewEndDate": "2023-04-18 11:10:17",
+        "InterviewState": "Completed",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "b98274cb-19d0-4335-a7a5-24d14e4384a3",
         "InterviewEndDate": "2023-04-17 12:16:51",
         "InterviewState": "Completed",
@@ -727,6 +736,96 @@ let interview_data_raw = `[
         "Flight": "EW 9785",
         "Dest": "DUS",
         "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d774af74-28b8-45bb-bdf0-1992b6eb0f43",
+        "InterviewEndDate": "2023-04-18 11:52:46",
+        "InterviewState": "Completed",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "2fa75139-5e4c-4ec8-a258-8740a46d8674",
+        "InterviewEndDate": "2023-04-18 11:50:24",
+        "InterviewState": "Completed",
+        "Flight": "KL 1974",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "73c81f5c-e851-4f03-a39c-94cc2a0e98cb",
+        "InterviewEndDate": "2023-04-18 11:05:12",
+        "InterviewState": "Completed",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "423cb5a9-251e-462c-a54f-d0c890487675",
+        "InterviewEndDate": "2023-04-18 11:19:12",
+        "InterviewState": "Completed",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "efd1443e-9257-4043-9143-65a7f1e0e0e3",
+        "InterviewEndDate": "2023-04-18 11:17:33",
+        "InterviewState": "Completed",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "06b1ab81-2b1e-45d6-bfb7-20951e837e29",
+        "InterviewEndDate": "2023-04-18 11:19:25",
+        "InterviewState": "Completed",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "e4e61aca-9a03-4864-a739-3edcacb62f94",
+        "InterviewEndDate": "2023-04-18 11:19:50",
+        "InterviewState": "Completed",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "6efc73c2-4dfa-4ec3-88d0-4417bd90ca33",
+        "InterviewEndDate": "2023-04-18 11:18:23",
+        "InterviewState": "Completed",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "b056cba8-f6d2-4630-a293-f92bf3080d16",
+        "InterviewEndDate": "2023-04-18 11:21:43",
+        "InterviewState": "Completed",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "96b1867a-30ad-4216-881c-e0ff6058936a",
+        "InterviewEndDate": "2023-04-18 11:19:54",
+        "InterviewState": "Completed",
+        "Flight": "W6 2359",
+        "Dest": "NAP",
+        "AirlineCode": "W6",
         "InterviewerID": 1
     }
 ]    
