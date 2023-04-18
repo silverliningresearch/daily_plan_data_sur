@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "ICN",
         "AirlineCode": "SQ",
         "InterviewerID": "",
-        "download_time": "18-04-2023 11:39:54"
+        "download_time": "18-04-2023 12:34:25"
     },
     {
         "InterviewId": "5d6ec32f-9ea1-46a6-9dde-80f9433a55b4",
@@ -5419,15 +5419,6 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
-        "InterviewId": "854f9ab6-2967-4058-aace-8930a88abf32",
-        "InterviewEndDate": "2023-04-09 02:16:03",
-        "InterviewState": "Completed",
-        "Flight": "2",
-        "Dest": "SYD",
-        "AirlineCode": "TR",
-        "InterviewerID": ""
-    },
-    {
         "InterviewId": "c2c9d5a5-ecdd-4355-957d-40973ddce435",
         "InterviewEndDate": "2023-04-09 02:16:13",
         "InterviewState": "Completed",
@@ -8997,6 +8988,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "878",
         "Dest": "TPE",
+        "AirlineCode": "SQ",
+        "InterviewerID": ""
+    },
+    {
+        "InterviewId": "f573a2ec-4a5d-4fc3-98c8-37efddf7ecb9",
+        "InterviewEndDate": "2023-04-18 12:39:50",
+        "InterviewState": "Completed",
+        "Flight": "318",
+        "Dest": "LHR",
         "AirlineCode": "SQ",
         "InterviewerID": ""
     },
@@ -13888,6 +13888,15 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
+        "InterviewId": "854f9ab6-2967-4058-aace-8930a88abf32",
+        "InterviewEndDate": "2023-04-09 02:16:03",
+        "InterviewState": "Completed",
+        "Flight": "2",
+        "Dest": "SYD",
+        "AirlineCode": "TR",
+        "InterviewerID": ""
+    },
+    {
         "InterviewId": "81bea4d8-7035-4266-8b2c-8a7f8418550d",
         "InterviewEndDate": "2023-04-09 02:50:24",
         "InterviewState": "Completed",
@@ -16788,6 +16797,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "d886da8c-9c98-44a2-ab68-920ef9f92480",
         "InterviewEndDate": "2023-04-18 12:34:57",
+        "InterviewState": "Completed",
+        "Flight": "318",
+        "Dest": "LHR",
+        "AirlineCode": "SQ",
+        "InterviewerID": ""
+    },
+    {
+        "InterviewId": "a92e0796-77be-4b72-b816-8d28466732f5",
+        "InterviewEndDate": "2023-04-18 12:41:35",
         "InterviewState": "Completed",
         "Flight": "318",
         "Dest": "LHR",
