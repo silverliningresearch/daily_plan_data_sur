@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "18-04-2023 09:55:37"
+        "download_time": "18-04-2023 10:55:37"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6244,6 +6244,42 @@ let interview_data_raw = `[
         "Flight": "LH  181",
         "Dest": "Frankfurt (FRA)",
         "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "a2dd4523-4408-4c65-8b85-21a7937871af",
+        "InterviewEndDate": "2023-04-18 11:45:38",
+        "InterviewState": "Completed",
+        "Flight": "FR 3309",
+        "Dest": "Bari (BRI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "ae7a6da6-9b8f-4c4e-9823-7f54da637de8",
+        "InterviewEndDate": "2023-04-18 11:30:45",
+        "InterviewState": "Completed",
+        "Flight": "FR 3309",
+        "Dest": "Bari (BRI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "88bf257f-e428-41bf-b9d9-16163c73f04e",
+        "InterviewEndDate": "2023-04-18 11:30:15",
+        "InterviewState": "Completed",
+        "Flight": "FR 3309",
+        "Dest": "Bari (BRI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "8d82e2e8-9d1a-4f74-87c6-2dae7942d378",
+        "InterviewEndDate": "2023-04-18 11:53:32",
+        "InterviewState": "Completed",
+        "Flight": "FR 3309",
+        "Dest": "Bari (BRI)",
+        "AirlineCode": "Ryanair",
         "InterviewerID": 11
     }
 ]    
