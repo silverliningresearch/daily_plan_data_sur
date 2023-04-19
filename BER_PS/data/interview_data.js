@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 07:30:59"
+        "download_time": "19-04-2023 08:29:57"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6334,6 +6334,33 @@ let interview_data_raw = `[
         "Flight": "FR 3311",
         "Dest": "Mailand (BGY)",
         "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "f02128ab-e0b6-4522-8a79-b8d617ba1c71",
+        "InterviewEndDate": "2023-04-19 09:25:56",
+        "InterviewState": "Completed",
+        "Flight": "LH 1929",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "82d8bb57-c3ea-4532-b39d-c118c1980db7",
+        "InterviewEndDate": "2023-04-19 08:58:40",
+        "InterviewState": "Completed",
+        "Flight": "LH 1929",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "dcdd582a-df4e-4d39-89ff-76b1ea935d2c",
+        "InterviewEndDate": "2023-04-19 08:57:38",
+        "InterviewState": "Completed",
+        "Flight": "LH 1929",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
         "InterviewerID": 11
     }
 ]    
