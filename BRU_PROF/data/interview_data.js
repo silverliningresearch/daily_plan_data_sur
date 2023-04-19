@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "19-04-2023 09:24:49"
+        "download_time": "19-04-2023 09:34:51"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -9424,15 +9424,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "2819d5fa-b47f-4e89-8ea8-ad09d12c5287",
-        "InterviewEndDate": "2023-04-03 16:29:29",
-        "InterviewState": "Completed",
-        "Flight": "SK1594",
-        "Dest": "CPH",
-        "AirlineCode": "",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "0abf919a-951b-4db4-8c60-89a7f0bffc41",
         "InterviewEndDate": "2023-04-03 16:52:45",
         "InterviewState": "Completed",
@@ -17974,6 +17965,15 @@ let interview_data_raw = `[
         "InterviewerID": 4
     },
     {
+        "InterviewId": "e73bf61e-442e-48b2-88c8-6a75f5a16aa0",
+        "InterviewEndDate": "2023-04-19 10:26:37",
+        "InterviewState": "Completed",
+        "Flight": "SN2173",
+        "Dest": "MAN",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -18474,6 +18474,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "KL1726",
         "Dest": "AMS",
+        "AirlineCode": "",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "2819d5fa-b47f-4e89-8ea8-ad09d12c5287",
+        "InterviewEndDate": "2023-04-03 16:29:29",
+        "InterviewState": "Completed",
+        "Flight": "SK1594",
+        "Dest": "CPH",
         "AirlineCode": "",
         "InterviewerID": 1
     },
@@ -26853,6 +26862,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "SN2093",
         "Dest": "LHR",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
+        "InterviewId": "d2d9683d-0107-40ef-bf1a-ff79799a2643",
+        "InterviewEndDate": "2023-04-19 10:29:29",
+        "InterviewState": "Completed",
+        "Flight": "SN2173",
+        "Dest": "MAN",
         "AirlineCode": "",
         "InterviewerID": 4
     }
