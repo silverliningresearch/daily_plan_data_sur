@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 09:28:56"
+        "download_time": "19-04-2023 10:27:56"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6454,12 +6454,93 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "77b5d86e-1d50-4af9-a32f-345e6b9ac9c8",
+        "InterviewEndDate": "2023-04-19 11:12:33",
+        "InterviewState": "Completed",
+        "Flight": "A3  821",
+        "Dest": "Athen (ATH)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "24eec58f-f929-4d1f-9f59-1b7b0527c319",
+        "InterviewEndDate": "2023-04-19 11:00:15",
+        "InterviewState": "Completed",
+        "Flight": "A3  821",
+        "Dest": "Athen (ATH)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "3b3ddb9c-f6ca-411f-be53-85f4ac35773a",
+        "InterviewEndDate": "2023-04-19 11:10:38",
+        "InterviewState": "Completed",
+        "Flight": "A3  821",
+        "Dest": "Athen (ATH)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "dc993864-37f8-4ef1-9b16-1a142f983ed8",
         "InterviewEndDate": "2023-04-19 10:23:12",
         "InterviewState": "Completed",
         "Flight": "EJU4266",
         "Dest": "Neapel (NAP)",
         "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "c45e0f8b-debd-4246-a789-a85f0a7d6106",
+        "InterviewEndDate": "2023-04-19 11:16:09",
+        "InterviewState": "Completed",
+        "Flight": "A3  821",
+        "Dest": "Athen (ATH)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "f08b6159-308a-448f-bd57-3930b45e57cf",
+        "InterviewEndDate": "2023-04-19 11:19:49",
+        "InterviewState": "Completed",
+        "Flight": "A3  821",
+        "Dest": "Athen (ATH)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "0b5cfd09-32bd-4489-8b60-15d53030ba89",
+        "InterviewEndDate": "2023-04-19 10:55:21",
+        "InterviewState": "Completed",
+        "Flight": "A3  821",
+        "Dest": "Athen (ATH)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "9c6a0a6e-756e-4c73-bb2e-7f8be373ff13",
+        "InterviewEndDate": "2023-04-19 11:16:03",
+        "InterviewState": "Completed",
+        "Flight": "A3  821",
+        "Dest": "Athen (ATH)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "1cc88971-9e56-4885-9f64-aa3f16b9b9a5",
+        "InterviewEndDate": "2023-04-19 11:13:22",
+        "InterviewState": "Completed",
+        "Flight": "A3  821",
+        "Dest": "Athen (ATH)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "c9534b35-9fb0-4022-b919-9e3662126c82",
+        "InterviewEndDate": "2023-04-19 11:20:18",
+        "InterviewState": "Completed",
+        "Flight": "A3  821",
+        "Dest": "Athen (ATH)",
+        "AirlineCode": "Aegean Airlines",
         "InterviewerID": 11
     }
 ]    
