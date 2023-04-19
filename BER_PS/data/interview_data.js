@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 11:26:56"
+        "download_time": "19-04-2023 12:25:56"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6544,6 +6544,24 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "a90a2adb-1ad6-4e3c-9624-a0a10124e7fc",
+        "InterviewEndDate": "2023-04-19 13:09:35",
+        "InterviewState": "Completed",
+        "Flight": "EW 9047",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "8053a269-90ce-44fb-93e0-690eca4a8b8d",
+        "InterviewEndDate": "2023-04-19 13:22:11",
+        "InterviewState": "Completed",
+        "Flight": "EW 9047",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "8328860d-5bc7-4ec7-888d-16381cc6551c",
         "InterviewEndDate": "2023-04-19 12:05:05",
         "InterviewState": "Completed",
@@ -6586,6 +6604,24 @@ let interview_data_raw = `[
         "Flight": "EJU5283",
         "Dest": "Amsterdam (AMS)",
         "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "f4fc24db-1597-4c8d-9ee0-2840ba941ef1",
+        "InterviewEndDate": "2023-04-19 13:18:59",
+        "InterviewState": "Completed",
+        "Flight": "EW 9047",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "b922345a-0747-49e6-b89d-ef7fa9840a23",
+        "InterviewEndDate": "2023-04-19 13:20:01",
+        "InterviewState": "Completed",
+        "Flight": "EW 9047",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
         "InterviewerID": 11
     }
 ]    
