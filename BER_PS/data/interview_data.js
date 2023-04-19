@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 18:19:56"
+        "download_time": "19-04-2023 19:18:56"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6949,12 +6949,102 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "3c57e989-ce3a-4df9-ab22-11e1b7c591fc",
+        "InterviewEndDate": "2023-04-19 19:26:42",
+        "InterviewState": "Completed",
+        "Flight": "LH 1947",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "bce11193-7f61-461e-8f94-fcaed230dc15",
+        "InterviewEndDate": "2023-04-19 19:40:18",
+        "InterviewState": "Completed",
+        "Flight": "N0  601",
+        "Dest": "New York (JFK)",
+        "AirlineCode": "Norse Atlantic Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "fbe34fe4-29cd-436c-9678-88c81a769741",
+        "InterviewEndDate": "2023-04-19 19:34:54",
+        "InterviewState": "Completed",
+        "Flight": "N0  601",
+        "Dest": "New York (JFK)",
+        "AirlineCode": "Norse Atlantic Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "eb258067-1043-41d5-84af-352cf02719c0",
+        "InterviewEndDate": "2023-04-19 19:57:30",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "4d493cf9-7a27-4f65-a3ba-1aaf0b0e7b86",
+        "InterviewEndDate": "2023-04-19 19:30:52",
+        "InterviewState": "Completed",
+        "Flight": "N0  601",
+        "Dest": "New York (JFK)",
+        "AirlineCode": "Norse Atlantic Airways",
+        "InterviewerID": 12
+    },
+    {
         "InterviewId": "eb82ca04-46a9-40d0-ba06-3e55bc82698b",
         "InterviewEndDate": "2023-04-19 19:17:43",
         "InterviewState": "Completed",
         "Flight": "N0  601",
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "23cb1fee-7d28-49ed-ac2c-e9f353abe829",
+        "InterviewEndDate": "2023-04-19 20:07:42",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "a3febe6f-2b3c-4a1f-a213-8d528f0ad235",
+        "InterviewEndDate": "2023-04-19 20:09:38",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "3775ac19-e17b-4e79-97a4-c3288b44813d",
+        "InterviewEndDate": "2023-04-19 20:05:40",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "3116dd28-4c3f-4713-859a-23f3d1d36a7c",
+        "InterviewEndDate": "2023-04-19 19:58:20",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "30686769-e744-4144-9d9d-12bb3d903555",
+        "InterviewEndDate": "2023-04-19 20:15:40",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
         "InterviewerID": 12
     }
 ]    
