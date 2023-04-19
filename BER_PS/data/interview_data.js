@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 19:18:56"
+        "download_time": "19-04-2023 20:17:56"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7039,12 +7039,111 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "38c8f4bc-5677-4fb4-ba2d-08f50805297c",
+        "InterviewEndDate": "2023-04-19 20:23:12",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "fd1981b1-d4e5-464e-96e8-a7a6809a940e",
+        "InterviewEndDate": "2023-04-19 20:27:20",
+        "InterviewState": "Completed",
+        "Flight": "FR  162",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 12
+    },
+    {
         "InterviewId": "30686769-e744-4144-9d9d-12bb3d903555",
         "InterviewEndDate": "2023-04-19 20:15:40",
         "InterviewState": "Completed",
         "Flight": "SN 2588",
         "Dest": "Br\u00fcssel (BRU)",
         "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "f039e651-2767-4200-800b-405e4e5758bf",
+        "InterviewEndDate": "2023-04-19 20:37:19",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "da2a2b96-9152-4ce4-9022-4f70c595717c",
+        "InterviewEndDate": "2023-04-19 20:30:04",
+        "InterviewState": "Completed",
+        "Flight": "OS  236",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "6901cb80-7462-49ff-89ad-7bcbd125a6a1",
+        "InterviewEndDate": "2023-04-19 20:42:50",
+        "InterviewState": "Completed",
+        "Flight": "OS  236",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "e9a7f3b5-7968-43ea-a1d3-697893f724e5",
+        "InterviewEndDate": "2023-04-19 20:44:03",
+        "InterviewState": "Completed",
+        "Flight": "OS  236",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "9d656ece-79cc-4967-ae9d-01b428f9cb15",
+        "InterviewEndDate": "2023-04-19 21:10:08",
+        "InterviewState": "Completed",
+        "Flight": "OS  236",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "5c5b6f46-f0db-4b75-ab6b-d2fb7c89868a",
+        "InterviewEndDate": "2023-04-19 21:16:38",
+        "InterviewState": "Completed",
+        "Flight": "OS  236",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "aad8358f-8f4f-47bc-93bb-dc71eecd2419",
+        "InterviewEndDate": "2023-04-19 21:14:53",
+        "InterviewState": "Completed",
+        "Flight": "OS  236",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "bad99eee-5105-4cba-a545-bc22436b988b",
+        "InterviewEndDate": "2023-04-19 21:07:51",
+        "InterviewState": "Completed",
+        "Flight": "OS  236",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "95550b95-0a74-4075-a6f6-e148bf2849e6",
+        "InterviewEndDate": "2023-04-19 21:02:16",
+        "InterviewState": "Completed",
+        "Flight": "OS  236",
+        "Dest": "Wien (VIE)",
+        "AirlineCode": "Austrian Airlines",
         "InterviewerID": 12
     }
 ]    
