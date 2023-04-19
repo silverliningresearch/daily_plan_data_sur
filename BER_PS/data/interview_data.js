@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 17:20:55"
+        "download_time": "19-04-2023 18:19:56"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6859,6 +6859,15 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "629f96ec-9729-4504-a90f-9bcaffb29ade",
+        "InterviewEndDate": "2023-04-19 18:35:10",
+        "InterviewState": "Completed",
+        "Flight": "LH 1947",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 12
+    },
+    {
         "InterviewId": "e61cc991-50ea-42c1-9e14-aeee6b91a1a6",
         "InterviewEndDate": "2023-04-19 17:43:16",
         "InterviewState": "Completed",
@@ -6892,6 +6901,60 @@ let interview_data_raw = `[
         "Flight": "TK 1726",
         "Dest": "Istanbul (IST)",
         "AirlineCode": "Turkish Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "cecc1219-bd75-4e29-a1ac-2948c617df61",
+        "InterviewEndDate": "2023-04-19 18:42:55",
+        "InterviewState": "Completed",
+        "Flight": "LH 1947",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "7ffdbf30-73fb-4fe9-9bcd-beec6ad7d18b",
+        "InterviewEndDate": "2023-04-19 18:40:18",
+        "InterviewState": "Completed",
+        "Flight": "LH 1947",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "75614acb-6599-4f81-ad77-f4e9140321f5",
+        "InterviewEndDate": "2023-04-19 18:47:11",
+        "InterviewState": "Completed",
+        "Flight": "LH 1947",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "9a17d508-7e90-4713-8e8b-963158821d91",
+        "InterviewEndDate": "2023-04-19 18:35:23",
+        "InterviewState": "Completed",
+        "Flight": "LH 1947",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "cf1700b3-1c81-408e-96d3-b9e307d20b22",
+        "InterviewEndDate": "2023-04-19 19:11:14",
+        "InterviewState": "Completed",
+        "Flight": "LH 1947",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "eb82ca04-46a9-40d0-ba06-3e55bc82698b",
+        "InterviewEndDate": "2023-04-19 19:17:43",
+        "InterviewState": "Completed",
+        "Flight": "N0  601",
+        "Dest": "New York (JFK)",
+        "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12
     }
 ]    
