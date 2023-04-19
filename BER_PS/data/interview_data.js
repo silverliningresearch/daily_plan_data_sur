@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 08:29:57"
+        "download_time": "19-04-2023 09:28:56"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6337,6 +6337,15 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "08450782-7331-47ce-aee4-7970224ca3e6",
+        "InterviewEndDate": "2023-04-19 09:32:48",
+        "InterviewState": "Completed",
+        "Flight": "LH 1929",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "f02128ab-e0b6-4522-8a79-b8d617ba1c71",
         "InterviewEndDate": "2023-04-19 09:25:56",
         "InterviewState": "Completed",
@@ -6361,6 +6370,96 @@ let interview_data_raw = `[
         "Flight": "LH 1929",
         "Dest": "M\u00fcnchen (MUC)",
         "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "efdaeb1e-e85a-4e2e-881b-5691320946d0",
+        "InterviewEndDate": "2023-04-19 09:51:16",
+        "InterviewState": "Completed",
+        "Flight": "EJU4266",
+        "Dest": "Neapel (NAP)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "3a7bf0ea-ed88-45b2-9698-a6e2de0fb93b",
+        "InterviewEndDate": "2023-04-19 09:50:28",
+        "InterviewState": "Completed",
+        "Flight": "EJU4266",
+        "Dest": "Neapel (NAP)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "49415ed5-b08b-4a9b-8c32-4b94828a5ffe",
+        "InterviewEndDate": "2023-04-19 10:03:44",
+        "InterviewState": "Completed",
+        "Flight": "EJU4266",
+        "Dest": "Neapel (NAP)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "64611224-7733-49e5-b336-a63412b478d3",
+        "InterviewEndDate": "2023-04-19 09:56:33",
+        "InterviewState": "Completed",
+        "Flight": "EJU4266",
+        "Dest": "Neapel (NAP)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "8b737cce-05a9-43d8-a33a-6d4b18812f3b",
+        "InterviewEndDate": "2023-04-19 10:09:37",
+        "InterviewState": "Completed",
+        "Flight": "EJU4266",
+        "Dest": "Neapel (NAP)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "7f9d1c17-87ba-4219-b13e-6723b6ab23fe",
+        "InterviewEndDate": "2023-04-19 10:00:15",
+        "InterviewState": "Completed",
+        "Flight": "EJU4266",
+        "Dest": "Neapel (NAP)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "41810811-f594-435e-a58b-e676027d511d",
+        "InterviewEndDate": "2023-04-19 10:05:39",
+        "InterviewState": "Completed",
+        "Flight": "EJU4266",
+        "Dest": "Neapel (NAP)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "a35ab791-9802-4286-9a25-2f696f7be513",
+        "InterviewEndDate": "2023-04-19 10:07:56",
+        "InterviewState": "Completed",
+        "Flight": "EJU4266",
+        "Dest": "Neapel (NAP)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "a774426f-063b-46c6-a5d7-5762acbcb57e",
+        "InterviewEndDate": "2023-04-19 10:07:13",
+        "InterviewState": "Completed",
+        "Flight": "EJU4266",
+        "Dest": "Neapel (NAP)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "dc993864-37f8-4ef1-9b16-1a142f983ed8",
+        "InterviewEndDate": "2023-04-19 10:23:12",
+        "InterviewState": "Completed",
+        "Flight": "EJU4266",
+        "Dest": "Neapel (NAP)",
+        "AirlineCode": "easyJet Europe",
         "InterviewerID": 11
     }
 ]    
