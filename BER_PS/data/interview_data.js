@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 12:25:56"
+        "download_time": "19-04-2023 13:25:01"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6607,8 +6607,26 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "7a53299f-a1a2-4c22-8356-d8d3d672dc3b",
+        "InterviewEndDate": "2023-04-19 13:53:03",
+        "InterviewState": "Completed",
+        "Flight": "EW 9047",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "f4fc24db-1597-4c8d-9ee0-2840ba941ef1",
         "InterviewEndDate": "2023-04-19 13:18:59",
+        "InterviewState": "Completed",
+        "Flight": "EW 9047",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "1691c695-a5b1-4ceb-b5da-0c9995795a22",
+        "InterviewEndDate": "2023-04-19 13:26:02",
         "InterviewState": "Completed",
         "Flight": "EW 9047",
         "Dest": "D\u00fcsseldorf (DUS)",
@@ -6622,6 +6640,78 @@ let interview_data_raw = `[
         "Flight": "EW 9047",
         "Dest": "D\u00fcsseldorf (DUS)",
         "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "bd61b403-ec67-4f7e-ad08-54b3ff1748ae",
+        "InterviewEndDate": "2023-04-19 13:27:33",
+        "InterviewState": "Completed",
+        "Flight": "EW 9047",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "bff8f210-fd3f-4ba2-b627-2f6e0a5a45a8",
+        "InterviewEndDate": "2023-04-19 13:57:07",
+        "InterviewState": "Completed",
+        "Flight": "FI  529",
+        "Dest": "Reykjavik (KEF)",
+        "AirlineCode": "Icelandair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "1261c2e1-2b42-4ac1-82a3-3a09c91b6d7b",
+        "InterviewEndDate": "2023-04-19 14:00:03",
+        "InterviewState": "Completed",
+        "Flight": "FI  529",
+        "Dest": "Reykjavik (KEF)",
+        "AirlineCode": "Icelandair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "df4cd318-5939-40aa-b381-e1a26c9f31d7",
+        "InterviewEndDate": "2023-04-19 14:07:49",
+        "InterviewState": "Completed",
+        "Flight": "FI  529",
+        "Dest": "Reykjavik (KEF)",
+        "AirlineCode": "Icelandair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "0fe0952b-c844-46bd-a57f-6311f078f2ed",
+        "InterviewEndDate": "2023-04-19 14:04:38",
+        "InterviewState": "Completed",
+        "Flight": "FI  529",
+        "Dest": "Reykjavik (KEF)",
+        "AirlineCode": "Icelandair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "8ea22bbf-a6d4-4e61-b03b-3de65d3431cc",
+        "InterviewEndDate": "2023-04-19 14:09:13",
+        "InterviewState": "Completed",
+        "Flight": "FI  529",
+        "Dest": "Reykjavik (KEF)",
+        "AirlineCode": "Icelandair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "6126fb7a-e25b-46f1-b719-bc40c077575e",
+        "InterviewEndDate": "2023-04-19 14:19:37",
+        "InterviewState": "Completed",
+        "Flight": "EJU5071",
+        "Dest": "Mailand (LIN)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "25454198-68b6-4369-8c3a-86d422b8dbe1",
+        "InterviewEndDate": "2023-04-19 14:24:19",
+        "InterviewState": "Completed",
+        "Flight": "EJU5071",
+        "Dest": "Mailand (LIN)",
+        "AirlineCode": "easyJet Europe",
         "InterviewerID": 11
     }
 ]    
