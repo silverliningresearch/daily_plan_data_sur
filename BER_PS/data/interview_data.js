@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 13:25:01"
+        "download_time": "19-04-2023 14:23:56"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6679,6 +6679,15 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "2f5c6245-de96-4271-ac4b-40af8e0ca9f0",
+        "InterviewEndDate": "2023-04-19 15:23:30",
+        "InterviewState": "Completed",
+        "Flight": "EW  051",
+        "Dest": "K\u00f6ln (CGN)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "0fe0952b-c844-46bd-a57f-6311f078f2ed",
         "InterviewEndDate": "2023-04-19 14:04:38",
         "InterviewState": "Completed",
@@ -6697,6 +6706,24 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "fd6ef318-993f-4c73-9a29-04785ee436c2",
+        "InterviewEndDate": "2023-04-19 14:54:57",
+        "InterviewState": "Completed",
+        "Flight": "EW  051",
+        "Dest": "K\u00f6ln (CGN)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "ff9d994a-11f4-4810-ae02-3de93de6e38b",
+        "InterviewEndDate": "2023-04-19 15:00:47",
+        "InterviewState": "Completed",
+        "Flight": "EW  051",
+        "Dest": "K\u00f6ln (CGN)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "6126fb7a-e25b-46f1-b719-bc40c077575e",
         "InterviewEndDate": "2023-04-19 14:19:37",
         "InterviewState": "Completed",
@@ -6712,6 +6739,42 @@ let interview_data_raw = `[
         "Flight": "EJU5071",
         "Dest": "Mailand (LIN)",
         "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "3c18e70d-cc21-472c-b54d-b70e86544bb4",
+        "InterviewEndDate": "2023-04-19 14:30:50",
+        "InterviewState": "Completed",
+        "Flight": "EJU5071",
+        "Dest": "Mailand (LIN)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "c821b0d7-350d-47f2-88d6-eadeacbd4059",
+        "InterviewEndDate": "2023-04-19 14:49:43",
+        "InterviewState": "Completed",
+        "Flight": "EW  051",
+        "Dest": "K\u00f6ln (CGN)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "dfd2b07b-9395-416a-95a9-ae10fb9d8df8",
+        "InterviewEndDate": "2023-04-19 15:11:03",
+        "InterviewState": "Completed",
+        "Flight": "EW  051",
+        "Dest": "K\u00f6ln (CGN)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "0405da19-3781-4c5a-8cc1-a458ad805e60",
+        "InterviewEndDate": "2023-04-19 15:20:28",
+        "InterviewState": "Completed",
+        "Flight": "EW  051",
+        "Dest": "K\u00f6ln (CGN)",
+        "AirlineCode": "Eurowings",
         "InterviewerID": 11
     }
 ]    
