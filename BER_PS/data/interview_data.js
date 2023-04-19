@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 20:17:56"
+        "download_time": "19-04-2023 21:16:58"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7144,6 +7144,105 @@ let interview_data_raw = `[
         "Flight": "OS  236",
         "Dest": "Wien (VIE)",
         "AirlineCode": "Austrian Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "abbcfdf1-ae75-4504-89b2-68fcfb424d95",
+        "InterviewEndDate": "2023-04-19 21:54:38",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "45d07487-fe22-48c3-9118-1967df9e921a",
+        "InterviewEndDate": "2023-04-19 21:44:36",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "679fcc79-8ba3-470f-9bf4-b0efd3833a4d",
+        "InterviewEndDate": "2023-04-19 21:38:07",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "1e1cafbe-295c-49cb-88c9-5219aef877b6",
+        "InterviewEndDate": "2023-04-19 21:48:56",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "945b95b2-83c0-4ec7-b5fe-a30826b069f2",
+        "InterviewEndDate": "2023-04-19 21:42:55",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "ca23c8f4-e344-47c0-924a-32ec98ed6ada",
+        "InterviewEndDate": "2023-04-19 21:49:54",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "431aa532-dafc-466a-b912-ce68621ab080",
+        "InterviewEndDate": "2023-04-19 22:10:10",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "309a3540-12fd-48b5-8016-06fd0dbbc733",
+        "InterviewEndDate": "2023-04-19 21:54:29",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "dacb70cc-6a0a-4924-9c40-e4c55897c4a8",
+        "InterviewEndDate": "2023-04-19 22:06:11",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "07d67b87-194d-445d-b128-9c43c0dc3754",
+        "InterviewEndDate": "2023-04-19 22:05:36",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "8a77a174-a2c1-4a88-b33e-2b51ec6c7e12",
+        "InterviewEndDate": "2023-04-19 22:11:02",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
         "InterviewerID": 12
     }
 ]    
