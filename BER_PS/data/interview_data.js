@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 21:16:58"
+        "download_time": "19-04-2023 22:15:55"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7237,12 +7237,102 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "ddc42a84-21cf-4a19-b311-fb66acb389c5",
+        "InterviewEndDate": "2023-04-19 22:27:40",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
         "InterviewId": "8a77a174-a2c1-4a88-b33e-2b51ec6c7e12",
         "InterviewEndDate": "2023-04-19 22:11:02",
         "InterviewState": "Completed",
         "Flight": "BA  995",
         "Dest": "London (LHR)",
         "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "20280767-4cd3-4a73-8b6c-c3e257f62fd2",
+        "InterviewEndDate": "2023-04-19 22:28:32",
+        "InterviewState": "Completed",
+        "Flight": "XM  211",
+        "Dest": "Dublin (DUB)",
+        "AirlineCode": "Zimex Aviation",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "0da6d10b-a29c-4500-a040-0feae8de3ac7",
+        "InterviewEndDate": "2023-04-19 22:27:04",
+        "InterviewState": "Completed",
+        "Flight": "EI  337",
+        "Dest": "Dublin (DUB)",
+        "AirlineCode": "Aer Lingus",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "a92bb8a9-ca3e-4853-8c23-040a6f19a294",
+        "InterviewEndDate": "2023-04-19 22:33:13",
+        "InterviewState": "Completed",
+        "Flight": "EI  337",
+        "Dest": "Dublin (DUB)",
+        "AirlineCode": "Aer Lingus",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "d79a21b2-2e49-44c0-93ba-ea41818ef00e",
+        "InterviewEndDate": "2023-04-19 22:30:26",
+        "InterviewState": "Completed",
+        "Flight": "EI  337",
+        "Dest": "Dublin (DUB)",
+        "AirlineCode": "Aer Lingus",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "a30ef969-6769-41d7-88e0-bb568fdb0f04",
+        "InterviewEndDate": "2023-04-19 22:47:05",
+        "InterviewState": "Completed",
+        "Flight": "EI  337",
+        "Dest": "Dublin (DUB)",
+        "AirlineCode": "Aer Lingus",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "32127cfa-954f-48f5-8e9d-c97e57090943",
+        "InterviewEndDate": "2023-04-19 22:40:17",
+        "InterviewState": "Completed",
+        "Flight": "EI  337",
+        "Dest": "Dublin (DUB)",
+        "AirlineCode": "Aer Lingus",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "7b7c3e8d-ee5d-46fa-b681-4eb4df9ce225",
+        "InterviewEndDate": "2023-04-19 22:55:35",
+        "InterviewState": "Completed",
+        "Flight": "EI  337",
+        "Dest": "Dublin (DUB)",
+        "AirlineCode": "Aer Lingus",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "15ba6aac-0406-4fc4-867b-c3b3a60756e5",
+        "InterviewEndDate": "2023-04-19 22:45:10",
+        "InterviewState": "Completed",
+        "Flight": "EI  337",
+        "Dest": "Dublin (DUB)",
+        "AirlineCode": "Aer Lingus",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "720300f0-a86b-4a8f-9cbc-3c1cced7b060",
+        "InterviewEndDate": "2023-04-19 23:07:49",
+        "InterviewState": "Completed",
+        "Flight": "EI  337",
+        "Dest": "Dublin (DUB)",
+        "AirlineCode": "Aer Lingus",
         "InterviewerID": 12
     }
 ]    
