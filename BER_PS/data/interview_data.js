@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 16:21:58"
+        "download_time": "19-04-2023 17:20:55"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6856,6 +6856,42 @@ let interview_data_raw = `[
         "Flight": "QR  082",
         "Dest": "Doha (DOH)",
         "AirlineCode": "Qatar Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "e61cc991-50ea-42c1-9e14-aeee6b91a1a6",
+        "InterviewEndDate": "2023-04-19 17:43:16",
+        "InterviewState": "Completed",
+        "Flight": "TK 1726",
+        "Dest": "Istanbul (IST)",
+        "AirlineCode": "Turkish Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "c620fedd-8bd9-4fd1-b3b5-942ec4fecbd4",
+        "InterviewEndDate": "2023-04-19 17:47:48",
+        "InterviewState": "Completed",
+        "Flight": "TK 1726",
+        "Dest": "Istanbul (IST)",
+        "AirlineCode": "Turkish Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "b49a8005-a346-4f68-a33a-0d97638176ff",
+        "InterviewEndDate": "2023-04-19 17:55:30",
+        "InterviewState": "Completed",
+        "Flight": "TK 1726",
+        "Dest": "Istanbul (IST)",
+        "AirlineCode": "Turkish Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "379faa77-6eb0-44ad-86d9-86d276dfb479",
+        "InterviewEndDate": "2023-04-19 18:02:13",
+        "InterviewState": "Completed",
+        "Flight": "TK 1726",
+        "Dest": "Istanbul (IST)",
+        "AirlineCode": "Turkish Airlines",
         "InterviewerID": 12
     }
 ]    
