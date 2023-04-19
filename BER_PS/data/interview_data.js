@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "19-04-2023 10:27:56"
+        "download_time": "19-04-2023 11:26:56"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6541,6 +6541,51 @@ let interview_data_raw = `[
         "Flight": "A3  821",
         "Dest": "Athen (ATH)",
         "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "8328860d-5bc7-4ec7-888d-16381cc6551c",
+        "InterviewEndDate": "2023-04-19 12:05:05",
+        "InterviewState": "Completed",
+        "Flight": "EJU5283",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "af763581-08f4-4b09-be27-aa989e685951",
+        "InterviewEndDate": "2023-04-19 12:03:28",
+        "InterviewState": "Completed",
+        "Flight": "EJU5283",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "ee88bb32-dc14-4562-9177-881163600991",
+        "InterviewEndDate": "2023-04-19 12:05:48",
+        "InterviewState": "Completed",
+        "Flight": "EJU5283",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "0d4e6254-1048-4f75-aa46-fe1e8a3eadaf",
+        "InterviewEndDate": "2023-04-19 12:13:50",
+        "InterviewState": "Completed",
+        "Flight": "EJU5283",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "fe22140d-206b-4d57-9d7c-6bc2d7126fd6",
+        "InterviewEndDate": "2023-04-19 12:21:01",
+        "InterviewState": "Completed",
+        "Flight": "EJU5283",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "easyJet Europe",
         "InterviewerID": 11
     }
 ]    
