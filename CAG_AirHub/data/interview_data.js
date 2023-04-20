@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "ICN",
         "AirlineCode": "SQ",
         "InterviewerID": "",
-        "download_time": "20-04-2023 20:58:50"
+        "download_time": "20-04-2023 21:57:49"
     },
     {
         "InterviewId": "5d6ec32f-9ea1-46a6-9dde-80f9433a55b4",
@@ -17506,15 +17506,6 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
-        "InterviewId": "e4d25ab6-056c-4e77-85c7-ffc9accb6fa2",
-        "InterviewEndDate": "2023-04-18 18:01:42",
-        "InterviewState": "Completed",
-        "Flight": "9024",
-        "Dest": "SZX",
-        "AirlineCode": "ZH",
-        "InterviewerID": ""
-    },
-    {
         "InterviewId": "d96ac899-eaf4-41b9-be82-f8dba9004d8b",
         "InterviewEndDate": "2023-04-18 18:49:16",
         "InterviewState": "Completed",
@@ -17992,12 +17983,30 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
+        "InterviewId": "908327ea-464e-4e03-9b87-fe1bd465f7c5",
+        "InterviewEndDate": "2023-04-20 22:51:33",
+        "InterviewState": "Completed",
+        "Flight": "752",
+        "Dest": "ICN",
+        "AirlineCode": "OZ",
+        "InterviewerID": ""
+    },
+    {
         "InterviewId": "4a1625f7-0320-4adb-aa09-ffd5f536bc09",
         "InterviewEndDate": "2023-04-01 14:04:46",
         "InterviewState": "Completed",
         "Flight": "424",
         "Dest": "PEN",
         "AirlineCode": "TR",
+        "InterviewerID": ""
+    },
+    {
+        "InterviewId": "e4d25ab6-056c-4e77-85c7-ffc9accb6fa2",
+        "InterviewEndDate": "2023-04-18 18:01:42",
+        "InterviewState": "Completed",
+        "Flight": "9024",
+        "Dest": "SZX",
+        "AirlineCode": "ZH",
         "InterviewerID": ""
     }
 ]    
