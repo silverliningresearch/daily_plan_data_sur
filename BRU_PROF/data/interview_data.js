@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "20-04-2023 15:44:49"
+        "download_time": "20-04-2023 15:54:47"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -23905,15 +23905,6 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
-        "InterviewId": "a5e02250-c6d5-4242-9936-df00e2492acb",
-        "InterviewEndDate": "2023-04-16 20:59:51",
-        "InterviewState": "Completed",
-        "Flight": "SK2590",
-        "Dest": "CPH",
-        "AirlineCode": "",
-        "InterviewerID": 10
-    },
-    {
         "InterviewId": "4162f2e4-63ba-4e84-811d-c93d164beba5",
         "InterviewEndDate": "2023-04-16 20:32:43",
         "InterviewState": "Completed",
@@ -26974,6 +26965,15 @@ let interview_data_raw = `[
         "InterviewerID": 2
     },
     {
+        "InterviewId": "8ea706aa-4853-43c0-a529-dc24fb89614d",
+        "InterviewEndDate": "2023-04-20 16:46:43",
+        "InterviewState": "Completed",
+        "Flight": "SN2259",
+        "Dest": "CPH",
+        "AirlineCode": "",
+        "InterviewerID": 2
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -29566,6 +29566,15 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
+        "InterviewId": "a5e02250-c6d5-4242-9936-df00e2492acb",
+        "InterviewEndDate": "2023-04-16 20:59:51",
+        "InterviewState": "Completed",
+        "Flight": "SK2590",
+        "Dest": "CPH",
+        "AirlineCode": "",
+        "InterviewerID": 10
+    },
+    {
         "InterviewId": "5f734306-f4a4-4ddd-9d2e-e8cb7c166073",
         "InterviewEndDate": "2023-04-17 08:43:57",
         "InterviewState": "Completed",
@@ -30914,6 +30923,15 @@ let interview_data_raw = `[
         "Dest": "CAI",
         "AirlineCode": "",
         "InterviewerID": 5
+    },
+    {
+        "InterviewId": "97698abd-e775-4b1c-9a64-e95e79e36d51",
+        "InterviewEndDate": "2023-04-20 16:47:53",
+        "InterviewState": "Completed",
+        "Flight": "SN2259",
+        "Dest": "CPH",
+        "AirlineCode": "",
+        "InterviewerID": 2
     }
 ]    
 
