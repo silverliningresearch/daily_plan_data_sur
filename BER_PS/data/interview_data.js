@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "21-04-2023 15:33:52"
+        "download_time": "21-04-2023 16:32:53"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7450,6 +7450,96 @@ let interview_data_raw = `[
         "Flight": "LX  967",
         "Dest": "Z\u00fcrich (ZRH)",
         "AirlineCode": "Swiss",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "f172d6ff-3818-4b47-9860-ca3addc6249d",
+        "InterviewEndDate": "2023-04-21 16:35:30",
+        "InterviewState": "Completed",
+        "Flight": "A3  513",
+        "Dest": "Thessaloniki (SKG)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "275c96b2-7be4-4312-b27b-b803032edd5d",
+        "InterviewEndDate": "2023-04-21 16:43:18",
+        "InterviewState": "Completed",
+        "Flight": "A3  513",
+        "Dest": "Thessaloniki (SKG)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "a66dd750-84ef-4973-9d12-bfb325bae005",
+        "InterviewEndDate": "2023-04-21 16:39:01",
+        "InterviewState": "Completed",
+        "Flight": "A3  513",
+        "Dest": "Thessaloniki (SKG)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "6a2a810d-d9ed-49a5-b557-50c1e92af48c",
+        "InterviewEndDate": "2023-04-21 17:01:44",
+        "InterviewState": "Completed",
+        "Flight": "EJU5121",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "22de4b24-137a-4c6e-8814-bf11133a7f94",
+        "InterviewEndDate": "2023-04-21 16:36:34",
+        "InterviewState": "Completed",
+        "Flight": "A3  513",
+        "Dest": "Thessaloniki (SKG)",
+        "AirlineCode": "Aegean Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "35e7e269-35e2-49d1-99fa-01844efd76b5",
+        "InterviewEndDate": "2023-04-21 17:04:27",
+        "InterviewState": "Completed",
+        "Flight": "EJU5121",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "5df89b72-e3fa-43e2-998b-f18ae2e913ea",
+        "InterviewEndDate": "2023-04-21 17:06:05",
+        "InterviewState": "Completed",
+        "Flight": "EJU5121",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "7f0f3d12-d700-43b4-8cf7-3078af5986f4",
+        "InterviewEndDate": "2023-04-21 17:04:43",
+        "InterviewState": "Completed",
+        "Flight": "EJU5121",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "4d1a4092-0518-487a-8fed-882e02208e45",
+        "InterviewEndDate": "2023-04-21 17:06:03",
+        "InterviewState": "Completed",
+        "Flight": "EJU5121",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "631dfbe3-15d5-410c-8ea7-4660dee29b77",
+        "InterviewEndDate": "2023-04-21 17:18:19",
+        "InterviewState": "Completed",
+        "Flight": "EJU5121",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "easyJet Europe",
         "InterviewerID": 12
     }
 ]    

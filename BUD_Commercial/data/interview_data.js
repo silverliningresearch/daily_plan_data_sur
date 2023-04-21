@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "21-04-2023 15:33:32"
+        "download_time": "21-04-2023 16:32:33"
     },
     {
         "InterviewId": "b199a7b9-5e60-40b9-a4ea-4fa385bb46c5",
@@ -1333,6 +1333,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "4eed6a8b-3d68-47e7-993b-d7586aff1e0a",
+        "InterviewEndDate": "2023-04-21 16:54:32",
+        "InterviewState": "Completed",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "e7ccfd76-1f12-44fb-8cd0-2a90ab6b78c1",
         "InterviewEndDate": "2023-04-20 20:16:55",
         "InterviewState": "Completed",
@@ -1348,6 +1357,24 @@ let interview_data_raw = `[
         "Flight": "FR 5190",
         "Dest": "BRI",
         "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "cb57081a-c074-4c66-a538-c2ddebe6923d",
+        "InterviewEndDate": "2023-04-21 16:56:37",
+        "InterviewState": "Completed",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "59b8cf94-1056-4793-a592-f87f50779848",
+        "InterviewEndDate": "2023-04-21 16:56:50",
+        "InterviewState": "Completed",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EZS1566",
         "InterviewerID": 1
     }
 ]    
