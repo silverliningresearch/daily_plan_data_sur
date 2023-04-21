@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "21-04-2023 19:29:53"
+        "download_time": "21-04-2023 20:28:53"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7732,6 +7732,42 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "96e59495-37a5-4bba-ba4a-9a5d32655a5e",
+        "InterviewEndDate": "2023-04-21 20:36:19",
+        "InterviewState": "Completed",
+        "Flight": "EW 8046",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "7b596dd4-3d9c-446b-92b4-1f4bf15b913a",
+        "InterviewEndDate": "2023-04-21 21:03:11",
+        "InterviewState": "Completed",
+        "Flight": "EW 8046",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "39e4f470-a516-42f7-a9a6-ae3fca4bdaff",
+        "InterviewEndDate": "2023-04-21 21:02:11",
+        "InterviewState": "Completed",
+        "Flight": "EW 8046",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "b33f8a2e-f270-431f-bf0f-c4c8156713ed",
+        "InterviewEndDate": "2023-04-21 20:51:51",
+        "InterviewState": "Completed",
+        "Flight": "EW 8046",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 12
+    },
+    {
         "InterviewId": "b4695bf8-fe30-4bd6-a4c7-881933f95de1",
         "InterviewEndDate": "2023-04-21 19:59:46",
         "InterviewState": "Completed",
@@ -7756,6 +7792,42 @@ let interview_data_raw = `[
         "Flight": "EJU5267",
         "Dest": "Kopenhagen (CPH)",
         "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "9832dc5f-0010-4613-902a-0d100d85395d",
+        "InterviewEndDate": "2023-04-21 20:55:04",
+        "InterviewState": "Completed",
+        "Flight": "EW 8046",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "9c5f3e4d-1a58-4490-a619-ef46d2413587",
+        "InterviewEndDate": "2023-04-21 21:11:57",
+        "InterviewState": "Completed",
+        "Flight": "EW 8046",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "8e4f8445-9337-42e2-b868-4b1e73617440",
+        "InterviewEndDate": "2023-04-21 21:13:54",
+        "InterviewState": "Completed",
+        "Flight": "EW 8046",
+        "Dest": "D\u00fcsseldorf (DUS)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "07a9243d-3b8a-4abf-8895-12083a90b165",
+        "InterviewEndDate": "2023-04-21 21:27:20",
+        "InterviewState": "Completed",
+        "Flight": "EZS1190",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Switzerland",
         "InterviewerID": 12
     }
 ]    
