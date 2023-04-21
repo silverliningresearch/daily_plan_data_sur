@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "21-04-2023 20:28:53"
+        "download_time": "21-04-2023 21:27:52"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7822,8 +7822,80 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "81d1b2bd-edf6-47b5-a4f5-e81262ea2c36",
+        "InterviewEndDate": "2023-04-21 21:32:03",
+        "InterviewState": "Completed",
+        "Flight": "EZS1190",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Switzerland",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "cf0a0531-484a-454a-b717-c346f6fdbda3",
+        "InterviewEndDate": "2023-04-21 21:39:35",
+        "InterviewState": "Completed",
+        "Flight": "EZS1190",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Switzerland",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "8f102b03-e006-4118-88c9-9321585baa4f",
+        "InterviewEndDate": "2023-04-21 21:39:36",
+        "InterviewState": "Completed",
+        "Flight": "EZS1190",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Switzerland",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "deaa6028-497b-41d9-a115-b8f05d98f7cc",
+        "InterviewEndDate": "2023-04-21 21:33:05",
+        "InterviewState": "Completed",
+        "Flight": "EZS1190",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Switzerland",
+        "InterviewerID": 12
+    },
+    {
         "InterviewId": "07a9243d-3b8a-4abf-8895-12083a90b165",
         "InterviewEndDate": "2023-04-21 21:27:20",
+        "InterviewState": "Completed",
+        "Flight": "EZS1190",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Switzerland",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "f93a864a-806b-42b4-9ea2-3fe198d5423a",
+        "InterviewEndDate": "2023-04-21 21:43:01",
+        "InterviewState": "Completed",
+        "Flight": "EZS1190",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Switzerland",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "ce65bb5d-e9f0-4ae2-87d7-f20d45642574",
+        "InterviewEndDate": "2023-04-21 21:55:37",
+        "InterviewState": "Completed",
+        "Flight": "EZS1190",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Switzerland",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "0f87ff12-367b-4ee7-8cc5-70c8d59cf186",
+        "InterviewEndDate": "2023-04-21 21:47:51",
+        "InterviewState": "Completed",
+        "Flight": "EZS1190",
+        "Dest": "Basel (BSL)",
+        "AirlineCode": "easyJet Switzerland",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "60dc1667-1571-474d-a29d-673946dad2c6",
+        "InterviewEndDate": "2023-04-21 22:07:40",
         "InterviewState": "Completed",
         "Flight": "EZS1190",
         "Dest": "Basel (BSL)",
