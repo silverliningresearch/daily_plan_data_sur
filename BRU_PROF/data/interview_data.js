@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "21-04-2023 09:34:57"
+        "download_time": "21-04-2023 09:44:53"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -20278,15 +20278,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "9e00c555-c954-45b2-98ad-d83e17366ac8",
-        "InterviewEndDate": "2023-04-07 22:23:25",
-        "InterviewState": "Completed",
-        "Flight": "VY8985",
-        "Dest": "BCN",
-        "AirlineCode": "",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "4d2f9901-2cc3-4d9b-b0b1-cdb964856103",
         "InterviewEndDate": "2023-04-08 09:04:56",
         "InterviewState": "Completed",
@@ -26974,6 +26965,15 @@ let interview_data_raw = `[
         "InterviewerID": 6
     },
     {
+        "InterviewId": "0971b9e8-5096-40d3-867e-d4819095f8ab",
+        "InterviewEndDate": "2023-04-21 10:44:33",
+        "InterviewState": "Completed",
+        "Flight": "KL1724",
+        "Dest": "AMS",
+        "AirlineCode": "",
+        "InterviewerID": 6
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -28232,6 +28232,15 @@ let interview_data_raw = `[
         "Dest": "DXB",
         "AirlineCode": "",
         "InterviewerID": 2
+    },
+    {
+        "InterviewId": "9e00c555-c954-45b2-98ad-d83e17366ac8",
+        "InterviewEndDate": "2023-04-07 22:23:25",
+        "InterviewState": "Completed",
+        "Flight": "VY8985",
+        "Dest": "BCN",
+        "AirlineCode": "",
+        "InterviewerID": 1
     },
     {
         "InterviewId": "70a37355-6258-41ac-a654-ed75339a3282",
@@ -31872,6 +31881,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "21eef76d-414c-417d-8828-f91f5c2b0f9c",
         "InterviewEndDate": "2023-04-21 10:33:27",
+        "InterviewState": "Completed",
+        "Flight": "KL1724",
+        "Dest": "AMS",
+        "AirlineCode": "",
+        "InterviewerID": 6
+    },
+    {
+        "InterviewId": "43180688-3f81-42ce-8ccd-e7be718d297b",
+        "InterviewEndDate": "2023-04-21 10:38:34",
         "InterviewState": "Completed",
         "Flight": "KL1724",
         "Dest": "AMS",
