@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "21-04-2023 14:35:03"
+        "download_time": "21-04-2023 15:33:52"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7354,6 +7354,15 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "d456f325-e0cf-4946-bfda-84da94b0b0cb",
+        "InterviewEndDate": "2023-04-21 15:37:49",
+        "InterviewState": "Completed",
+        "Flight": "LX  967",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "Swiss",
+        "InterviewerID": 12
+    },
+    {
         "InterviewId": "e9cf4a70-1439-470d-b3f7-f162ad3f0d4c",
         "InterviewEndDate": "2023-04-21 15:29:21",
         "InterviewState": "Completed",
@@ -7365,6 +7374,78 @@ let interview_data_raw = `[
     {
         "InterviewId": "b71a9e56-d100-4dc4-bdd4-51cfeaaebf37",
         "InterviewEndDate": "2023-04-21 15:25:22",
+        "InterviewState": "Completed",
+        "Flight": "LX  967",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "Swiss",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "4333cf4d-7617-4ce1-abbe-21266e627391",
+        "InterviewEndDate": "2023-04-21 15:38:26",
+        "InterviewState": "Completed",
+        "Flight": "LX  967",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "Swiss",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "b4d99d95-6665-4285-89f1-27dc82178161",
+        "InterviewEndDate": "2023-04-21 16:05:58",
+        "InterviewState": "Completed",
+        "Flight": "LX  967",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "Swiss",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "6a5b9347-ea34-4e46-9297-c51e3fedc7c7",
+        "InterviewEndDate": "2023-04-21 15:55:32",
+        "InterviewState": "Completed",
+        "Flight": "LX  967",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "Swiss",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "bf792b98-47ac-4d54-a3fa-d3f86170c243",
+        "InterviewEndDate": "2023-04-21 15:57:17",
+        "InterviewState": "Completed",
+        "Flight": "LX  967",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "Swiss",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "34349ec1-0db5-48d6-a284-dab386d579b8",
+        "InterviewEndDate": "2023-04-21 16:13:09",
+        "InterviewState": "Completed",
+        "Flight": "LX  967",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "Swiss",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "913ddabb-e4ed-4a20-ac5a-a85faeecb358",
+        "InterviewEndDate": "2023-04-21 15:50:23",
+        "InterviewState": "Completed",
+        "Flight": "LX  967",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "Swiss",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "9381ea26-0da3-4d2f-90e1-5000e0655b1b",
+        "InterviewEndDate": "2023-04-21 16:04:36",
+        "InterviewState": "Completed",
+        "Flight": "LX  967",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "Swiss",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "911997b3-7800-4e17-8092-cd1d677b5934",
+        "InterviewEndDate": "2023-04-21 16:15:17",
         "InterviewState": "Completed",
         "Flight": "LX  967",
         "Dest": "Z\u00fcrich (ZRH)",
