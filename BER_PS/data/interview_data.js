@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "21-04-2023 16:32:53"
+        "download_time": "21-04-2023 17:31:53"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7540,6 +7540,96 @@ let interview_data_raw = `[
         "Flight": "EJU5121",
         "Dest": "Palma de Mallorca (PMI)",
         "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "07759906-da30-4d3d-afba-26314c5202fd",
+        "InterviewEndDate": "2023-04-21 17:33:59",
+        "InterviewState": "Completed",
+        "Flight": "EJU5121",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "2a6eed42-8c96-4034-8f90-c19563653727",
+        "InterviewEndDate": "2023-04-21 17:39:24",
+        "InterviewState": "Completed",
+        "Flight": "EJU5121",
+        "Dest": "Palma de Mallorca (PMI)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "f85b1592-da55-4a55-a807-2d902c7cc3cb",
+        "InterviewEndDate": "2023-04-21 18:14:13",
+        "InterviewState": "Completed",
+        "Flight": "EJU5153",
+        "Dest": "Paris (ORY)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "1ef9569a-9bd5-4282-a880-6d024e3735b4",
+        "InterviewEndDate": "2023-04-21 18:11:07",
+        "InterviewState": "Completed",
+        "Flight": "EJU5153",
+        "Dest": "Paris (ORY)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "9b3439af-7ad2-48fd-9498-331cdf01230c",
+        "InterviewEndDate": "2023-04-21 17:55:12",
+        "InterviewState": "Completed",
+        "Flight": "EJU5153",
+        "Dest": "Paris (ORY)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "ffc6ebc9-3046-473e-aaa9-6d32990f3557",
+        "InterviewEndDate": "2023-04-21 17:55:00",
+        "InterviewState": "Completed",
+        "Flight": "EJU5153",
+        "Dest": "Paris (ORY)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "2119f4c7-ad4b-4037-b92b-785aa5a04a10",
+        "InterviewEndDate": "2023-04-21 18:04:31",
+        "InterviewState": "Completed",
+        "Flight": "EJU5153",
+        "Dest": "Paris (ORY)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "d5755ec0-1e42-480b-93fa-350f8de0931d",
+        "InterviewEndDate": "2023-04-21 18:14:49",
+        "InterviewState": "Completed",
+        "Flight": "EJU5153",
+        "Dest": "Paris (ORY)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "44bacb2c-8ce6-47a4-9218-ca4b7539e59a",
+        "InterviewEndDate": "2023-04-21 18:29:01",
+        "InterviewState": "Completed",
+        "Flight": "EJU5153",
+        "Dest": "Paris (ORY)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "e3aa091d-6df8-4d0b-b2e6-a1505bbf8d3c",
+        "InterviewEndDate": "2023-04-21 18:27:58",
+        "InterviewState": "Completed",
+        "Flight": "EW 8230",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Eurowings",
         "InterviewerID": 12
     }
 ]    
