@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "21-04-2023 18:30:54"
+        "download_time": "21-04-2023 19:29:53"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7696,12 +7696,66 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "a89b6094-ca3e-40ae-88c3-be8d272d1756",
+        "InterviewEndDate": "2023-04-21 19:40:24",
+        "InterviewState": "Completed",
+        "Flight": "EW 2019",
+        "Dest": "Stuttgart (STR)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 12
+    },
+    {
         "InterviewId": "04601c4a-867c-4ccc-95e3-ba5d8bd2e725",
         "InterviewEndDate": "2023-04-21 19:29:10",
         "InterviewState": "Completed",
         "Flight": "EW 2019",
         "Dest": "Stuttgart (STR)",
         "AirlineCode": "Eurowings",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "43fd651f-9918-4312-868f-71be388f05af",
+        "InterviewEndDate": "2023-04-21 19:38:40",
+        "InterviewState": "Completed",
+        "Flight": "EW 2019",
+        "Dest": "Stuttgart (STR)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "6d31a0a1-fe5f-4486-9a12-f4bbc49778be",
+        "InterviewEndDate": "2023-04-21 19:36:14",
+        "InterviewState": "Completed",
+        "Flight": "EW 2019",
+        "Dest": "Stuttgart (STR)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "b4695bf8-fe30-4bd6-a4c7-881933f95de1",
+        "InterviewEndDate": "2023-04-21 19:59:46",
+        "InterviewState": "Completed",
+        "Flight": "EJU5267",
+        "Dest": "Kopenhagen (CPH)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "5e73f932-df30-465c-9f56-c3b4c2ea4877",
+        "InterviewEndDate": "2023-04-21 20:05:11",
+        "InterviewState": "Completed",
+        "Flight": "EJU5267",
+        "Dest": "Kopenhagen (CPH)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "af51fb19-16c4-4fe0-a80a-c612c02aca9d",
+        "InterviewEndDate": "2023-04-21 20:07:49",
+        "InterviewState": "Completed",
+        "Flight": "EJU5267",
+        "Dest": "Kopenhagen (CPH)",
+        "AirlineCode": "easyJet Europe",
         "InterviewerID": 12
     }
 ]    
