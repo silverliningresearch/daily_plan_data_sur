@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "22-04-2023 06:04:49"
+        "download_time": "22-04-2023 06:14:48"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -24724,15 +24724,6 @@ let interview_data_raw = `[
         "InterviewerID": 3
     },
     {
-        "InterviewId": "0329cb10-fb3c-49e6-aa0c-cecbc6c28281",
-        "InterviewEndDate": "2023-04-18 11:19:56",
-        "InterviewState": "Completed",
-        "Flight": "SN3131",
-        "Dest": "CTA",
-        "AirlineCode": "",
-        "InterviewerID": 3
-    },
-    {
         "InterviewId": "c106da16-932f-45cf-b6ce-b29f00bc5dcb",
         "InterviewEndDate": "2023-04-18 11:17:07",
         "InterviewState": "Completed",
@@ -26970,6 +26961,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "TB1135",
         "Dest": "LEI",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
+        "InterviewId": "09660d54-2d08-4627-b214-93562759e3e4",
+        "InterviewEndDate": "2023-04-22 07:06:20",
+        "InterviewState": "Completed",
+        "Flight": "SN2711",
+        "Dest": "GVA",
         "AirlineCode": "",
         "InterviewerID": 4
     },
@@ -31686,6 +31686,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "A3539",
         "Dest": "SKG",
+        "AirlineCode": "",
+        "InterviewerID": 3
+    },
+    {
+        "InterviewId": "0329cb10-fb3c-49e6-aa0c-cecbc6c28281",
+        "InterviewEndDate": "2023-04-18 11:19:56",
+        "InterviewState": "Completed",
+        "Flight": "SN3131",
+        "Dest": "CTA",
         "AirlineCode": "",
         "InterviewerID": 3
     },
