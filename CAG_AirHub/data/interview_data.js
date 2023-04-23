@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "ICN",
         "AirlineCode": "SQ",
         "InterviewerID": "",
-        "download_time": "23-04-2023 11:54:49"
+        "download_time": "23-04-2023 12:53:44"
     },
     {
         "InterviewId": "eec1fade-dda9-44ae-88a8-4fdf495c3e0e",
@@ -15418,15 +15418,6 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
-        "InterviewId": "b1c0d970-13fb-460e-b0e7-f7b54fe80049",
-        "InterviewEndDate": "2023-04-12 16:52:30",
-        "InterviewState": "Completed",
-        "Flight": "962",
-        "Dest": "CGK",
-        "AirlineCode": "SQ",
-        "InterviewerID": ""
-    },
-    {
         "InterviewId": "89cb4938-49a5-421d-98a8-a8cec22c7608",
         "InterviewEndDate": "2023-04-12 17:19:30",
         "InterviewState": "Completed",
@@ -17992,6 +17983,15 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
+        "InterviewId": "04d3edb1-97cd-4b51-8a5c-b7ee4dac4994",
+        "InterviewEndDate": "2023-04-23 13:47:09",
+        "InterviewState": "Completed",
+        "Flight": "622",
+        "Dest": "KIX",
+        "AirlineCode": "SQ",
+        "InterviewerID": ""
+    },
+    {
         "InterviewId": "846c44ea-e3b7-41de-a3d2-ff1ccf47f689",
         "InterviewEndDate": "2023-04-01 09:55:40",
         "InterviewState": "Completed",
@@ -18496,6 +18496,15 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
+        "InterviewId": "b1c0d970-13fb-460e-b0e7-f7b54fe80049",
+        "InterviewEndDate": "2023-04-12 16:52:30",
+        "InterviewState": "Completed",
+        "Flight": "962",
+        "Dest": "CGK",
+        "AirlineCode": "SQ",
+        "InterviewerID": ""
+    },
+    {
         "InterviewId": "83445f4a-7564-4aee-a982-fea57a58a01a",
         "InterviewEndDate": "2023-04-12 17:33:11",
         "InterviewState": "Completed",
@@ -18726,6 +18735,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "366",
         "Dest": "FCO",
+        "AirlineCode": "SQ",
+        "InterviewerID": ""
+    },
+    {
+        "InterviewId": "b7791296-c2c9-4ea8-bc42-f88177d12d0e",
+        "InterviewEndDate": "2023-04-23 13:40:14",
+        "InterviewState": "Completed",
+        "Flight": "622",
+        "Dest": "KIX",
         "AirlineCode": "SQ",
         "InterviewerID": ""
     }
