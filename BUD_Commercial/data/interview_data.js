@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "23-04-2023 11:48:32"
+        "download_time": "23-04-2023 12:47:32"
     },
     {
         "InterviewId": "b199a7b9-5e60-40b9-a4ea-4fa385bb46c5",
@@ -1108,6 +1108,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "3843915e-a64e-4058-8593-3cf31a6cb789",
+        "InterviewEndDate": "2023-04-23 13:44:28",
+        "InterviewState": "Completed",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "52e6a87e-ac21-4074-910c-ea59f27a19d9",
         "InterviewEndDate": "2023-04-19 13:50:34",
         "InterviewState": "Completed",
@@ -1446,6 +1455,51 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "W6 2205",
         "Dest": "LTN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ffdbfb09-9dc9-49c6-98de-ad5d6fa1dedd",
+        "InterviewEndDate": "2023-04-23 13:30:40",
+        "InterviewState": "Completed",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "06e8dfe4-1bdf-4495-bbf0-1b650c673a06",
+        "InterviewEndDate": "2023-04-23 13:33:14",
+        "InterviewState": "Completed",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "7db6527b-e7a2-427c-91d6-f3449b5c7acc",
+        "InterviewEndDate": "2023-04-23 13:32:00",
+        "InterviewState": "Completed",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d1c72ba7-b799-41cf-bc0a-2faccfb2a8ab",
+        "InterviewEndDate": "2023-04-23 13:32:44",
+        "InterviewState": "Completed",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "84d8c03f-0d58-4b05-acac-7a36f5e5f414",
+        "InterviewEndDate": "2023-04-23 13:32:25",
+        "InterviewState": "Completed",
+        "Flight": "W6 2367",
+        "Dest": "ORY",
         "AirlineCode": "W6",
         "InterviewerID": 1
     }
