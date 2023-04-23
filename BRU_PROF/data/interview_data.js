@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "23-04-2023 13:24:48"
+        "download_time": "23-04-2023 13:34:48"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -20467,15 +20467,6 @@ let interview_data_raw = `[
         "InterviewerID": 4
     },
     {
-        "InterviewId": "31ce1664-e656-48e9-a331-c53cd42552d2",
-        "InterviewEndDate": "2023-04-09 12:59:56",
-        "InterviewState": "Completed",
-        "Flight": "TK7721",
-        "Dest": "SAW",
-        "AirlineCode": "",
-        "InterviewerID": 4
-    },
-    {
         "InterviewId": "c751f946-83d9-4284-9aaf-ae33f340e277",
         "InterviewEndDate": "2023-04-10 09:08:12",
         "InterviewState": "Completed",
@@ -26974,6 +26965,15 @@ let interview_data_raw = `[
         "InterviewerID": 4
     },
     {
+        "InterviewId": "421cd6d1-e3ef-44a3-89c5-9d385b20cbca",
+        "InterviewEndDate": "2023-04-23 14:30:11",
+        "InterviewState": "Completed",
+        "Flight": "TB3051",
+        "Dest": "HRG",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -29343,6 +29343,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "37125859-5fff-47a9-a75a-cc70faae3640",
         "InterviewEndDate": "2023-04-09 12:53:43",
+        "InterviewState": "Completed",
+        "Flight": "TK7721",
+        "Dest": "SAW",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
+        "InterviewId": "31ce1664-e656-48e9-a331-c53cd42552d2",
+        "InterviewEndDate": "2023-04-09 12:59:56",
         "InterviewState": "Completed",
         "Flight": "TK7721",
         "Dest": "SAW",
@@ -35396,6 +35405,15 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "",
         "InterviewerID": 11
+    },
+    {
+        "InterviewId": "d66a1778-650a-409d-a601-ede7d177d7bd",
+        "InterviewEndDate": "2023-04-23 14:32:35",
+        "InterviewState": "Completed",
+        "Flight": "TB3051",
+        "Dest": "HRG",
+        "AirlineCode": "",
+        "InterviewerID": 4
     }
 ]    
 
