@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "25-04-2023 06:05:33"
+        "download_time": "25-04-2023 07:04:34"
     },
     {
         "InterviewId": "b199a7b9-5e60-40b9-a4ea-4fa385bb46c5",
@@ -1855,6 +1855,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "aaa8e13a-5ea9-4667-b0fa-fe5487fff995",
+        "InterviewEndDate": "2023-04-25 07:32:30",
+        "InterviewState": "Completed",
+        "Flight": "W6 2375",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "4ac99b91-f1f1-4d84-bc68-d230a0c57f71",
         "InterviewEndDate": "2023-04-25 06:10:15",
         "InterviewState": "Completed",
@@ -1878,6 +1887,42 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "W6 2499",
         "Dest": "GYD",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "adeda3f1-3be3-4513-b718-27df13ace67c",
+        "InterviewEndDate": "2023-04-25 07:29:57",
+        "InterviewState": "Completed",
+        "Flight": "W6 2375",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "f431c914-83a5-43f8-b30d-a575df2f51e9",
+        "InterviewEndDate": "2023-04-25 07:27:10",
+        "InterviewState": "Completed",
+        "Flight": "W6 2375",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "0ee7350c-cd19-43c7-8f14-f1e0b139b50d",
+        "InterviewEndDate": "2023-04-25 07:26:39",
+        "InterviewState": "Completed",
+        "Flight": "W6 2375",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "a06ec37a-f7d6-4808-bad5-70aa11011ed4",
+        "InterviewEndDate": "2023-04-25 07:29:59",
+        "InterviewState": "Completed",
+        "Flight": "W6 2375",
+        "Dest": "BCN",
         "AirlineCode": "W6",
         "InterviewerID": 1
     }
