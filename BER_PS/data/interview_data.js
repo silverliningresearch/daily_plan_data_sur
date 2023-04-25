@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "25-04-2023 14:56:49"
+        "download_time": "25-04-2023 15:55:55"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7921,6 +7921,15 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "29fe96ff-3ea5-45a9-9326-b8f5f61333de",
+        "InterviewEndDate": "2023-04-25 15:56:56",
+        "InterviewState": "Completed",
+        "Flight": "EJU7173",
+        "Dest": "Barcelona (BCN)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "50c84ca1-902d-4ae8-8914-f5e68ccb75ad",
         "InterviewEndDate": "2023-04-25 14:56:44",
         "InterviewState": "Completed",
@@ -7936,6 +7945,33 @@ let interview_data_raw = `[
         "Flight": "LH  191",
         "Dest": "Frankfurt (FRA)",
         "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "034ca601-a80c-4012-b615-8975c1ab5777",
+        "InterviewEndDate": "2023-04-25 16:38:12",
+        "InterviewState": "Completed",
+        "Flight": "EJU5247",
+        "Dest": "Stockholm (ARN)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "fa4071be-7296-4f11-b41e-252814a61b6c",
+        "InterviewEndDate": "2023-04-25 16:28:58",
+        "InterviewState": "Completed",
+        "Flight": "EJU5247",
+        "Dest": "Stockholm (ARN)",
+        "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "2530f1da-20dc-4be6-986e-c6676db75dc6",
+        "InterviewEndDate": "2023-04-25 16:18:04",
+        "InterviewState": "Completed",
+        "Flight": "EJU7173",
+        "Dest": "Barcelona (BCN)",
+        "AirlineCode": "easyJet Europe",
         "InterviewerID": 11
     }
 ]    
