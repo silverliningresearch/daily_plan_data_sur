@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "25-04-2023 16:55:02"
+        "download_time": "25-04-2023 17:53:55"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7966,6 +7966,15 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "48c44593-8838-4e47-9906-38a688c4f2c1",
+        "InterviewEndDate": "2023-04-25 18:42:00",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "034ca601-a80c-4012-b615-8975c1ab5777",
         "InterviewEndDate": "2023-04-25 16:38:12",
         "InterviewState": "Completed",
@@ -7993,12 +8002,30 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "f9f9a9b0-1fdc-46e7-8953-8bc323ab0302",
+        "InterviewEndDate": "2023-04-25 18:42:48",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "f1a58969-7391-4758-ad52-e149b1e3f926",
         "InterviewEndDate": "2023-04-25 17:10:39",
         "InterviewState": "Completed",
         "Flight": "TP  535",
         "Dest": "Lissabon (LIS)",
         "AirlineCode": "TAP Air Portugal",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "6a56e208-6bdf-45f4-acc0-00f306d1ac21",
+        "InterviewEndDate": "2023-04-25 18:32:33",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
         "InterviewerID": 11
     },
     {
@@ -8026,6 +8053,33 @@ let interview_data_raw = `[
         "Flight": "KL 1830",
         "Dest": "Amsterdam (AMS)",
         "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "902a9db6-d905-4cd3-8e83-6d68e2119494",
+        "InterviewEndDate": "2023-04-25 18:46:28",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "c8d05f09-06df-44fe-96dc-5c5d5aaf51c2",
+        "InterviewEndDate": "2023-04-25 18:39:46",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "b84efeea-76a2-47f5-8fae-bfe835cc8299",
+        "InterviewEndDate": "2023-04-25 18:35:28",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
         "InterviewerID": 11
     }
 ]    
