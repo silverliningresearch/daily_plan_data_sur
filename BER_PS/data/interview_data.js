@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "25-04-2023 18:52:55"
+        "download_time": "25-04-2023 19:51:52"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -8083,6 +8083,15 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "548257d8-6683-4456-bdbf-0bbd14675a7f",
+        "InterviewEndDate": "2023-04-25 20:09:24",
+        "InterviewState": "Completed",
+        "Flight": "EW 2021",
+        "Dest": "Stuttgart (STR)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "2bf2104a-9422-4598-ba36-8a27cd05c767",
         "InterviewEndDate": "2023-04-25 18:54:18",
         "InterviewState": "Completed",
@@ -8143,6 +8152,33 @@ let interview_data_raw = `[
         "Flight": "I2 3671",
         "Dest": "Madrid (MAD)",
         "AirlineCode": "IBERIA Express",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "39f5b4cf-9274-4632-9ae5-f15d8bc531de",
+        "InterviewEndDate": "2023-04-25 20:24:30",
+        "InterviewState": "Completed",
+        "Flight": "EW 2021",
+        "Dest": "Stuttgart (STR)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "77e0437c-503e-4242-810b-a85d5328d71b",
+        "InterviewEndDate": "2023-04-25 20:43:43",
+        "InterviewState": "Completed",
+        "Flight": "EW 2021",
+        "Dest": "Stuttgart (STR)",
+        "AirlineCode": "Eurowings",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "2c02e076-82ce-4b0a-b7ed-7a378e45e2f8",
+        "InterviewEndDate": "2023-04-25 20:31:59",
+        "InterviewState": "Completed",
+        "Flight": "EW 2021",
+        "Dest": "Stuttgart (STR)",
+        "AirlineCode": "Eurowings",
         "InterviewerID": 11
     }
 ]    
