@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "25-04-2023 15:55:33"
+        "download_time": "25-04-2023 16:54:34"
     },
     {
         "InterviewId": "b199a7b9-5e60-40b9-a4ea-4fa385bb46c5",
@@ -1711,6 +1711,24 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
+        "InterviewId": "90f64cf9-669f-4167-956c-f2cb6ef610e0",
+        "InterviewEndDate": "2023-04-25 16:59:03",
+        "InterviewState": "Completed",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "74a6c774-130b-49f4-a6f8-fa8fbc2d0553",
+        "InterviewEndDate": "2023-04-25 17:03:42",
+        "InterviewState": "Completed",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "3a192186-c5f8-43ed-8248-ca8c3d233d2e",
         "InterviewEndDate": "2023-04-24 14:51:59",
         "InterviewState": "Completed",
@@ -1808,6 +1826,15 @@ let interview_data_raw = `[
         "Dest": "PSA",
         "AirlineCode": "FR",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "340acb7b-f867-43a2-b2bc-f11e79a786bf",
+        "InterviewEndDate": "2023-04-25 17:00:44",
+        "InterviewState": "Completed",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
     },
     {
         "InterviewId": "1b83c2a1-d781-475d-8635-6800101cfb8e",
@@ -1961,6 +1988,33 @@ let interview_data_raw = `[
         "Dest": "MUC",
         "AirlineCode": "LH",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "72e0fd97-a565-4e97-84c8-b1cd31ba2b97",
+        "InterviewEndDate": "2023-04-25 16:56:12",
+        "InterviewState": "Completed",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "978428b2-0047-4f83-a8f8-517c6e1b9858",
+        "InterviewEndDate": "2023-04-25 17:00:15",
+        "InterviewState": "Completed",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "6ce33e6e-17a1-42ca-b1c2-8a2f5c04b082",
+        "InterviewEndDate": "2023-04-25 17:06:55",
+        "InterviewState": "Completed",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
     }
 ]    
 
