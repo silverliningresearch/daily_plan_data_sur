@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "25-04-2023 15:55:55"
+        "download_time": "25-04-2023 16:55:02"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7948,6 +7948,24 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "0dc3cc6e-bfb2-453f-966e-4629ef5d08fb",
+        "InterviewEndDate": "2023-04-25 17:09:00",
+        "InterviewState": "Completed",
+        "Flight": "TP  535",
+        "Dest": "Lissabon (LIS)",
+        "AirlineCode": "TAP Air Portugal",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "852461bd-315e-4e5f-863c-0b340791d262",
+        "InterviewEndDate": "2023-04-25 17:11:50",
+        "InterviewState": "Completed",
+        "Flight": "TP  535",
+        "Dest": "Lissabon (LIS)",
+        "AirlineCode": "TAP Air Portugal",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "034ca601-a80c-4012-b615-8975c1ab5777",
         "InterviewEndDate": "2023-04-25 16:38:12",
         "InterviewState": "Completed",
@@ -7972,6 +7990,42 @@ let interview_data_raw = `[
         "Flight": "EJU7173",
         "Dest": "Barcelona (BCN)",
         "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "f1a58969-7391-4758-ad52-e149b1e3f926",
+        "InterviewEndDate": "2023-04-25 17:10:39",
+        "InterviewState": "Completed",
+        "Flight": "TP  535",
+        "Dest": "Lissabon (LIS)",
+        "AirlineCode": "TAP Air Portugal",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "ddd026ad-5262-4c32-a515-1ff606ea2328",
+        "InterviewEndDate": "2023-04-25 17:25:27",
+        "InterviewState": "Completed",
+        "Flight": "KL 1830",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "26722341-aebc-4f2f-bca6-677f369fea80",
+        "InterviewEndDate": "2023-04-25 17:35:45",
+        "InterviewState": "Completed",
+        "Flight": "KL 1830",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "a441a9da-23ab-462a-bbbc-a5ce89c013f9",
+        "InterviewEndDate": "2023-04-25 17:26:52",
+        "InterviewState": "Completed",
+        "Flight": "KL 1830",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
         "InterviewerID": 11
     }
 ]    
