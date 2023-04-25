@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "25-04-2023 03:08:33"
+        "download_time": "25-04-2023 04:07:32"
     },
     {
         "InterviewId": "b199a7b9-5e60-40b9-a4ea-4fa385bb46c5",
@@ -1817,6 +1817,15 @@ let interview_data_raw = `[
         "Dest": "ZRH",
         "AirlineCode": "LX",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "de03c09f-a362-4da3-8f81-fd941293b583",
+        "InterviewEndDate": "2023-04-25 05:04:19",
+        "InterviewState": "Completed",
+        "Flight": "W6 2247",
+        "Dest": "KUT",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
     }
 ]    
 
