@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "25-04-2023 17:53:55"
+        "download_time": "25-04-2023 18:52:55"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -8080,6 +8080,69 @@ let interview_data_raw = `[
         "Flight": "SN 2588",
         "Dest": "Br\u00fcssel (BRU)",
         "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "2bf2104a-9422-4598-ba36-8a27cd05c767",
+        "InterviewEndDate": "2023-04-25 18:54:18",
+        "InterviewState": "Completed",
+        "Flight": "SN 2588",
+        "Dest": "Br\u00fcssel (BRU)",
+        "AirlineCode": "Brussels Airlines",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "252b3b0c-2df6-40cb-8d2b-a6cee24b3732",
+        "InterviewEndDate": "2023-04-25 19:25:51",
+        "InterviewState": "Completed",
+        "Flight": "AY 1436",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "5c3fd288-0780-4e1d-80c7-a3cb2917987f",
+        "InterviewEndDate": "2023-04-25 19:22:06",
+        "InterviewState": "Completed",
+        "Flight": "AY 1436",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "8f6f56e5-83d9-47d5-bcc2-225c27ca2d9b",
+        "InterviewEndDate": "2023-04-25 19:27:31",
+        "InterviewState": "Completed",
+        "Flight": "AY 1436",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "c4d56601-f30e-4436-8bc8-b9ca30a7ded0",
+        "InterviewEndDate": "2023-04-25 19:44:43",
+        "InterviewState": "Completed",
+        "Flight": "I2 3671",
+        "Dest": "Madrid (MAD)",
+        "AirlineCode": "IBERIA Express",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "30ddf52f-3583-40f0-a502-a48f5bc37379",
+        "InterviewEndDate": "2023-04-25 19:41:41",
+        "InterviewState": "Completed",
+        "Flight": "I2 3671",
+        "Dest": "Madrid (MAD)",
+        "AirlineCode": "IBERIA Express",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "311f985a-90f1-4289-aee9-af403b32f36d",
+        "InterviewEndDate": "2023-04-25 19:44:31",
+        "InterviewState": "Completed",
+        "Flight": "I2 3671",
+        "Dest": "Madrid (MAD)",
+        "AirlineCode": "IBERIA Express",
         "InterviewerID": 11
     }
 ]    
