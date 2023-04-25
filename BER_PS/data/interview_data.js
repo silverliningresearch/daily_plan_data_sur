@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "25-04-2023 12:58:55"
+        "download_time": "25-04-2023 13:57:54"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -6787,6 +6787,15 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "c7e4121e-18de-43eb-b679-d3567b94fac8",
+        "InterviewEndDate": "2023-04-25 14:54:15",
+        "InterviewState": "Completed",
+        "Flight": "LH  191",
+        "Dest": "Frankfurt (FRA)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "b975a692-f500-49ac-97e1-5fc28008589f",
         "InterviewEndDate": "2023-04-19 16:41:19",
         "InterviewState": "Completed",
@@ -7325,6 +7334,15 @@ let interview_data_raw = `[
         "Dest": "Dublin (DUB)",
         "AirlineCode": "Aer Lingus",
         "InterviewerID": 12
+    },
+    {
+        "InterviewId": "fdd7c035-f920-45fe-aac6-cfdfc8c89e24",
+        "InterviewEndDate": "2023-04-25 14:47:50",
+        "InterviewState": "Completed",
+        "Flight": "LH  191",
+        "Dest": "Frankfurt (FRA)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
     },
     {
         "InterviewId": "720300f0-a86b-4a8f-9cbc-3c1cced7b060",
@@ -7901,6 +7919,15 @@ let interview_data_raw = `[
         "Dest": "Basel (BSL)",
         "AirlineCode": "easyJet Switzerland",
         "InterviewerID": 12
+    },
+    {
+        "InterviewId": "50c84ca1-902d-4ae8-8914-f5e68ccb75ad",
+        "InterviewEndDate": "2023-04-25 14:56:44",
+        "InterviewState": "Completed",
+        "Flight": "LH  191",
+        "Dest": "Frankfurt (FRA)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
     }
 ]    
 
