@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "New York (JFK)",
         "AirlineCode": "Norse Atlantic Airways",
         "InterviewerID": 12,
-        "download_time": "25-04-2023 13:57:54"
+        "download_time": "25-04-2023 14:56:49"
     },
     {
         "InterviewId": "5c09e1d9-c741-4fb7-a9d4-4a198a8dc8f4",
@@ -7923,6 +7923,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "50c84ca1-902d-4ae8-8914-f5e68ccb75ad",
         "InterviewEndDate": "2023-04-25 14:56:44",
+        "InterviewState": "Completed",
+        "Flight": "LH  191",
+        "Dest": "Frankfurt (FRA)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "2a2bcfed-526d-438c-a5d9-3664cb47e399",
+        "InterviewEndDate": "2023-04-25 15:04:08",
         "InterviewState": "Completed",
         "Flight": "LH  191",
         "Dest": "Frankfurt (FRA)",
