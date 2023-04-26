@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "26-04-2023 09:35:06"
+        "download_time": "26-04-2023 09:45:00"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -30421,15 +30421,6 @@ let interview_data_raw = `[
         "InterviewerID": 8
     },
     {
-        "InterviewId": "c314453f-dcd4-401d-a0c2-e0383569c208",
-        "InterviewEndDate": "2023-04-13 21:51:13",
-        "InterviewState": "Completed",
-        "Flight": "SN2815",
-        "Dest": "PRG",
-        "AirlineCode": "",
-        "InterviewerID": 10
-    },
-    {
         "InterviewId": "de866248-482d-4a86-948a-dd610092c50c",
         "InterviewEndDate": "2023-04-13 22:37:07",
         "InterviewState": "Completed",
@@ -35974,6 +35965,15 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "86311892-7e10-4c16-8ffd-d5a98cd8caf6",
+        "InterviewEndDate": "2023-04-26 10:41:03",
+        "InterviewState": "Completed",
+        "Flight": "LO236",
+        "Dest": "WAW",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -37826,6 +37826,15 @@ let interview_data_raw = `[
         "Dest": "MAN",
         "AirlineCode": "",
         "InterviewerID": 8
+    },
+    {
+        "InterviewId": "c314453f-dcd4-401d-a0c2-e0383569c208",
+        "InterviewEndDate": "2023-04-13 21:51:13",
+        "InterviewState": "Completed",
+        "Flight": "SN2815",
+        "Dest": "PRG",
+        "AirlineCode": "",
+        "InterviewerID": 10
     },
     {
         "InterviewId": "733f25cb-c935-4809-b219-e39b4f712503",
@@ -41156,6 +41165,15 @@ let interview_data_raw = `[
         "Dest": "BCN",
         "AirlineCode": "",
         "InterviewerID": 11
+    },
+    {
+        "InterviewId": "2cf5d9ad-1ca3-49b4-8542-e2f95c56da4b",
+        "InterviewEndDate": "2023-04-26 10:44:02",
+        "InterviewState": "Completed",
+        "Flight": "LO236",
+        "Dest": "WAW",
+        "AirlineCode": "",
+        "InterviewerID": 4
     }
 ]    
 
