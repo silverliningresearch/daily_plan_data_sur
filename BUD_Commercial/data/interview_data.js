@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "26-04-2023 08:38:33"
+        "download_time": "26-04-2023 09:37:34"
     },
     {
         "InterviewId": "b199a7b9-5e60-40b9-a4ea-4fa385bb46c5",
@@ -1954,6 +1954,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "3cde17b5-a1a1-48d9-a718-6f46e394f3bb",
+        "InterviewEndDate": "2023-04-26 10:27:02",
+        "InterviewState": "Completed",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "00932efb-5d4d-4a7c-aab8-0219de5b873b",
         "InterviewEndDate": "2023-04-25 10:08:31",
         "InterviewState": "Completed",
@@ -1990,6 +1999,24 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "65aceb29-bea6-47dd-b785-9ce4702b00f8",
+        "InterviewEndDate": "2023-04-26 10:22:06",
+        "InterviewState": "Completed",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "8eb6aa33-f605-459d-8ff8-2fed36b8ef6b",
+        "InterviewEndDate": "2023-04-26 10:29:03",
+        "InterviewState": "Completed",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "72e0fd97-a565-4e97-84c8-b1cd31ba2b97",
         "InterviewEndDate": "2023-04-25 16:56:12",
         "InterviewState": "Completed",
@@ -2015,6 +2042,15 @@ let interview_data_raw = `[
         "Dest": "BVA",
         "AirlineCode": "FR",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "d0c4c8ac-767e-4703-9d93-4e3795f0159d",
+        "InterviewEndDate": "2023-04-26 10:28:04",
+        "InterviewState": "Completed",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
     }
 ]    
 
