@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "Istanbul (IST)",
         "AirlineCode": "Turkish Airlines",
         "InterviewerID": 12,
-        "download_time": "26-04-2023 16:31:20"
+        "download_time": "26-04-2023 17:30:21"
     },
     {
         "InterviewId": "c471d1e4-99f2-4c65-8cc6-19c72e9664e9",
@@ -5401,15 +5401,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "fe76b1cc-c080-48e0-a5b6-5f116084241b",
-        "InterviewEndDate": "2023-03-29 15:14:22",
-        "InterviewState": "Completed",
-        "Flight": "LX  967",
-        "Dest": "Z\u00fcrich (ZRH)",
-        "AirlineCode": "Swiss",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "79750d9b-25af-46e5-8de2-5e2db08ff228",
         "InterviewEndDate": "2023-03-29 15:04:38",
         "InterviewState": "Completed",
@@ -8038,15 +8029,6 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
-        "InterviewId": "58acf438-e86c-446e-a452-5f261b042a6d",
-        "InterviewEndDate": "2023-04-17 09:05:13",
-        "InterviewState": "Completed",
-        "Flight": "FR 2377",
-        "Dest": "Edinburgh (EDI)",
-        "AirlineCode": "Ryanair",
-        "InterviewerID": 11
-    },
-    {
         "InterviewId": "4696e319-be40-47ad-978b-5687a90d2aab",
         "InterviewEndDate": "2023-04-17 09:13:44",
         "InterviewState": "Completed",
@@ -8980,6 +8962,24 @@ let interview_data_raw = `[
         "Flight": "TK 1726",
         "Dest": "Istanbul (IST)",
         "AirlineCode": "Turkish Airlines",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "5d2b7751-8f14-4bb8-bd44-2cbf4dd28b4c",
+        "InterviewEndDate": "2023-04-26 17:42:37",
+        "InterviewState": "Completed",
+        "Flight": "BA 8494",
+        "Dest": "London (LCY)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "62f1e3ae-c7f2-4a94-b038-453cfdc6a841",
+        "InterviewEndDate": "2023-04-26 18:26:05",
+        "InterviewState": "Completed",
+        "Flight": "BA  985",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
         "InterviewerID": 12
     },
     {
@@ -10119,15 +10119,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "a09ca4ad-6a48-423f-8288-794b54e0b7ad",
         "InterviewEndDate": "2023-03-07 17:38:09",
-        "InterviewState": "Completed",
-        "Flight": "BA  995",
-        "Dest": "London (LHR)",
-        "AirlineCode": "British Airways",
-        "InterviewerID": 10
-    },
-    {
-        "InterviewId": "31db1221-1995-4873-82ac-b968e6b3e2d0",
-        "InterviewEndDate": "2023-03-07 17:31:45",
         "InterviewState": "Completed",
         "Flight": "BA  995",
         "Dest": "London (LHR)",
@@ -14536,15 +14527,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "1823c02e-597e-4129-836e-b96bbdec7ae3",
-        "InterviewEndDate": "2023-03-28 16:33:45",
-        "InterviewState": "Completed",
-        "Flight": "PC  978",
-        "Dest": "Istanbul (SAW)",
-        "AirlineCode": "Pegasus Airlines",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "8d210288-370c-440f-8cbf-8f5cfb185d64",
         "InterviewEndDate": "2023-03-30 16:02:26",
         "InterviewState": "Completed",
@@ -14623,6 +14605,15 @@ let interview_data_raw = `[
         "Flight": "SK 2678",
         "Dest": "Stockholm (ARN)",
         "AirlineCode": "SAS-Scandinavian Airlines System",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "fe76b1cc-c080-48e0-a5b6-5f116084241b",
+        "InterviewEndDate": "2023-03-29 15:14:22",
+        "InterviewState": "Completed",
+        "Flight": "LX  967",
+        "Dest": "Z\u00fcrich (ZRH)",
+        "AirlineCode": "Swiss",
         "InterviewerID": 1
     },
     {
@@ -17047,6 +17038,15 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
+        "InterviewId": "58acf438-e86c-446e-a452-5f261b042a6d",
+        "InterviewEndDate": "2023-04-17 09:05:13",
+        "InterviewState": "Completed",
+        "Flight": "FR 2377",
+        "Dest": "Edinburgh (EDI)",
+        "AirlineCode": "Ryanair",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "08952216-91fe-416e-a025-6dfafd863ce4",
         "InterviewEndDate": "2023-04-17 08:54:38",
         "InterviewState": "Completed",
@@ -18876,6 +18876,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "0ec70ce5-fcab-41b6-949c-e3f36bc525b3",
         "InterviewEndDate": "2023-03-07 17:30:03",
+        "InterviewState": "Completed",
+        "Flight": "BA  995",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 10
+    },
+    {
+        "InterviewId": "31db1221-1995-4873-82ac-b968e6b3e2d0",
+        "InterviewEndDate": "2023-03-07 17:31:45",
         "InterviewState": "Completed",
         "Flight": "BA  995",
         "Dest": "London (LHR)",
@@ -22384,6 +22393,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "1823c02e-597e-4129-836e-b96bbdec7ae3",
+        "InterviewEndDate": "2023-03-28 16:33:45",
+        "InterviewState": "Completed",
+        "Flight": "PC  978",
+        "Dest": "Istanbul (SAW)",
+        "AirlineCode": "Pegasus Airlines",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "7c11ea5d-64c5-4152-9e64-ce31ad675449",
         "InterviewEndDate": "2023-03-28 16:33:28",
         "InterviewState": "Completed",
@@ -25341,6 +25359,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "BA 8494",
         "Dest": "London (LCY)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "24f9b1c7-02da-46d0-85d4-fe98fe3a14b9",
+        "InterviewEndDate": "2023-04-26 18:00:41",
+        "InterviewState": "Completed",
+        "Flight": "BA  985",
+        "Dest": "London (LHR)",
         "AirlineCode": "British Airways",
         "InterviewerID": 12
     }
