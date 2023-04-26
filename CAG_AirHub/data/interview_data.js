@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "ICN",
         "AirlineCode": "SQ",
         "InterviewerID": "",
-        "download_time": "26-04-2023 10:42:45"
+        "download_time": "26-04-2023 11:41:48"
     },
     {
         "InterviewId": "eec1fade-dda9-44ae-88a8-4fdf495c3e0e",
@@ -9784,15 +9784,6 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
-        "InterviewId": "d13ef4a0-e5c0-4e2e-b774-cf9b2cebcabf",
-        "InterviewEndDate": "2023-04-02 08:31:14",
-        "InterviewState": "Completed",
-        "Flight": "624",
-        "Dest": "BKK",
-        "AirlineCode": "TR",
-        "InterviewerID": ""
-    },
-    {
         "InterviewId": "27b907bd-e881-488a-820c-6c60d89666ed",
         "InterviewEndDate": "2023-04-02 08:16:24",
         "InterviewState": "Completed",
@@ -17992,6 +17983,15 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
+        "InterviewId": "67beea10-79aa-41a5-b148-81100b5562db",
+        "InterviewEndDate": "2023-04-26 11:55:19",
+        "InterviewState": "Completed",
+        "Flight": "748",
+        "Dest": "HAK",
+        "AirlineCode": "HU",
+        "InterviewerID": ""
+    },
+    {
         "InterviewId": "eb2c179f-583f-4a2e-aa35-d24b42d6a09d",
         "InterviewEndDate": "2023-04-01 08:53:02",
         "InterviewState": "Completed",
@@ -18376,6 +18376,15 @@ let interview_data_raw = `[
         "Flight": "700",
         "Dest": "KUL",
         "AirlineCode": "AK",
+        "InterviewerID": ""
+    },
+    {
+        "InterviewId": "d13ef4a0-e5c0-4e2e-b774-cf9b2cebcabf",
+        "InterviewEndDate": "2023-04-02 08:31:14",
+        "InterviewState": "Completed",
+        "Flight": "624",
+        "Dest": "BKK",
+        "AirlineCode": "TR",
         "InterviewerID": ""
     },
     {
@@ -22255,6 +22264,15 @@ let interview_data_raw = `[
         "Flight": "886",
         "Dest": "XMN",
         "AirlineCode": "MF",
+        "InterviewerID": ""
+    },
+    {
+        "InterviewId": "6f2072e6-4950-40ef-9954-d14c0ceba502",
+        "InterviewEndDate": "2023-04-26 12:02:31",
+        "InterviewState": "Completed",
+        "Flight": "748",
+        "Dest": "HAK",
+        "AirlineCode": "HU",
         "InterviewerID": ""
     }
 ]    
