@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "27-04-2023 08:05:01"
+        "download_time": "27-04-2023 08:15:06"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -33904,15 +33904,6 @@ let interview_data_raw = `[
         "InterviewerID": 2
     },
     {
-        "InterviewId": "4c0e64f6-ea8f-47dd-974b-db20bb1cf239",
-        "InterviewEndDate": "2023-04-21 07:10:27",
-        "InterviewState": "Completed",
-        "Flight": "IB3207",
-        "Dest": "MAD",
-        "AirlineCode": "",
-        "InterviewerID": 6
-    },
-    {
         "InterviewId": "835e9e93-c122-4dc2-842c-cac53ee0740b",
         "InterviewEndDate": "2023-04-21 07:58:08",
         "InterviewState": "Completed",
@@ -35972,6 +35963,15 @@ let interview_data_raw = `[
         "Dest": "BER",
         "AirlineCode": "",
         "InterviewerID": 10
+    },
+    {
+        "InterviewId": "2abb3c2e-0182-4cda-b27a-bba7d0222fec",
+        "InterviewEndDate": "2023-04-27 09:13:17",
+        "InterviewState": "Completed",
+        "Flight": "LH2283",
+        "Dest": "MUC",
+        "AirlineCode": "",
+        "InterviewerID": 5
     },
     {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
@@ -40483,6 +40483,15 @@ let interview_data_raw = `[
         "InterviewerID": 2
     },
     {
+        "InterviewId": "4c0e64f6-ea8f-47dd-974b-db20bb1cf239",
+        "InterviewEndDate": "2023-04-21 07:10:27",
+        "InterviewState": "Completed",
+        "Flight": "IB3207",
+        "Dest": "MAD",
+        "AirlineCode": "",
+        "InterviewerID": 6
+    },
+    {
         "InterviewId": "bd2c8c32-b932-4fb1-8ba3-e6d11cdec762",
         "InterviewEndDate": "2023-04-21 07:03:06",
         "InterviewState": "Completed",
@@ -42083,6 +42092,15 @@ let interview_data_raw = `[
         "Dest": "LIS",
         "AirlineCode": "",
         "InterviewerID": 10
+    },
+    {
+        "InterviewId": "b3171ddc-47e6-404c-8d9e-eaddf87a56f0",
+        "InterviewEndDate": "2023-04-27 09:08:10",
+        "InterviewState": "Completed",
+        "Flight": "LH2283",
+        "Dest": "MUC",
+        "AirlineCode": "",
+        "InterviewerID": 5
     }
 ]    
 
