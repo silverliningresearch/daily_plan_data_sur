@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "29-04-2023 06:55:07"
+        "download_time": "29-04-2023 07:05:07"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -36748,15 +36748,6 @@ let interview_data_raw = `[
         "InterviewerID": 5
     },
     {
-        "InterviewId": "56871895-d837-443c-b6b3-ee6ef990dd09",
-        "InterviewEndDate": "2023-04-06 09:56:19",
-        "InterviewState": "Completed",
-        "Flight": "SN359",
-        "Dest": "FIH",
-        "AirlineCode": "",
-        "InterviewerID": 11
-    },
-    {
         "InterviewId": "265823a1-ff5c-4da2-8ace-ce2bba368ce2",
         "InterviewEndDate": "2023-04-06 10:34:27",
         "InterviewState": "Completed",
@@ -44974,6 +44965,15 @@ let interview_data_raw = `[
         "InterviewerID": 4
     },
     {
+        "InterviewId": "55162f13-0a34-4655-80a0-d7566ca6b232",
+        "InterviewEndDate": "2023-04-29 07:59:17",
+        "InterviewState": "Completed",
+        "Flight": "TK1942",
+        "Dest": "IST",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -45366,6 +45366,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "LH2283",
         "Dest": "MUC",
+        "AirlineCode": "",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "56871895-d837-443c-b6b3-ee6ef990dd09",
+        "InterviewEndDate": "2023-04-06 09:56:19",
+        "InterviewState": "Completed",
+        "Flight": "SN359",
+        "Dest": "FIH",
         "AirlineCode": "",
         "InterviewerID": 11
     },
