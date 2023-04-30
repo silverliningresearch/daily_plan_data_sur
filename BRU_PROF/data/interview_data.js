@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "30-04-2023 16:45:10"
+        "download_time": "30-04-2023 16:55:10"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -40501,15 +40501,6 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
-        "InterviewId": "b16d5c31-6b08-4df2-94c1-dfcea78275e2",
-        "InterviewEndDate": "2023-04-18 12:32:11",
-        "InterviewState": "Completed",
-        "Flight": "SN3703",
-        "Dest": "BCN",
-        "AirlineCode": "",
-        "InterviewerID": 3
-    },
-    {
         "InterviewId": "0bfca206-61b6-4704-86a4-c980c6f857d4",
         "InterviewEndDate": "2023-04-18 12:44:43",
         "InterviewState": "Completed",
@@ -44974,6 +44965,15 @@ let interview_data_raw = `[
         "InterviewerID": 2
     },
     {
+        "InterviewId": "2e5e7a2a-e953-4961-95ae-d9280aab63de",
+        "InterviewEndDate": "2023-04-30 17:50:50",
+        "InterviewState": "Completed",
+        "Flight": "SN2811",
+        "Dest": "PRG",
+        "AirlineCode": "",
+        "InterviewerID": 2
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -48050,6 +48050,15 @@ let interview_data_raw = `[
         "Dest": "HEL",
         "AirlineCode": "",
         "InterviewerID": 11
+    },
+    {
+        "InterviewId": "b16d5c31-6b08-4df2-94c1-dfcea78275e2",
+        "InterviewEndDate": "2023-04-18 12:32:11",
+        "InterviewState": "Completed",
+        "Flight": "SN3703",
+        "Dest": "BCN",
+        "AirlineCode": "",
+        "InterviewerID": 3
     },
     {
         "InterviewId": "95e7c301-12a2-426f-9673-f451ab2d330f",
@@ -51470,6 +51479,15 @@ let interview_data_raw = `[
         "Dest": "LHR",
         "AirlineCode": "",
         "InterviewerID": 8
+    },
+    {
+        "InterviewId": "0e5a71ca-5f0a-4c2f-a5a2-e1772109cb01",
+        "InterviewEndDate": "2023-04-30 17:46:11",
+        "InterviewState": "Completed",
+        "Flight": "SN2811",
+        "Dest": "PRG",
+        "AirlineCode": "",
+        "InterviewerID": 2
     }
 ]    
 
