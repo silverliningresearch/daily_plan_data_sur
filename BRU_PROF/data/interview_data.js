@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "EWR",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "01-05-2023 07:05:08"
+        "download_time": "01-05-2023 07:15:14"
     },
     {
         "InterviewId": "4105b7f8-de19-4934-92f9-105a101fc9c6",
@@ -52262,6 +52262,15 @@ let interview_data_raw = `[
         "Dest": "LPA",
         "AirlineCode": "",
         "InterviewerID": 3
+    },
+    {
+        "InterviewId": "9ddbc995-8251-4401-ba06-df7c12bedeb4",
+        "InterviewEndDate": "2023-05-01 08:08:54",
+        "InterviewState": "Completed",
+        "Flight": "XQ757",
+        "Dest": "AOE",
+        "AirlineCode": "",
+        "InterviewerID": 4
     },
     {
         "InterviewId": "4097f7a1-1f7d-4327-93f2-fdc98e09aee6",
