@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "03-05-2023 21:15:14"
+        "download_time": "03-05-2023 21:25:13"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -46396,15 +46396,6 @@ let interview_data_raw = `[
         "InterviewerID": 4
     },
     {
-        "InterviewId": "ad65c40b-ec65-483a-b658-f5f690de0224",
-        "InterviewEndDate": "2023-04-08 13:49:49",
-        "InterviewState": "Completed",
-        "Flight": "LH1011",
-        "Dest": "FRA",
-        "AirlineCode": "",
-        "InterviewerID": 4
-    },
-    {
         "InterviewId": "ce500ede-3dae-4d0f-a11d-dca0ec2a1e7f",
         "InterviewEndDate": "2023-04-08 15:47:12",
         "InterviewState": "Completed",
@@ -53965,6 +53956,15 @@ let interview_data_raw = `[
         "InterviewerID": 2
     },
     {
+        "InterviewId": "29cf6deb-f5ae-44d6-ba04-e67fcc7c8fbc",
+        "InterviewEndDate": "2023-05-03 22:23:49",
+        "InterviewState": "Completed",
+        "Flight": "FR163",
+        "Dest": "BER",
+        "AirlineCode": "",
+        "InterviewerID": 2
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -54312,6 +54312,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "AZ151",
         "Dest": "LIN",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
+        "InterviewId": "ad65c40b-ec65-483a-b658-f5f690de0224",
+        "InterviewEndDate": "2023-04-08 13:49:49",
+        "InterviewState": "Completed",
+        "Flight": "LH1011",
+        "Dest": "FRA",
         "AirlineCode": "",
         "InterviewerID": 4
     },
@@ -56184,6 +56193,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "SN3207",
         "Dest": "VCE",
+        "AirlineCode": "",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "672aa67f-bf1e-4ef4-be34-fa43fa183f4f",
+        "InterviewEndDate": "2023-05-03 22:19:52",
+        "InterviewState": "Completed",
+        "Flight": "FR163",
+        "Dest": "BER",
         "AirlineCode": "",
         "InterviewerID": 2
     }
