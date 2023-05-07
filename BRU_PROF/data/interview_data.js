@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "07-05-2023 14:45:16"
+        "download_time": "07-05-2023 14:55:17"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -52102,15 +52102,6 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
-        "InterviewId": "683ccf26-0de5-4e91-9c41-de4c1f92f18d",
-        "InterviewEndDate": "2023-04-28 19:49:04",
-        "InterviewState": "Completed",
-        "Flight": "ET725",
-        "Dest": "ADD",
-        "AirlineCode": "",
-        "InterviewerID": 10
-    },
-    {
         "InterviewId": "367e6bb9-ac4b-45fc-bb11-c8d32d330997",
         "InterviewEndDate": "2023-04-28 19:51:40",
         "InterviewState": "Completed",
@@ -53967,6 +53958,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "31ce77e4-be86-46c6-a01e-be362fd9c08c",
         "InterviewEndDate": "2023-05-07 15:44:42",
+        "InterviewState": "Completed",
+        "Flight": "IB3209",
+        "Dest": "MAD",
+        "AirlineCode": "",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "ec96d649-a84a-4ad6-978f-bc1bee727e82",
+        "InterviewEndDate": "2023-05-07 15:46:46",
         "InterviewState": "Completed",
         "Flight": "IB3209",
         "Dest": "MAD",
@@ -60229,6 +60229,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "683ccf26-0de5-4e91-9c41-de4c1f92f18d",
+        "InterviewEndDate": "2023-04-28 19:49:04",
+        "InterviewState": "Completed",
+        "Flight": "ET725",
+        "Dest": "ADD",
+        "AirlineCode": "",
+        "InterviewerID": 10
+    },
+    {
         "InterviewId": "43d666e4-1e60-4d3d-b5a3-dfc1fd510329",
         "InterviewEndDate": "2023-04-28 19:48:48",
         "InterviewState": "Completed",
@@ -62306,6 +62315,15 @@ let interview_data_raw = `[
         "Dest": "FRA",
         "AirlineCode": "",
         "InterviewerID": 4
+    },
+    {
+        "InterviewId": "39875c54-5d41-4b2d-9cc6-e1123eeb4b10",
+        "InterviewEndDate": "2023-05-07 15:54:16",
+        "InterviewState": "Completed",
+        "Flight": "IB3209",
+        "Dest": "MAD",
+        "AirlineCode": "",
+        "InterviewerID": 2
     }
 ]    
 
