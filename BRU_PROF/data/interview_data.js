@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "07-05-2023 09:05:15"
+        "download_time": "07-05-2023 09:15:19"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -41023,15 +41023,6 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
-        "InterviewId": "09dd99f6-1e9a-438d-aba2-bd075c1a09b6",
-        "InterviewEndDate": "2023-04-21 21:53:26",
-        "InterviewState": "Completed",
-        "Flight": "SN3675",
-        "Dest": "TLS",
-        "AirlineCode": "",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "9a02b714-f16b-41bd-9f8d-a43382321a13",
         "InterviewEndDate": "2023-04-21 22:01:59",
         "InterviewState": "Completed",
@@ -43030,15 +43021,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "4925b7c0-1bcd-4498-93dc-bce9c0e49588",
-        "InterviewEndDate": "2023-04-28 18:26:31",
-        "InterviewState": "Completed",
-        "Flight": "SN3183",
-        "Dest": "FCO",
-        "AirlineCode": "",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "d2af5553-c42b-49bd-af68-b8a99472fc4d",
         "InterviewEndDate": "2023-04-28 18:48:51",
         "InterviewState": "Completed",
@@ -44970,6 +44952,24 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "XC7621",
         "Dest": "AYT",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
+        "InterviewId": "2a295ed3-c639-465e-9f17-ac6ff75812ee",
+        "InterviewEndDate": "2023-05-07 10:06:41",
+        "InterviewState": "Completed",
+        "Flight": "SN2257",
+        "Dest": "CPH",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
+        "InterviewId": "6b6d7366-52a7-4c5b-9168-ba5d6057e13d",
+        "InterviewEndDate": "2023-05-07 10:05:00",
+        "InterviewState": "Completed",
+        "Flight": "SN2257",
+        "Dest": "CPH",
         "AirlineCode": "",
         "InterviewerID": 4
     },
@@ -52048,6 +52048,15 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
+        "InterviewId": "4925b7c0-1bcd-4498-93dc-bce9c0e49588",
+        "InterviewEndDate": "2023-04-28 18:26:31",
+        "InterviewState": "Completed",
+        "Flight": "SN3183",
+        "Dest": "FCO",
+        "AirlineCode": "",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "71bee467-02a7-4e78-8f4d-cb60c6cd434d",
         "InterviewEndDate": "2023-04-28 18:37:48",
         "InterviewState": "Completed",
@@ -52656,15 +52665,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "SN3819",
         "Dest": "LIS",
-        "AirlineCode": "",
-        "InterviewerID": 2
-    },
-    {
-        "InterviewId": "0e5a71ca-5f0a-4c2f-a5a2-e1772109cb01",
-        "InterviewEndDate": "2023-04-30 17:46:11",
-        "InterviewState": "Completed",
-        "Flight": "SN2811",
-        "Dest": "PRG",
         "AirlineCode": "",
         "InterviewerID": 2
     },
@@ -60103,6 +60103,15 @@ let interview_data_raw = `[
         "InterviewerID": 8
     },
     {
+        "InterviewId": "0e5a71ca-5f0a-4c2f-a5a2-e1772109cb01",
+        "InterviewEndDate": "2023-04-30 17:46:11",
+        "InterviewState": "Completed",
+        "Flight": "SN2811",
+        "Dest": "PRG",
+        "AirlineCode": "",
+        "InterviewerID": 2
+    },
+    {
         "InterviewId": "52fe2edf-d94c-451a-92fa-f8c12320507f",
         "InterviewEndDate": "2023-04-30 18:37:19",
         "InterviewState": "Completed",
@@ -61395,6 +61404,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "SN3587",
         "Dest": "LYS",
+        "AirlineCode": "",
+        "InterviewerID": 4
+    },
+    {
+        "InterviewId": "df225375-210b-4572-a3e1-e1c65e4a9336",
+        "InterviewEndDate": "2023-05-07 10:05:29",
+        "InterviewState": "Completed",
+        "Flight": "SN2257",
+        "Dest": "CPH",
         "AirlineCode": "",
         "InterviewerID": 4
     }
