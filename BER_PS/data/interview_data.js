@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "Istanbul (IST)",
         "AirlineCode": "Turkish Airlines",
         "InterviewerID": 12,
-        "download_time": "08-05-2023 08:46:13"
+        "download_time": "08-05-2023 09:45:16"
     },
     {
         "InterviewId": "c471d1e4-99f2-4c65-8cc6-19c72e9664e9",
@@ -8974,8 +8974,8 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
-        "InterviewId": "49c03da5-b191-45c6-b484-22766a1bcef0",
-        "InterviewEndDate": "2023-05-08 09:36:13",
+        "InterviewId": "2668f726-6d0b-4f66-adb4-44e853325ab3",
+        "InterviewEndDate": "2023-05-08 10:18:25",
         "InterviewState": "Completed",
         "Flight": "EJU5145",
         "Dest": "Nizza (NCE)",
