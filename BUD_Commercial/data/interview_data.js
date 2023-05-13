@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "13-05-2023 11:40:34"
+        "download_time": "13-05-2023 12:39:34"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -3193,6 +3193,69 @@ let interview_data_raw = `[
         "Flight": "FR 4134",
         "Dest": "BRS",
         "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "14c77c32-377d-4b18-8461-1eda108e1818",
+        "InterviewEndDate": "2023-05-13 12:44:58",
+        "InterviewState": "Completed",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "4d5cc29f-581e-4ec7-bc42-cf67ec61f487",
+        "InterviewEndDate": "2023-05-13 12:48:26",
+        "InterviewState": "Completed",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "44efdcb8-1bf4-4987-af21-b3318ddad6fd",
+        "InterviewEndDate": "2023-05-13 12:47:27",
+        "InterviewState": "Completed",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "1105d9e6-4077-4d41-b2a6-51fefaca885c",
+        "InterviewEndDate": "2023-05-13 12:53:20",
+        "InterviewState": "Completed",
+        "Flight": "EI  673",
+        "Dest": "DUB",
+        "AirlineCode": "EI",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "7616d655-04e0-4a5d-9efc-539fca3c6ae9",
+        "InterviewEndDate": "2023-05-13 13:27:20",
+        "InterviewState": "Completed",
+        "Flight": "W6 2297",
+        "Dest": "RUH",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "209b1399-54b0-4945-9ebd-5ace80e6395a",
+        "InterviewEndDate": "2023-05-13 13:23:36",
+        "InterviewState": "Completed",
+        "Flight": "W6 2297",
+        "Dest": "RUH",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "caee7b74-9826-4801-bfe9-07910e94cc9c",
+        "InterviewEndDate": "2023-05-13 13:31:04",
+        "InterviewState": "Completed",
+        "Flight": "W6 2297",
+        "Dest": "RUH",
+        "AirlineCode": "W6",
         "InterviewerID": 1
     }
 ]    
