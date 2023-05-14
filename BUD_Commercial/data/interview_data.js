@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "14-05-2023 17:10:34"
+        "download_time": "14-05-2023 18:09:34"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -3427,6 +3427,69 @@ let interview_data_raw = `[
         "Flight": "FR 5097",
         "Dest": "AMM",
         "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "38740c68-d4e3-45b3-89c6-6d3d5a1eea1a",
+        "InterviewEndDate": "2023-05-14 18:25:47",
+        "InterviewState": "Completed",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "aee886a2-724e-4d8f-89b2-7a9045d5f82f",
+        "InterviewEndDate": "2023-05-14 18:29:07",
+        "InterviewState": "Completed",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "6d7b5e66-d804-4c00-b949-07c18d78ba74",
+        "InterviewEndDate": "2023-05-14 18:37:19",
+        "InterviewState": "Completed",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "59f1fad6-6d89-4b79-9049-9943a5884b3a",
+        "InterviewEndDate": "2023-05-14 18:40:43",
+        "InterviewState": "Completed",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "55c5d4c3-be99-47c6-bd0e-f22b22abd0f2",
+        "InterviewEndDate": "2023-05-14 18:40:56",
+        "InterviewState": "Completed",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "5daa5254-33a8-4e0e-beb2-a42e66a178a0",
+        "InterviewEndDate": "2023-05-14 18:40:01",
+        "InterviewState": "Completed",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "11d86035-7471-4922-8321-14502d64ff16",
+        "InterviewEndDate": "2023-05-14 18:41:31",
+        "InterviewState": "Completed",
+        "Flight": "SN 2826",
+        "Dest": "BRU",
+        "AirlineCode": "SN",
         "InterviewerID": 1
     }
 ]    
