@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "15-05-2023 15:47:34"
+        "download_time": "15-05-2023 16:46:34"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -3536,6 +3536,78 @@ let interview_data_raw = `[
         "Dest": "ARN",
         "AirlineCode": "FR",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "8a8a7527-27cb-40eb-b676-7f95cdbfffd4",
+        "InterviewEndDate": "2023-05-15 17:21:25",
+        "InterviewState": "Completed",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "29eef25f-5a1f-40c6-9e35-4ab33ed3148b",
+        "InterviewEndDate": "2023-05-15 17:34:05",
+        "InterviewState": "Completed",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "0b017347-2e34-4c97-8423-44b0274880b7",
+        "InterviewEndDate": "2023-05-15 17:28:08",
+        "InterviewState": "Completed",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "9a000b6b-312a-4636-8235-18e0f6e28688",
+        "InterviewEndDate": "2023-05-15 17:31:51",
+        "InterviewState": "Completed",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "001ff1d2-eb6c-4fbd-96a3-95b1b2ea29a5",
+        "InterviewEndDate": "2023-05-15 17:29:10",
+        "InterviewState": "Completed",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "a427e09f-e668-4ed5-b1a8-b8041b93e5d3",
+        "InterviewEndDate": "2023-05-15 17:31:11",
+        "InterviewState": "Completed",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "c4e9b06c-2932-4208-b6a4-144f74482609",
+        "InterviewEndDate": "2023-05-15 17:42:14",
+        "InterviewState": "Completed",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "dda8926c-1df6-4cef-9aa8-57b152e23a49",
+        "InterviewEndDate": "2023-05-15 17:41:37",
+        "InterviewState": "Completed",
+        "Flight": "FR 2517",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
     }
 ]    
 
