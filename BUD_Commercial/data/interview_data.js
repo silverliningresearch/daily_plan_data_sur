@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "16-05-2023 16:22:34"
+        "download_time": "16-05-2023 17:21:34"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -3922,6 +3922,60 @@ let interview_data_raw = `[
         "Flight": "FR  839",
         "Dest": "TLV",
         "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "d8e71d54-1f49-4128-b7e6-4975b710d16e",
+        "InterviewEndDate": "2023-05-16 17:47:06",
+        "InterviewState": "Completed",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "5c10de46-9b24-45ae-940b-04794065e9e2",
+        "InterviewEndDate": "2023-05-16 17:50:00",
+        "InterviewState": "Completed",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "4d39557f-4496-49d2-8ab0-d691daa9e734",
+        "InterviewEndDate": "2023-05-16 17:49:17",
+        "InterviewState": "Completed",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "28b28116-d957-4e54-aaf1-f8e9e779e18d",
+        "InterviewEndDate": "2023-05-16 17:52:35",
+        "InterviewState": "Completed",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "ed739b8f-39c2-4967-b70f-0dfe1fb96a6a",
+        "InterviewEndDate": "2023-05-16 17:54:36",
+        "InterviewState": "Completed",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "80c662ab-813b-4b3b-b627-c0fb6fb8ed49",
+        "InterviewEndDate": "2023-05-16 17:55:05",
+        "InterviewState": "Completed",
+        "Flight": "LO  538",
+        "Dest": "WAW",
+        "AirlineCode": "LO",
         "InterviewerID": 7
     }
 ]    
