@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "16-05-2023 12:26:34"
+        "download_time": "16-05-2023 13:25:35"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -3851,6 +3851,78 @@ let interview_data_raw = `[
         "Dest": "EMA",
         "AirlineCode": "FR",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "71cd7d14-9254-44f5-ae72-2ac6bfb18194",
+        "InterviewEndDate": "2023-05-16 14:08:34",
+        "InterviewState": "Completed",
+        "Flight": "FR  839",
+        "Dest": "TLV",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "387d34d6-0d3d-4c08-a604-450c12922683",
+        "InterviewEndDate": "2023-05-16 14:05:48",
+        "InterviewState": "Completed",
+        "Flight": "FR  839",
+        "Dest": "TLV",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "3838b710-1801-46f4-aeb1-b90e4a211fc5",
+        "InterviewEndDate": "2023-05-16 14:08:37",
+        "InterviewState": "Completed",
+        "Flight": "FR  839",
+        "Dest": "TLV",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "b0b835ce-07bf-483d-a7b4-e7e1676ffb7f",
+        "InterviewEndDate": "2023-05-16 14:13:49",
+        "InterviewState": "Completed",
+        "Flight": "FR  839",
+        "Dest": "TLV",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "11550cf0-8fec-4ce1-bdfb-ced743ef5f4a",
+        "InterviewEndDate": "2023-05-16 14:16:25",
+        "InterviewState": "Completed",
+        "Flight": "FR  839",
+        "Dest": "TLV",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "db211d30-310c-4a3a-9743-dd8c8037a7c7",
+        "InterviewEndDate": "2023-05-16 14:09:45",
+        "InterviewState": "Completed",
+        "Flight": "FR  839",
+        "Dest": "TLV",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "cad83262-7bba-44a0-abb5-c2370d9b7301",
+        "InterviewEndDate": "2023-05-16 14:11:40",
+        "InterviewState": "Completed",
+        "Flight": "FR  839",
+        "Dest": "TLV",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "26ce779d-3e9b-4f4e-8d04-00543fa56790",
+        "InterviewEndDate": "2023-05-16 14:18:21",
+        "InterviewState": "Completed",
+        "Flight": "FR  839",
+        "Dest": "TLV",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
     }
 ]    
 
