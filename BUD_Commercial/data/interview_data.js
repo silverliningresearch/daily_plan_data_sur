@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "17-05-2023 13:01:33"
+        "download_time": "17-05-2023 14:00:36"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -4024,12 +4024,129 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "e87c2878-b959-4faf-b2e4-9969069bcabd",
+        "InterviewEndDate": "2023-05-17 14:02:17",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "a55827f3-61ee-4c7e-8305-e5430f43deb4",
+        "InterviewEndDate": "2023-05-17 14:03:43",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "7869d353-1d0a-4cb6-b093-1aa45131634e",
+        "InterviewEndDate": "2023-05-17 14:17:43",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "a3ec5dc6-63a6-4001-916e-0698277ae3a3",
         "InterviewEndDate": "2023-05-17 14:01:27",
         "InterviewState": "Completed",
         "Flight": "TK 1034",
         "Dest": "IST",
         "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d8309f21-708a-44d8-b9e8-26e2ac8c237c",
+        "InterviewEndDate": "2023-05-17 14:15:59",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "094c6a87-23b9-4491-b32d-fb8a4a89b343",
+        "InterviewEndDate": "2023-05-17 14:23:48",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "7a528318-d158-476a-8ea3-542040a4b461",
+        "InterviewEndDate": "2023-05-17 14:21:44",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "7ed23b31-2b63-40c3-a9a7-86c816ff5436",
+        "InterviewEndDate": "2023-05-17 14:17:55",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "42e25f82-ed35-48f8-9813-9eae628c7d55",
+        "InterviewEndDate": "2023-05-17 14:25:53",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "c3888383-79ab-4666-a1cc-5f2dd49e5ee8",
+        "InterviewEndDate": "2023-05-17 14:39:40",
+        "InterviewState": "Completed",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "f2387b38-7b4b-4d72-bf8b-3dc64db87673",
+        "InterviewEndDate": "2023-05-17 14:43:03",
+        "InterviewState": "Completed",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "77ef87ef-f8c1-4cfa-b2dc-be19422cb863",
+        "InterviewEndDate": "2023-05-17 14:42:18",
+        "InterviewState": "Completed",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "2afce9cd-cdff-4c4e-a128-2669f9e70e14",
+        "InterviewEndDate": "2023-05-17 14:41:21",
+        "InterviewState": "Completed",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "51a377ce-206b-436c-b3a8-768816197beb",
+        "InterviewEndDate": "2023-05-17 14:41:40",
+        "InterviewState": "Completed",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
         "InterviewerID": 1
     }
 ]    
