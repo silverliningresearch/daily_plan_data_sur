@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "18-05-2023 11:38:34"
+        "download_time": "18-05-2023 12:37:35"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -4407,6 +4407,60 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 4271",
         "Dest": "POZ",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "dbb22c8a-2106-4cad-b9d9-ac4349914aed",
+        "InterviewEndDate": "2023-05-18 13:01:51",
+        "InterviewState": "Completed",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "4cf6fb8d-43d6-4eb3-be94-eb228e77b42b",
+        "InterviewEndDate": "2023-05-18 13:02:07",
+        "InterviewState": "Completed",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "45926d7b-f706-4897-80d0-37d2831eb235",
+        "InterviewEndDate": "2023-05-18 13:02:11",
+        "InterviewState": "Completed",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "f1c5a238-c5c5-4d14-aa39-314e5931c60d",
+        "InterviewEndDate": "2023-05-18 13:01:03",
+        "InterviewState": "Completed",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ed365c89-168a-4183-ad22-d11725c040c6",
+        "InterviewEndDate": "2023-05-18 13:04:19",
+        "InterviewState": "Completed",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "37c6ef89-21ac-49e1-bc01-1e70fbc52a83",
+        "InterviewEndDate": "2023-05-18 13:09:57",
+        "InterviewState": "Completed",
+        "Flight": "FR  605",
+        "Dest": "CPH",
         "AirlineCode": "FR",
         "InterviewerID": 1
     }
