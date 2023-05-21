@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "21-05-2023 15:21:34"
+        "download_time": "21-05-2023 16:20:34"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -4668,6 +4668,78 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 1018",
         "Dest": "EDI",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "c518761f-1c0e-46ee-be8c-f4e2eeb1e6d6",
+        "InterviewEndDate": "2023-05-21 16:53:04",
+        "InterviewState": "Completed",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "e940f958-90ed-4559-989f-90a9846bc4aa",
+        "InterviewEndDate": "2023-05-21 16:51:50",
+        "InterviewState": "Completed",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "4ac9e550-2162-49d6-8f7b-ed2c6445a2f0",
+        "InterviewEndDate": "2023-05-21 16:47:07",
+        "InterviewState": "Completed",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "cb5fe506-b981-4d88-a265-6fe3834058d8",
+        "InterviewEndDate": "2023-05-21 16:51:53",
+        "InterviewState": "Completed",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "003544fc-7f0d-451a-ab80-e7f66132fb44",
+        "InterviewEndDate": "2023-05-21 16:49:53",
+        "InterviewState": "Completed",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "9442c99e-bca8-4ebe-b2bc-66035dc72084",
+        "InterviewEndDate": "2023-05-21 17:00:01",
+        "InterviewState": "Completed",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "b018e9e2-c4dc-446f-bf51-b01a8e33dc66",
+        "InterviewEndDate": "2023-05-21 17:07:05",
+        "InterviewState": "Completed",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "02b42419-3cc7-4abf-883d-b8a7c28703ad",
+        "InterviewEndDate": "2023-05-21 17:09:42",
+        "InterviewState": "Completed",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
         "AirlineCode": "FR",
         "InterviewerID": 1
     }
