@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "21-05-2023 17:19:35"
+        "download_time": "21-05-2023 18:18:35"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -4741,6 +4741,42 @@ let interview_data_raw = `[
         "Flight": "FR 1024",
         "Dest": "DUB",
         "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "dea96ffe-d4da-4641-a053-7c2f8fd096ec",
+        "InterviewEndDate": "2023-05-21 18:48:28",
+        "InterviewState": "Completed",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "fefdc7aa-eeff-458e-8571-19bc568c0db8",
+        "InterviewEndDate": "2023-05-21 18:51:11",
+        "InterviewState": "Completed",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "010c2146-0821-4fc9-b641-6846839b0160",
+        "InterviewEndDate": "2023-05-21 18:48:47",
+        "InterviewState": "Completed",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ba37b502-3d70-455e-8414-7bade46132a2",
+        "InterviewEndDate": "2023-05-21 18:48:45",
+        "InterviewState": "Completed",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ",
         "InterviewerID": 1
     }
 ]    
