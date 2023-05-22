@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "JFK",
         "AirlineCode": "",
         "InterviewerID": 4,
-        "download_time": "22-05-2023 18:15:38"
+        "download_time": "22-05-2023 18:25:35"
     },
     {
         "InterviewId": "3d5a2376-3636-4fa5-b88d-0ee2001cc4a2",
@@ -72838,15 +72838,6 @@ let interview_data_raw = `[
         "InterviewerID": 8
     },
     {
-        "InterviewId": "69d62870-9991-4fe3-82d8-f25972ff0c9b",
-        "InterviewEndDate": "2023-04-08 21:35:51",
-        "InterviewState": "Completed",
-        "Flight": "SN2103",
-        "Dest": "LHR",
-        "AirlineCode": "",
-        "InterviewerID": 8
-    },
-    {
         "InterviewId": "f3d064e5-cc79-49f8-976d-e4e3202d527d",
         "InterviewEndDate": "2023-04-08 21:41:04",
         "InterviewState": "Completed",
@@ -80965,6 +80956,15 @@ let interview_data_raw = `[
         "InterviewerID": 2
     },
     {
+        "InterviewId": "b8b12782-a201-40f9-9120-e2766cd4a17b",
+        "InterviewEndDate": "2023-05-22 19:20:06",
+        "InterviewState": "Completed",
+        "Flight": "EJU1442",
+        "Dest": "GVA",
+        "AirlineCode": "",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "86f4da43-3a52-4894-bbf1-fbbaf3f30747",
         "InterviewEndDate": "2023-04-01 10:14:25",
         "InterviewState": "Completed",
@@ -81501,6 +81501,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "TK1940",
         "Dest": "IST",
+        "AirlineCode": "",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "69d62870-9991-4fe3-82d8-f25972ff0c9b",
+        "InterviewEndDate": "2023-04-08 21:35:51",
+        "InterviewState": "Completed",
+        "Flight": "SN2103",
+        "Dest": "LHR",
         "AirlineCode": "",
         "InterviewerID": 8
     },
@@ -85557,6 +85566,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "3f5d925b-4faf-4665-82f5-f8f3de21dfce",
         "InterviewEndDate": "2023-05-22 19:12:34",
+        "InterviewState": "Completed",
+        "Flight": "EJU1442",
+        "Dest": "GVA",
+        "AirlineCode": "",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "b9ed3877-3247-4d4f-968c-f40fe3595e08",
+        "InterviewEndDate": "2023-05-22 19:18:17",
         "InterviewState": "Completed",
         "Flight": "EJU1442",
         "Dest": "GVA",
