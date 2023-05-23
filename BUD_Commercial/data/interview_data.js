@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "23-05-2023 12:35:36"
+        "download_time": "23-05-2023 13:34:38"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -4859,6 +4859,60 @@ let interview_data_raw = `[
         "Dest": "FNC",
         "AirlineCode": "W6",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "50d7eb90-03d5-4c94-b72a-81094193c3cf",
+        "InterviewEndDate": "2023-05-23 13:50:38",
+        "InterviewState": "Completed",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "4f39947a-f7a8-42fe-a853-ba3f28ec3c79",
+        "InterviewEndDate": "2023-05-23 13:51:50",
+        "InterviewState": "Completed",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "21d7e4be-f3dd-4bc2-b9c8-165edec589e5",
+        "InterviewEndDate": "2023-05-23 13:53:25",
+        "InterviewState": "Completed",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "f93e5318-555b-44fb-97cd-92e737cb1867",
+        "InterviewEndDate": "2023-05-23 13:54:13",
+        "InterviewState": "Completed",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "b2ffd70f-3d00-40cc-8bee-b610818f282a",
+        "InterviewEndDate": "2023-05-23 14:00:29",
+        "InterviewState": "Completed",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "fdd56cef-bdd8-489a-bbd4-8467fdb4d347",
+        "InterviewEndDate": "2023-05-23 14:12:00",
+        "InterviewState": "Completed",
+        "Flight": "FR 6515",
+        "Dest": "CIA",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
     }
 ]    
 
