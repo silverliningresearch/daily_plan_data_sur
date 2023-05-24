@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "24-05-2023 14:09:35"
+        "download_time": "24-05-2023 14:27:05"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -4957,6 +4957,69 @@ let interview_data_raw = `[
         "Flight": "W6 2495",
         "Dest": "MLA",
         "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "a37eebe3-7a81-479e-8da5-67705d592f74",
+        "InterviewEndDate": "2023-05-24 15:11:29",
+        "InterviewState": "Completed",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "da5abb9c-9c80-41c0-ae5f-22cd190469ac",
+        "InterviewEndDate": "2023-05-24 15:09:40",
+        "InterviewState": "Completed",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "d062e47e-d781-4c79-93cb-9dfa2452e5eb",
+        "InterviewEndDate": "2023-05-24 15:16:14",
+        "InterviewState": "Completed",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "3b6308ee-10a7-4f34-8408-fc301d957532",
+        "InterviewEndDate": "2023-05-24 15:20:34",
+        "InterviewState": "Completed",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "26c3d9d1-e839-4e95-b36f-8207a000990e",
+        "InterviewEndDate": "2023-05-24 15:21:40",
+        "InterviewState": "Completed",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "4866a933-0135-4133-a8a2-c9c317d36f1e",
+        "InterviewEndDate": "2023-05-24 15:23:32",
+        "InterviewState": "Completed",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "6ab5d480-d818-4ea7-ab64-66734b7e139e",
+        "InterviewEndDate": "2023-05-24 15:20:39",
+        "InterviewState": "Completed",
+        "Flight": "D8 3551",
+        "Dest": "CPH",
+        "AirlineCode": "D8",
         "InterviewerID": 7
     }
 ]    
