@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "25-05-2023 07:09:46"
+        "download_time": "25-05-2023 08:08:45"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -5065,6 +5065,96 @@ let interview_data_raw = `[
         "Flight": "W6 2429",
         "Dest": "IST",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "22aea5f9-259e-4f7f-a084-ace03a8a9e54",
+        "InterviewEndDate": "2023-05-25 08:47:05",
+        "InterviewState": "Completed",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "0f7e3b03-6605-43c3-a126-096c70394801",
+        "InterviewEndDate": "2023-05-25 08:43:24",
+        "InterviewState": "Completed",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "e2be68c2-6faf-4b2f-bbd0-b3b1210d8b2e",
+        "InterviewEndDate": "2023-05-25 08:49:03",
+        "InterviewState": "Completed",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "b584c6b8-550e-4511-a46d-bf06d2f4cb13",
+        "InterviewEndDate": "2023-05-25 08:45:27",
+        "InterviewState": "Completed",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "2291de21-4466-4c3e-bcea-c8494ac28a6d",
+        "InterviewEndDate": "2023-05-25 08:49:13",
+        "InterviewState": "Completed",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "b11179f0-4c34-493a-bd9c-380da16a35ff",
+        "InterviewEndDate": "2023-05-25 08:58:18",
+        "InterviewState": "Completed",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "04a97765-d842-4447-aeb1-b74fce2c91b4",
+        "InterviewEndDate": "2023-05-25 08:57:06",
+        "InterviewState": "Completed",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ff6b74b2-d38c-4922-b62c-c0956f4aa675",
+        "InterviewEndDate": "2023-05-25 08:57:04",
+        "InterviewState": "Completed",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "113e5097-ad1f-4c13-a5b1-d6d05aceafd5",
+        "InterviewEndDate": "2023-05-25 09:03:37",
+        "InterviewState": "Completed",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "1e279afb-0e46-448d-947a-bf53d44d4eff",
+        "InterviewEndDate": "2023-05-25 08:57:33",
+        "InterviewState": "Completed",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW",
         "InterviewerID": 1
     }
 ]    
