@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "26-05-2023 12:39:45"
+        "download_time": "26-05-2023 13:38:45"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -5353,6 +5353,51 @@ let interview_data_raw = `[
         "Flight": "FR 4329",
         "Dest": "SNN",
         "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "209936a4-6378-4300-85f5-30e12c5da8ae",
+        "InterviewEndDate": "2023-05-26 13:45:02",
+        "InterviewState": "Completed",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "82c631f0-d74e-4f92-8a90-66b90a549f5e",
+        "InterviewEndDate": "2023-05-26 13:45:38",
+        "InterviewState": "Completed",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "abc41630-c675-442d-849d-20a6c16782fc",
+        "InterviewEndDate": "2023-05-26 14:00:27",
+        "InterviewState": "Completed",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "b39497ab-32de-42d8-9ebd-22ec2353a3fe",
+        "InterviewEndDate": "2023-05-26 13:53:55",
+        "InterviewState": "Completed",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "5149d57c-0df3-4633-830f-bce802535900",
+        "InterviewEndDate": "2023-05-26 13:59:21",
+        "InterviewState": "Completed",
+        "Flight": "LH 1677",
+        "Dest": "MUC",
+        "AirlineCode": "LH",
         "InterviewerID": 1
     }
 ]    
