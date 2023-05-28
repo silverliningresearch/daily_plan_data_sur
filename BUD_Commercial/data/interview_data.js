@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "28-05-2023 09:53:45"
+        "download_time": "28-05-2023 10:52:45"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -5524,6 +5524,60 @@ let interview_data_raw = `[
         "Flight": "D8 4488",
         "Dest": "ARN",
         "AirlineCode": "D8",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "3b622b15-f90b-4844-b64e-f19599662bc2",
+        "InterviewEndDate": "2023-05-28 11:12:45",
+        "InterviewState": "Completed",
+        "Flight": "W6 2263",
+        "Dest": "NCE",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "433a470b-cd2b-4575-b6a9-b97575c7ba7b",
+        "InterviewEndDate": "2023-05-28 11:12:35",
+        "InterviewState": "Completed",
+        "Flight": "W6 2263",
+        "Dest": "NCE",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "15ef083e-d4fe-4807-87d9-b9c6290bfd00",
+        "InterviewEndDate": "2023-05-28 11:47:47",
+        "InterviewState": "Completed",
+        "Flight": "W6 2493",
+        "Dest": "TFS",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "103c36a0-4f40-41db-a249-ce9423e1a5aa",
+        "InterviewEndDate": "2023-05-28 11:48:07",
+        "InterviewState": "Completed",
+        "Flight": "W6 2493",
+        "Dest": "TFS",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ff8850d3-9469-402f-8ade-3e4d1498dd6f",
+        "InterviewEndDate": "2023-05-28 11:48:26",
+        "InterviewState": "Completed",
+        "Flight": "W6 2493",
+        "Dest": "TFS",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "9e7126e1-cb67-4917-88d6-8707f42996b0",
+        "InterviewEndDate": "2023-05-28 11:51:34",
+        "InterviewState": "Completed",
+        "Flight": "W6 2493",
+        "Dest": "TFS",
+        "AirlineCode": "W6",
         "InterviewerID": 1
     }
 ]    
