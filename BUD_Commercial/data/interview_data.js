@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "29-05-2023 09:29:46"
+        "download_time": "29-05-2023 10:28:45"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -5605,6 +5605,33 @@ let interview_data_raw = `[
         "Flight": "EZS1218",
         "Dest": "BSL",
         "AirlineCode": "EZS1218",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "190a5ec8-eb3a-4251-a057-8833d158dc8b",
+        "InterviewEndDate": "2023-05-29 11:09:37",
+        "InterviewState": "Completed",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "c536127b-1e94-4687-b2be-a42db71a5235",
+        "InterviewEndDate": "2023-05-29 11:08:19",
+        "InterviewState": "Completed",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "39877efa-115f-4aab-9e39-f5c746f4f03b",
+        "InterviewEndDate": "2023-05-29 11:08:12",
+        "InterviewState": "Completed",
+        "Flight": "FR 4305",
+        "Dest": "TSF",
+        "AirlineCode": "FR",
         "InterviewerID": 1
     }
 ]    
