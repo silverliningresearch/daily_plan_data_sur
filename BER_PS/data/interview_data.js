@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "Istanbul (IST)",
         "AirlineCode": "Turkish Airlines",
         "InterviewerID": 12,
-        "download_time": "31-05-2023 07:44:12"
+        "download_time": "31-05-2023 08:43:12"
     },
     {
         "InterviewId": "c471d1e4-99f2-4c65-8cc6-19c72e9664e9",
@@ -15904,15 +15904,6 @@ let interview_data_raw = `[
         "InterviewerID": 19
     },
     {
-        "InterviewId": "7d37140a-42ea-4727-bea5-6fb93b247bc0",
-        "InterviewEndDate": "2023-05-16 21:39:01",
-        "InterviewState": "Completed",
-        "Flight": "BA  999",
-        "Dest": "London (LHR)",
-        "AirlineCode": "British Airways",
-        "InterviewerID": 12
-    },
-    {
         "InterviewId": "07b7cc40-cead-43d1-bebc-424752e2c670",
         "InterviewEndDate": "2023-05-17 17:09:55",
         "InterviewState": "Completed",
@@ -17983,6 +17974,15 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "1d73de4b-c8df-4527-8d7e-6c1dd807e628",
+        "InterviewEndDate": "2023-05-31 09:10:33",
+        "InterviewState": "Completed",
+        "Flight": "AY 1432",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 19
+    },
+    {
         "InterviewId": "88a15fe2-bc31-4068-9a50-8ee9ed82a24a",
         "InterviewEndDate": "2023-03-08 15:51:16",
         "InterviewState": "Completed",
@@ -18529,15 +18529,6 @@ let interview_data_raw = `[
         "Flight": "FR  008",
         "Dest": "Mailand (MXP)",
         "AirlineCode": "Ryanair",
-        "InterviewerID": 10
-    },
-    {
-        "InterviewId": "1d05b927-c032-47da-b826-a480f19a8317",
-        "InterviewEndDate": "2023-03-07 15:46:13",
-        "InterviewState": "Completed",
-        "Flight": "LH  193",
-        "Dest": "Frankfurt (FRA)",
-        "AirlineCode": "Lufthansa",
         "InterviewerID": 10
     },
     {
@@ -24787,6 +24778,15 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
+        "InterviewId": "7d37140a-42ea-4727-bea5-6fb93b247bc0",
+        "InterviewEndDate": "2023-05-16 21:39:01",
+        "InterviewState": "Completed",
+        "Flight": "BA  999",
+        "Dest": "London (LHR)",
+        "AirlineCode": "British Airways",
+        "InterviewerID": 12
+    },
+    {
         "InterviewId": "8a8e6f65-962e-454e-b4c9-7bf77818e351",
         "InterviewEndDate": "2023-05-16 21:53:07",
         "InterviewState": "Completed",
@@ -27655,6 +27655,15 @@ let interview_data_raw = `[
         "Flight": "FR  008",
         "Dest": "Mailand (MXP)",
         "AirlineCode": "Ryanair",
+        "InterviewerID": 10
+    },
+    {
+        "InterviewId": "1d05b927-c032-47da-b826-a480f19a8317",
+        "InterviewEndDate": "2023-03-07 15:46:13",
+        "InterviewState": "Completed",
+        "Flight": "LH  193",
+        "Dest": "Frankfurt (FRA)",
+        "AirlineCode": "Lufthansa",
         "InterviewerID": 10
     },
     {
@@ -30961,15 +30970,6 @@ let interview_data_raw = `[
         "InterviewerID": 14
     },
     {
-        "InterviewId": "e1468681-cad8-496b-9381-d86ab1f4554e",
-        "InterviewEndDate": "2023-04-01 15:06:13",
-        "InterviewState": "Completed",
-        "Flight": "LH  191",
-        "Dest": "Frankfurt (FRA)",
-        "AirlineCode": "Lufthansa",
-        "InterviewerID": 11
-    },
-    {
         "InterviewId": "074c486b-391e-4d91-b9f0-b9be22086147",
         "InterviewEndDate": "2023-04-01 15:32:04",
         "InterviewState": "Completed",
@@ -31804,15 +31804,6 @@ let interview_data_raw = `[
         "Flight": "TK 1726",
         "Dest": "Istanbul (IST)",
         "AirlineCode": "Turkish Airlines",
-        "InterviewerID": 1
-    },
-    {
-        "InterviewId": "ffed5673-b648-4a95-80af-d8765d2292d1",
-        "InterviewEndDate": "2023-04-16 16:49:11",
-        "InterviewState": "Completed",
-        "Flight": "EZY2934",
-        "Dest": "Bristol (BRS)",
-        "AirlineCode": "easyJet UK",
         "InterviewerID": 1
     },
     {
@@ -34525,15 +34516,6 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
-        "InterviewId": "63b43410-bc1e-4df7-b773-d855a7e8b249",
-        "InterviewEndDate": "2023-05-20 13:20:40",
-        "InterviewState": "Completed",
-        "Flight": "AY 1434",
-        "Dest": "Helsinki (HEL)",
-        "AirlineCode": "Finnair",
-        "InterviewerID": 11
-    },
-    {
         "InterviewId": "e43d7f68-3810-4d23-acf2-c6233f077c30",
         "InterviewEndDate": "2023-05-20 13:37:22",
         "InterviewState": "Completed",
@@ -34721,15 +34703,6 @@ let interview_data_raw = `[
         "Dest": "Frankfurt (FRA)",
         "AirlineCode": "Lufthansa",
         "InterviewerID": 15
-    },
-    {
-        "InterviewId": "385d2b84-8980-48df-95b9-d87075ba4305",
-        "InterviewEndDate": "2023-05-21 12:59:58",
-        "InterviewState": "Completed",
-        "Flight": "SR 6472",
-        "Dest": "Hurghada (HRG)",
-        "AirlineCode": "SUNDAIR",
-        "InterviewerID": 1
     },
     {
         "InterviewId": "5a9235d7-a4f0-4ce8-8328-b5eab2c75be1",
@@ -35920,6 +35893,15 @@ let interview_data_raw = `[
         "InterviewerID": 22
     },
     {
+        "InterviewId": "aa6ac5d9-d7d5-4485-8ec3-cf5ed394221f",
+        "InterviewEndDate": "2023-05-31 09:09:59",
+        "InterviewState": "Completed",
+        "Flight": "AY 1432",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 2
+    },
+    {
         "InterviewId": "16e46e09-e43e-46cd-b603-c3ac44eaf034",
         "InterviewEndDate": "2023-05-30 20:51:50",
         "InterviewState": "Completed",
@@ -35963,6 +35945,24 @@ let interview_data_raw = `[
         "Dest": "Mailand (LIN)",
         "AirlineCode": "easyJet Europe",
         "InterviewerID": 12
+    },
+    {
+        "InterviewId": "a57b3101-e066-4c2e-871a-b27ff7d169ef",
+        "InterviewEndDate": "2023-05-31 09:10:41",
+        "InterviewState": "Completed",
+        "Flight": "AY 1432",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 19
+    },
+    {
+        "InterviewId": "b79f8081-8834-4f08-8375-aaf5f8b29e63",
+        "InterviewEndDate": "2023-05-31 09:09:06",
+        "InterviewState": "Completed",
+        "Flight": "AY 1432",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 2
     },
     {
         "InterviewId": "1d01697a-5cc6-41f4-94ec-fd4e7d0fe362",
@@ -38809,6 +38809,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "e1468681-cad8-496b-9381-d86ab1f4554e",
+        "InterviewEndDate": "2023-04-01 15:06:13",
+        "InterviewState": "Completed",
+        "Flight": "LH  191",
+        "Dest": "Frankfurt (FRA)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "96e54e94-2699-4d8b-bb9c-e4fb34ef8022",
         "InterviewEndDate": "2023-04-01 16:08:00",
         "InterviewState": "Completed",
@@ -39634,6 +39643,15 @@ let interview_data_raw = `[
         "Flight": "QR  082",
         "Dest": "Doha (DOH)",
         "AirlineCode": "Qatar Airways",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ffed5673-b648-4a95-80af-d8765d2292d1",
+        "InterviewEndDate": "2023-04-16 16:49:11",
+        "InterviewState": "Completed",
+        "Flight": "EZY2934",
+        "Dest": "Bristol (BRS)",
+        "AirlineCode": "easyJet UK",
         "InterviewerID": 1
     },
     {
@@ -41716,6 +41734,15 @@ let interview_data_raw = `[
         "InterviewerID": 20
     },
     {
+        "InterviewId": "63b43410-bc1e-4df7-b773-d855a7e8b249",
+        "InterviewEndDate": "2023-05-20 13:20:40",
+        "InterviewState": "Completed",
+        "Flight": "AY 1434",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 11
+    },
+    {
         "InterviewId": "c411fe44-7ef9-4a48-b1bf-d975106ec666",
         "InterviewEndDate": "2023-05-20 13:30:23",
         "InterviewState": "Completed",
@@ -41821,6 +41848,15 @@ let interview_data_raw = `[
         "Flight": "LH  185",
         "Dest": "Frankfurt (FRA)",
         "AirlineCode": "Lufthansa",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "385d2b84-8980-48df-95b9-d87075ba4305",
+        "InterviewEndDate": "2023-05-21 12:59:58",
+        "InterviewState": "Completed",
+        "Flight": "SR 6472",
+        "Dest": "Hurghada (HRG)",
+        "AirlineCode": "SUNDAIR",
         "InterviewerID": 1
     },
     {
@@ -42839,6 +42875,33 @@ let interview_data_raw = `[
         "Dest": "Mailand (LIN)",
         "AirlineCode": "easyJet Europe",
         "InterviewerID": 12
+    },
+    {
+        "InterviewId": "34164bc1-7f5d-4917-8ccf-db1d5b7c93bf",
+        "InterviewEndDate": "2023-05-31 09:16:33",
+        "InterviewState": "Completed",
+        "Flight": "AY 1432",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 19
+    },
+    {
+        "InterviewId": "4b119f50-0e24-421d-97b2-e929503769b5",
+        "InterviewEndDate": "2023-05-31 09:11:41",
+        "InterviewState": "Completed",
+        "Flight": "AY 1432",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "7e21006a-435c-4a86-86e3-e16f77b65a5d",
+        "InterviewEndDate": "2023-05-31 09:09:46",
+        "InterviewState": "Completed",
+        "Flight": "AY 1432",
+        "Dest": "Helsinki (HEL)",
+        "AirlineCode": "Finnair",
+        "InterviewerID": 19
     }
 ]    
 
