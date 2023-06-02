@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "02-06-2023 07:53:46"
+        "download_time": "02-06-2023 08:52:46"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -6200,6 +6200,123 @@ let interview_data_raw = `[
         "Dest": "RHO",
         "AirlineCode": "FR",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "9b06a1f8-6c14-4c22-a9a6-a1010a80b301",
+        "InterviewEndDate": "2023-06-02 09:02:29",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "cb83ca31-3bd1-4f02-9c70-438cc1b2446b",
+        "InterviewEndDate": "2023-06-02 09:05:14",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "8e70c8b2-8a85-4b1d-abbf-cbae501ea450",
+        "InterviewEndDate": "2023-06-02 09:03:32",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ee8cf0c2-86f4-4fa0-b68a-ce191acf0497",
+        "InterviewEndDate": "2023-06-02 09:14:58",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "5e82ee3a-db84-43a3-87ec-944c22451fc3",
+        "InterviewEndDate": "2023-06-02 09:17:46",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "8e065bb5-2ccc-4fd8-9da2-31effd15ef1c",
+        "InterviewEndDate": "2023-06-02 09:14:19",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "3485e464-cb3b-4392-add1-4e6657214d9c",
+        "InterviewEndDate": "2023-06-02 09:12:22",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "9b8a417c-82ad-44a2-93b7-89a6da56f81d",
+        "InterviewEndDate": "2023-06-02 09:12:55",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "9fcc488d-3bec-4e50-97e6-0c5a1930097a",
+        "InterviewEndDate": "2023-06-02 09:20:25",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "cacad366-8d17-4f5d-aedb-633574eaf70f",
+        "InterviewEndDate": "2023-06-02 09:35:11",
+        "InterviewState": "Completed",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "5b579623-abb0-45aa-ba2b-757907997780",
+        "InterviewEndDate": "2023-06-02 09:36:53",
+        "InterviewState": "Completed",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "39a19205-c3f8-403b-9fd0-96179bc625fe",
+        "InterviewEndDate": "2023-06-02 09:35:24",
+        "InterviewState": "Completed",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "606eb4aa-157a-41ea-b3e2-4fae7dbfa3a6",
+        "InterviewEndDate": "2023-06-02 09:29:50",
+        "InterviewState": "Completed",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
     }
 ]    
 
