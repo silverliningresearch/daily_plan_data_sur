@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Dest": "AMS",
         "AirlineCode": "KL",
         "InterviewerID": 999,
-        "download_time": "03-06-2023 12:26:20"
+        "download_time": "03-06-2023 13:25:21"
     },
     {
         "InterviewId": "f58b0c3c-3ed2-447c-8e78-11f65b1845dd",
@@ -3301,6 +3301,54 @@ let interview_data_raw = `[
         "InterviewEndDate": "2023-06-03 13:22:41",
         "InterviewState": "Completed",
         "Dest": "GDN",
+        "AirlineCode": "SK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "9a62bfb1-4d28-4233-9710-5cbe87b6fce9",
+        "InterviewEndDate": "2023-06-03 13:26:32",
+        "InterviewState": "Completed",
+        "Dest": "GDN",
+        "AirlineCode": "SK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d2ab6861-2822-4ac1-a9c0-f6a44ca2a3e4",
+        "InterviewEndDate": "2023-06-03 13:48:46",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "f804a7ce-b295-4eda-8f10-caca65345c35",
+        "InterviewEndDate": "2023-06-03 13:47:00",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ee1a4a75-db18-4679-baf4-2f694433941e",
+        "InterviewEndDate": "2023-06-03 13:59:22",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "f95dd26f-f98a-49c5-bdfe-1430a7b4fdee",
+        "InterviewEndDate": "2023-06-03 13:53:33",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "SK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "e63078aa-6b5d-4d07-98ba-59430500d5e7",
+        "InterviewEndDate": "2023-06-03 14:04:03",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
         "AirlineCode": "SK",
         "InterviewerID": 1
     }
