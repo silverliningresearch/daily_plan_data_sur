@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "05-06-2023 07:40:45"
+        "download_time": "05-06-2023 08:39:45"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -6613,6 +6613,78 @@ let interview_data_raw = `[
         "Flight": "W6 2231",
         "Dest": "TGD",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "0ba1691c-9a51-4c5e-a7b7-9b4fb70d7033",
+        "InterviewEndDate": "2023-06-05 08:59:00",
+        "InterviewState": "Completed",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "96fc9e91-9167-4445-a10c-3859a8b699cb",
+        "InterviewEndDate": "2023-06-05 08:49:57",
+        "InterviewState": "Completed",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "a7c5e2ad-65d8-4c4d-85af-4cc5adc885f8",
+        "InterviewEndDate": "2023-06-05 08:53:11",
+        "InterviewState": "Completed",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "31792706-0cd7-43c7-85cd-67097cb592f0",
+        "InterviewEndDate": "2023-06-05 08:54:45",
+        "InterviewState": "Completed",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "10e1bc17-0e52-4c81-b8ca-8de8ca86e70a",
+        "InterviewEndDate": "2023-06-05 08:57:30",
+        "InterviewState": "Completed",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "9f23dea7-275e-487e-b841-4d6eb1e6c161",
+        "InterviewEndDate": "2023-06-05 09:08:03",
+        "InterviewState": "Completed",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "7c7c9171-7880-4529-aa45-f84696724f7e",
+        "InterviewEndDate": "2023-06-05 09:06:59",
+        "InterviewState": "Completed",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "c5fd8205-423a-4eee-961c-ec90041e5f57",
+        "InterviewEndDate": "2023-06-05 09:09:14",
+        "InterviewState": "Completed",
+        "Flight": "TK 1036",
+        "Dest": "IST",
+        "AirlineCode": "TK",
         "InterviewerID": 1
     }
 ]    
