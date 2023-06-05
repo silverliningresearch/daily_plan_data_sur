@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Dest": "AMS",
         "AirlineCode": "KL",
         "InterviewerID": 999,
-        "download_time": "05-06-2023 17:31:45"
+        "download_time": "05-06-2023 18:30:49"
     },
     {
         "InterviewId": "f58b0c3c-3ed2-447c-8e78-11f65b1845dd",
@@ -7145,6 +7145,14 @@ let interview_data_raw = `[
         "InterviewerID": 5
     },
     {
+        "InterviewId": "d11699b1-9dd2-4069-9da0-6eb3056ad09d",
+        "InterviewEndDate": "2023-06-05 18:32:15",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
         "InterviewId": "c090ad04-0f9d-4a47-a66c-ba3845dfc2b4",
         "InterviewEndDate": "2023-06-05 18:26:16",
         "InterviewState": "Completed",
@@ -7161,8 +7169,104 @@ let interview_data_raw = `[
         "InterviewerID": 5
     },
     {
+        "InterviewId": "0bd0c7e4-5d93-4e76-a524-99a50ee0b1c6",
+        "InterviewEndDate": "2023-06-05 18:32:39",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
         "InterviewId": "a5567be3-c53a-4378-b9d9-82ee8f5b4e14",
         "InterviewEndDate": "2023-06-05 18:29:17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "c5fae28b-09b8-48fc-a36a-52d10bb15bfe",
+        "InterviewEndDate": "2023-06-05 18:33:14",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "fd070ae2-77f5-484f-a616-d90568a70ffa",
+        "InterviewEndDate": "2023-06-05 18:32:46",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "e74078a3-498f-44b9-b9d6-dedbaa0f5e82",
+        "InterviewEndDate": "2023-06-05 18:39:16",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "0cb82345-6867-4989-a65d-1361b04cea63",
+        "InterviewEndDate": "2023-06-05 18:37:47",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "ded965db-b352-4498-a11a-2fa6a749ade6",
+        "InterviewEndDate": "2023-06-05 18:38:15",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "7eb09015-2702-4d74-b25a-22baf74ac2e8",
+        "InterviewEndDate": "2023-06-05 18:38:22",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "005b42f0-eeff-4b30-90ca-a9cd266d96db",
+        "InterviewEndDate": "2023-06-05 18:41:46",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "509cb8f7-bfc7-4765-830c-0f6251768645",
+        "InterviewEndDate": "2023-06-05 18:40:52",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "1ea7f0be-fa61-4ddd-be2a-585eb636ab12",
+        "InterviewEndDate": "2023-06-05 18:47:48",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "47c122cf-1087-4b82-834d-decc0179d327",
+        "InterviewEndDate": "2023-06-05 18:43:10",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "89868e41-0b2d-4102-9823-2dd08fdec2ab",
+        "InterviewEndDate": "2023-06-05 18:47:06",
         "InterviewState": "Completed",
         "Dest": "VIE",
         "AirlineCode": "OS",
