@@ -3,7 +3,7 @@ let completed_by_interviewer = `[
         "InterviewerID": 1,
         "Interview_Date": "2023-06-01",
         "completed_interviews": 25,
-        "download_time": "07-06-2023 17:43:38"
+        "download_time": "07-06-2023 18:42:40"
     },
     {
         "InterviewerID": 1,
@@ -24,6 +24,11 @@ let completed_by_interviewer = `[
         "InterviewerID": 1,
         "Interview_Date": "2023-06-06",
         "completed_interviews": 1
+    },
+    {
+        "InterviewerID": 1,
+        "Interview_Date": "2023-06-07",
+        "completed_interviews": 3
     },
     {
         "InterviewerID": 2,
@@ -68,7 +73,7 @@ let completed_by_interviewer = `[
     {
         "InterviewerID": 3,
         "Interview_Date": "2023-06-06",
-        "completed_interviews": 118
+        "completed_interviews": 119
     },
     {
         "InterviewerID": 4,
