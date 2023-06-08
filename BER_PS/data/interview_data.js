@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "Funchal (FNC)",
         "AirlineCode": "easyJet Europe",
         "InterviewerID": 11,
-        "download_time": "08-06-2023 13:23:34"
+        "download_time": "08-06-2023 14:21:58"
     },
     {
         "InterviewId": "43d7a983-e57c-4a0c-b16d-042e9d875c97",
@@ -13708,15 +13708,6 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
-        "InterviewId": "8e81b611-4369-4e66-a6da-627ba7f0e106",
-        "InterviewEndDate": "2023-04-26 22:47:03",
-        "InterviewState": "Completed",
-        "Flight": "EZY2202",
-        "Dest": "Manchester (MAN)",
-        "AirlineCode": "easyJet UK",
-        "InterviewerID": 12
-    },
-    {
         "InterviewId": "5ffb62c9-b0e3-4028-81f5-5c99932fbeac",
         "InterviewEndDate": "2023-04-29 08:47:34",
         "InterviewState": "Completed",
@@ -17981,6 +17972,15 @@ let interview_data_raw = `[
         "Dest": "M\u00fcnchen (MUC)",
         "AirlineCode": "Lufthansa",
         "InterviewerID": 15
+    },
+    {
+        "InterviewId": "e5c4fb84-1c5e-45e0-b70d-5e2ca3e29c1c",
+        "InterviewEndDate": "2023-06-08 14:22:53",
+        "InterviewState": "Completed",
+        "Flight": "LH 1939",
+        "Dest": "M\u00fcnchen (MUC)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 1
     },
     {
         "InterviewId": "88a15fe2-bc31-4068-9a50-8ee9ed82a24a",
