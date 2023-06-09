@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "09-06-2023 04:08:51"
+        "download_time": "09-06-2023 05:07:52"
     },
     {
         "InterviewId": "81f3a919-c4b5-4a24-a644-241f361ee30f",
@@ -19,6 +19,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "051309fc-b4d2-47ed-af11-8dfb63ca861d",
         "InterviewEndDate": "2023-06-08 07:36:25",
+        "InterviewState": "Completed",
+        "Flight": "4M 0852",
+        "Dest": "AYT",
+        "InterviewerID": 999
+    },
+    {
+        "InterviewId": "ee0bb104-8333-448f-a0bc-437d0ef82fd4",
+        "InterviewEndDate": "2023-06-09 05:51:04",
         "InterviewState": "Completed",
         "Flight": "4M 0852",
         "Dest": "AYT",
@@ -38,6 +46,14 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "A3 0437",
         "Dest": "HER",
+        "InterviewerID": 999
+    },
+    {
+        "InterviewId": "90eaa4ca-bb0a-42c5-b028-f420817aa842",
+        "InterviewEndDate": "2023-06-09 05:48:39",
+        "InterviewState": "Completed",
+        "Flight": "4M 0852",
+        "Dest": "AYT",
         "InterviewerID": 999
     }
 ]    
