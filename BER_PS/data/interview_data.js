@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "Funchal (FNC)",
         "AirlineCode": "easyJet Europe",
         "InterviewerID": 11,
-        "download_time": "09-06-2023 23:48:33"
+        "download_time": "10-06-2023 00:47:41"
     },
     {
         "InterviewId": "43d7a983-e57c-4a0c-b16d-042e9d875c97",
