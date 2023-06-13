@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "13-06-2023 11:23:01"
+        "download_time": "13-06-2023 12:22:51"
     },
     {
         "InterviewId": "965d167c-8ff2-4293-9236-12a1a0e6ea27",
@@ -199,6 +199,70 @@ let interview_data_raw = `[
         "Flight": "OS 0335",
         "Dest": "OSL",
         "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "d1ecb2b2-b3ba-4214-8e23-c525263773b1",
+        "InterviewEndDate": "2023-06-13 12:35:14",
+        "InterviewState": "Completed",
+        "Flight": "OS 0313",
+        "Dest": "ARN",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "49272575-d36d-4ec1-9ce7-f8fbe05ad5f9",
+        "InterviewEndDate": "2023-06-13 12:39:45",
+        "InterviewState": "Completed",
+        "Flight": "OS 0313",
+        "Dest": "ARN",
+        "InterviewerID": 1001
+    },
+    {
+        "InterviewId": "74d4ab15-9f32-4452-b037-8feb45bc78cd",
+        "InterviewEndDate": "2023-06-13 12:34:38",
+        "InterviewState": "Completed",
+        "Flight": "OS 0313",
+        "Dest": "ARN",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "e5d1506c-f9f4-4bee-a1c7-d7e3e199e1e3",
+        "InterviewEndDate": "2023-06-13 12:28:39",
+        "InterviewState": "Completed",
+        "Flight": "A3 0437",
+        "Dest": "HER",
+        "InterviewerID": 999
+    },
+    {
+        "InterviewId": "be94715e-b008-44d1-8abe-e43ad54cb599",
+        "InterviewEndDate": "2023-06-13 12:52:51",
+        "InterviewState": "Completed",
+        "Flight": "OS 0509",
+        "Dest": "MXP",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "0c5c77b4-2506-4fe5-8a62-77fb1ed4612c",
+        "InterviewEndDate": "2023-06-13 12:57:32",
+        "InterviewState": "Completed",
+        "Flight": "OS 0509",
+        "Dest": "MXP",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "906f0a92-8d4c-4a5f-998c-ebd4a75865bd",
+        "InterviewEndDate": "2023-06-13 13:01:29",
+        "InterviewState": "Completed",
+        "Flight": "OS 0509",
+        "Dest": "MXP",
+        "InterviewerID": 1000
+    },
+    {
+        "InterviewId": "fbc1c84b-59b6-4a48-a88f-2bf17e17e843",
+        "InterviewEndDate": "2023-06-13 13:15:29",
+        "InterviewState": "Completed",
+        "Flight": "A3 0437",
+        "Dest": "HER",
+        "InterviewerID": 999
     }
 ]    
 
