@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "13-06-2023 10:24:55"
+        "download_time": "13-06-2023 11:23:01"
     },
     {
         "InterviewId": "965d167c-8ff2-4293-9236-12a1a0e6ea27",
@@ -78,6 +78,14 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "W6 2825",
         "Dest": "OHD",
+        "InterviewerID": 999
+    },
+    {
+        "InterviewId": "464a3c02-bfeb-4d37-a475-e011a4d15fd6",
+        "InterviewEndDate": "2023-06-13 12:22:37",
+        "InterviewState": "Completed",
+        "Flight": "A3 0437",
+        "Dest": "HER",
         "InterviewerID": 999
     },
     {
@@ -153,12 +161,44 @@ let interview_data_raw = `[
         "InterviewerID": 999
     },
     {
+        "InterviewId": "affab415-942c-4024-b9c5-9fda2973a7fd",
+        "InterviewEndDate": "2023-06-13 12:09:13",
+        "InterviewState": "Completed",
+        "Flight": "OS 0335",
+        "Dest": "OSL",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "74c98f56-3769-4b1f-aa6c-54fd6fbe9ca9",
+        "InterviewEndDate": "2023-06-13 12:13:21",
+        "InterviewState": "Completed",
+        "Flight": "OS 0335",
+        "Dest": "OSL",
+        "InterviewerID": 1000
+    },
+    {
         "InterviewId": "bd55cb6a-563c-46b6-a580-f84602588d98",
         "InterviewEndDate": "2023-06-13 11:17:03",
         "InterviewState": "Completed",
         "Flight": "A3 0437",
         "Dest": "HER",
         "InterviewerID": 999
+    },
+    {
+        "InterviewId": "75ca9920-b45a-4b91-b867-722869258e3c",
+        "InterviewEndDate": "2023-06-13 11:37:27",
+        "InterviewState": "Completed",
+        "Flight": "AF 1139",
+        "Dest": "CDG",
+        "InterviewerID": 999
+    },
+    {
+        "InterviewId": "6e4735a0-840b-40ca-8bb8-5f8219fb39cb",
+        "InterviewEndDate": "2023-06-13 12:14:58",
+        "InterviewState": "Completed",
+        "Flight": "OS 0335",
+        "Dest": "OSL",
+        "InterviewerID": 1002
     }
 ]    
 
