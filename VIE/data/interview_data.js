@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "13-06-2023 17:17:06"
+        "download_time": "13-06-2023 18:16:52"
     },
     {
         "InterviewId": "965d167c-8ff2-4293-9236-12a1a0e6ea27",
@@ -561,11 +561,123 @@ let interview_data_raw = `[
         "InterviewerID": 999
     },
     {
+        "InterviewId": "c4141897-c0ba-4224-81a1-0cd496de5a5e",
+        "InterviewEndDate": "2023-06-13 18:17:19",
+        "InterviewState": "Completed",
+        "Flight": "SN 2906",
+        "Dest": "BRU",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "b37c497b-ed26-4334-ad7e-34bd47f9df7b",
+        "InterviewEndDate": "2023-06-13 18:20:20",
+        "InterviewState": "Completed",
+        "Flight": "SN 2906",
+        "Dest": "BRU",
+        "InterviewerID": 1008
+    },
+    {
         "InterviewId": "a5ac2df1-3837-4a82-8926-f79c8f824415",
         "InterviewEndDate": "2023-06-13 18:16:28",
         "InterviewState": "Completed",
         "Flight": "SN 2906",
         "Dest": "BRU",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "f8b82a7c-5605-4348-99ac-6ff9bf6bdcc1",
+        "InterviewEndDate": "2023-06-13 18:23:59",
+        "InterviewState": "Completed",
+        "Flight": "SN 2906",
+        "Dest": "BRU",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "cf3c9272-2c9f-476d-8b62-58169a992d45",
+        "InterviewEndDate": "2023-06-13 18:40:10",
+        "InterviewState": "Completed",
+        "Flight": "OS 0515",
+        "Dest": "MXP",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "0a8d6d70-df9a-4783-853b-4bf9c50a7510",
+        "InterviewEndDate": "2023-06-13 18:36:52",
+        "InterviewState": "Completed",
+        "Flight": "OS 0515",
+        "Dest": "MXP",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "59d53f57-fc4f-43f8-bc80-536e43c4b3c8",
+        "InterviewEndDate": "2023-06-13 18:31:55",
+        "InterviewState": "Completed",
+        "Flight": "OS 0515",
+        "Dest": "MXP",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "44e37b55-1c2a-461e-bad3-a6bba003f16a",
+        "InterviewEndDate": "2023-06-13 18:38:44",
+        "InterviewState": "Completed",
+        "Flight": "OS 0515",
+        "Dest": "MXP",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "fd7f7cb4-e11d-45b7-8fdd-6c487993bf64",
+        "InterviewEndDate": "2023-06-13 18:44:10",
+        "InterviewState": "Completed",
+        "Flight": "OS 0515",
+        "Dest": "MXP",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "39fbec54-078b-472a-ad92-fdc386f315d7",
+        "InterviewEndDate": "2023-06-13 19:02:28",
+        "InterviewState": "Completed",
+        "Flight": "OS 0429",
+        "Dest": "NCE",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "c29d9e10-e9a6-4c30-93d2-95b7c1d4ff51",
+        "InterviewEndDate": "2023-06-13 18:58:01",
+        "InterviewState": "Completed",
+        "Flight": "OS 0429",
+        "Dest": "NCE",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "651cc892-d394-4385-96dc-393afd3b6271",
+        "InterviewEndDate": "2023-06-13 19:00:19",
+        "InterviewState": "Completed",
+        "Flight": "OS 0429",
+        "Dest": "NCE",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "1a5f38da-e033-4241-9484-307232506896",
+        "InterviewEndDate": "2023-06-13 18:59:33",
+        "InterviewState": "Completed",
+        "Flight": "OS 0429",
+        "Dest": "NCE",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "d37b1f64-89ca-43e3-a345-83e96cc4a89a",
+        "InterviewEndDate": "2023-06-13 19:09:36",
+        "InterviewState": "Completed",
+        "Flight": "EW 9757",
+        "Dest": "DUS",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "0c3e0c78-4aad-4a23-9691-215143e2f3a3",
+        "InterviewEndDate": "2023-06-13 19:14:47",
+        "InterviewState": "Completed",
+        "Flight": "EW 9757",
+        "Dest": "DUS",
         "InterviewerID": 1008
     }
 ]    
