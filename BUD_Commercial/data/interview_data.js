@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "13-06-2023 13:19:47"
+        "download_time": "13-06-2023 14:18:46"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -7440,6 +7440,78 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "W6 2449",
         "Dest": "RHO",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "7b5c73f1-86eb-4502-b822-378680a73e70",
+        "InterviewEndDate": "2023-06-13 14:42:35",
+        "InterviewState": "Completed",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "f9a6f0c2-2097-4593-8558-d3ff51fe838b",
+        "InterviewEndDate": "2023-06-13 14:46:38",
+        "InterviewState": "Completed",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "09b69317-da4a-4e36-8ca7-3388498e319e",
+        "InterviewEndDate": "2023-06-13 14:49:13",
+        "InterviewState": "Completed",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "b8a7ab91-3df8-4d11-b00b-74a852a401ec",
+        "InterviewEndDate": "2023-06-13 14:45:17",
+        "InterviewState": "Completed",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "fafbca03-c8a8-4615-94a5-b0124d102970",
+        "InterviewEndDate": "2023-06-13 14:47:47",
+        "InterviewState": "Completed",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "3173f81d-2738-4720-aeec-58955fb51287",
+        "InterviewEndDate": "2023-06-13 14:51:09",
+        "InterviewState": "Completed",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "4a974136-177a-45d3-8197-ad4969745b0a",
+        "InterviewEndDate": "2023-06-13 14:51:20",
+        "InterviewState": "Completed",
+        "Flight": "W6 2315",
+        "Dest": "BER",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "9fbba317-7dd4-4d53-8293-8affebed9c30",
+        "InterviewEndDate": "2023-06-13 14:55:08",
+        "InterviewState": "Completed",
+        "Flight": "W6 2315",
+        "Dest": "BER",
         "AirlineCode": "W6",
         "InterviewerID": 1
     }
