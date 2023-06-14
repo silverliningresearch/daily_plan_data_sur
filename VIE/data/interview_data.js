@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "14-06-2023 08:02:51"
+        "download_time": "14-06-2023 09:01:50"
     },
     {
         "InterviewId": "965d167c-8ff2-4293-9236-12a1a0e6ea27",
@@ -326,6 +326,14 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "OS 0441",
         "Dest": "VLC",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "a2b7a3e5-64bf-4190-9fef-965b48cf88c5",
+        "InterviewEndDate": "2023-06-14 09:22:15",
+        "InterviewState": "Completed",
+        "Flight": "KL 1840",
+        "Dest": "AMS",
         "InterviewerID": 1008
     },
     {
@@ -694,6 +702,78 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "EW 9757",
         "Dest": "DUS",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "82d822ac-a060-4b28-b383-e368279f1a60",
+        "InterviewEndDate": "2023-06-14 09:23:09",
+        "InterviewState": "Completed",
+        "Flight": "KL 1840",
+        "Dest": "AMS",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "2d545238-1d61-4aed-89bb-0ee2614067e8",
+        "InterviewEndDate": "2023-06-14 09:29:18",
+        "InterviewState": "Completed",
+        "Flight": "KL 1840",
+        "Dest": "AMS",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "ad11ccd6-edf6-4e12-92dc-20518d092484",
+        "InterviewEndDate": "2023-06-14 09:23:38",
+        "InterviewState": "Completed",
+        "Flight": "KL 1840",
+        "Dest": "AMS",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "2f4df969-0f09-4e08-bd0e-653255887d46",
+        "InterviewEndDate": "2023-06-14 09:26:46",
+        "InterviewState": "Completed",
+        "Flight": "KL 1840",
+        "Dest": "AMS",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "7f9e9cf6-49ff-4bbf-a731-c7684355b320",
+        "InterviewEndDate": "2023-06-14 09:30:10",
+        "InterviewState": "Completed",
+        "Flight": "KL 1840",
+        "Dest": "AMS",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "7d95a83b-8b6c-4b3e-bc26-8ff2b859aabe",
+        "InterviewEndDate": "2023-06-14 09:31:37",
+        "InterviewState": "Completed",
+        "Flight": "KL 1840",
+        "Dest": "AMS",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "a6b017cb-076d-456e-8a22-934da24f5508",
+        "InterviewEndDate": "2023-06-14 09:53:40",
+        "InterviewState": "Completed",
+        "Flight": "FR 0488",
+        "Dest": "PMI",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "325237d1-b242-4e9f-8c12-2c7883de2fcf",
+        "InterviewEndDate": "2023-06-14 09:57:20",
+        "InterviewState": "Completed",
+        "Flight": "FR 0488",
+        "Dest": "PMI",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "a878b6db-6ef2-49c8-b63f-6c65fc5ee46d",
+        "InterviewEndDate": "2023-06-14 09:56:09",
+        "InterviewState": "Completed",
+        "Flight": "FR 0488",
+        "Dest": "PMI",
         "InterviewerID": 1008
     }
 ]    
