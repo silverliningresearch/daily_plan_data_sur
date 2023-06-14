@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "14-06-2023 14:53:51"
+        "download_time": "14-06-2023 15:52:48"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -7608,6 +7608,60 @@ let interview_data_raw = `[
     {
         "InterviewId": "dcde1135-c2d5-4e07-b0d9-41051ebeda9f",
         "InterviewEndDate": "2023-06-14 15:51:22",
+        "InterviewState": "Completed",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "f34cbd82-42dc-4f23-9d15-0cae4234206c",
+        "InterviewEndDate": "2023-06-14 15:55:09",
+        "InterviewState": "Completed",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ca8a7e5d-2fc0-4df0-bdeb-5f18fcc69e67",
+        "InterviewEndDate": "2023-06-14 15:54:24",
+        "InterviewState": "Completed",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "79afd589-a7ef-4fb3-8552-6d3355d3f4cd",
+        "InterviewEndDate": "2023-06-14 16:00:34",
+        "InterviewState": "Completed",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "4aa98dc0-91e5-4b8c-a543-b0a6004f7ef9",
+        "InterviewEndDate": "2023-06-14 15:58:57",
+        "InterviewState": "Completed",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "438d05ab-fa33-41b0-a1f0-c047abbeca88",
+        "InterviewEndDate": "2023-06-14 16:17:02",
+        "InterviewState": "Completed",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "13fe9c45-f44b-4da5-8e41-a391fbb912e7",
+        "InterviewEndDate": "2023-06-14 16:14:51",
         "InterviewState": "Completed",
         "Flight": "LO 2001",
         "Dest": "ICN",
