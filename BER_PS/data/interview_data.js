@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "Funchal (FNC)",
         "AirlineCode": "easyJet Europe",
         "InterviewerID": 11,
-        "download_time": "15-06-2023 19:26:52"
+        "download_time": "15-06-2023 20:25:38"
     },
     {
         "InterviewId": "43d7a983-e57c-4a0c-b16d-042e9d875c97",
@@ -39493,15 +39493,6 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
-        "InterviewId": "61b31978-4c54-491b-ba97-d96cfb73a043",
-        "InterviewEndDate": "2023-04-10 12:06:09",
-        "InterviewState": "Completed",
-        "Flight": "KL 1824",
-        "Dest": "Amsterdam (AMS)",
-        "AirlineCode": "KLM Royal Dutch Airlines",
-        "InterviewerID": 11
-    },
-    {
         "InterviewId": "9f44c9cf-4440-49a7-9218-b871e725fc6e",
         "InterviewEndDate": "2023-04-10 13:20:33",
         "InterviewState": "Completed",
@@ -44965,6 +44956,15 @@ let interview_data_raw = `[
         "InterviewerID": 998
     },
     {
+        "InterviewId": "661d0d54-7b45-43df-85d1-b83cb9b169f8",
+        "InterviewEndDate": "2023-06-15 20:35:16",
+        "InterviewState": "Completed",
+        "Flight": "PC  984",
+        "Dest": "Istanbul (SAW)",
+        "AirlineCode": "Pegasus Airlines",
+        "InterviewerID": 12
+    },
+    {
         "InterviewId": "1d01697a-5cc6-41f4-94ec-fd4e7d0fe362",
         "InterviewEndDate": "2023-03-10 16:48:10",
         "InterviewState": "Completed",
@@ -48211,6 +48211,15 @@ let interview_data_raw = `[
         "Flight": "EJU5103",
         "Dest": "Valencia (VLC)",
         "AirlineCode": "easyJet Europe",
+        "InterviewerID": 11
+    },
+    {
+        "InterviewId": "61b31978-4c54-491b-ba97-d96cfb73a043",
+        "InterviewEndDate": "2023-04-10 12:06:09",
+        "InterviewState": "Completed",
+        "Flight": "KL 1824",
+        "Dest": "Amsterdam (AMS)",
+        "AirlineCode": "KLM Royal Dutch Airlines",
         "InterviewerID": 11
     },
     {
