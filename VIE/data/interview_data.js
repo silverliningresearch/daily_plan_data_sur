@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "15-06-2023 16:29:28"
+        "download_time": "15-06-2023 17:28:32"
     },
     {
         "InterviewId": "19b0cd19-2bb2-4399-ba03-91dc13ccf252",
@@ -343,6 +343,14 @@ let interview_data_raw = `[
         "Flight": "KL 1840",
         "Dest": "AMS",
         "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "ef49a386-14b5-48db-a037-f1495cd62da6",
+        "InterviewEndDate": "2023-06-15 17:30:28",
+        "InterviewState": "Completed",
+        "Flight": "OS 0315",
+        "Dest": "ARN",
+        "InterviewerID": 1002
     },
     {
         "InterviewId": "1935f5f0-59f9-4c34-ab29-6d81209814b3",
@@ -1585,11 +1593,147 @@ let interview_data_raw = `[
         "InterviewerID": 1008
     },
     {
+        "InterviewId": "d23a1656-fd1e-4967-bb35-829de1b802ed",
+        "InterviewEndDate": "2023-06-15 17:43:53",
+        "InterviewState": "Completed",
+        "Flight": "OS 0315",
+        "Dest": "ARN",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "52a6abfa-56d3-4cab-af49-dbc5250b7435",
+        "InterviewEndDate": "2023-06-15 17:52:05",
+        "InterviewState": "Completed",
+        "Flight": "OS 0393",
+        "Dest": "BCN",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "523c5fe6-e27f-4f4f-a42a-37ed05f2bae0",
+        "InterviewEndDate": "2023-06-15 17:35:41",
+        "InterviewState": "Completed",
+        "Flight": "OS 0315",
+        "Dest": "ARN",
+        "InterviewerID": 1002
+    },
+    {
         "InterviewId": "b06b1116-c49f-48c2-a473-d2a638ad3745",
         "InterviewEndDate": "2023-06-15 17:27:33",
         "InterviewState": "Completed",
         "Flight": "OS 0315",
         "Dest": "ARN",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "57ed9a73-2495-476f-acd0-a49907e1b9dd",
+        "InterviewEndDate": "2023-06-15 17:46:02",
+        "InterviewState": "Completed",
+        "Flight": "OS 0393",
+        "Dest": "BCN",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "8d4fcdc1-c19e-4cf1-a379-c9ff174c4c56",
+        "InterviewEndDate": "2023-06-15 17:46:04",
+        "InterviewState": "Completed",
+        "Flight": "OS 0393",
+        "Dest": "BCN",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "3efa4a3a-3fa3-43d4-9071-d9183e5e535c",
+        "InterviewEndDate": "2023-06-15 17:40:20",
+        "InterviewState": "Completed",
+        "Flight": "OS 0393",
+        "Dest": "BCN",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "265e9ef9-c4f5-44ed-bb85-26da0774ce55",
+        "InterviewEndDate": "2023-06-15 17:52:29",
+        "InterviewState": "Completed",
+        "Flight": "OS 0393",
+        "Dest": "BCN",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "5c96af8f-a2b4-44f1-9f30-f32f2ca695ac",
+        "InterviewEndDate": "2023-06-15 17:55:55",
+        "InterviewState": "Completed",
+        "Flight": "OS 0393",
+        "Dest": "BCN",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "bbce37d5-f9ee-43b4-85c2-73b8898088d0",
+        "InterviewEndDate": "2023-06-15 17:58:28",
+        "InterviewState": "Completed",
+        "Flight": "OS 0631",
+        "Dest": "WAW",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "515741c1-eeaa-46c4-ac7d-881a3b97c188",
+        "InterviewEndDate": "2023-06-15 17:57:34",
+        "InterviewState": "Completed",
+        "Flight": "OS 0631",
+        "Dest": "WAW",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "c55b0d61-5861-4323-bf36-107162539397",
+        "InterviewEndDate": "2023-06-15 18:06:23",
+        "InterviewState": "Completed",
+        "Flight": "OS 0265",
+        "Dest": "NUE",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "c90c6e26-7eba-4387-8dfc-1f2bf4e11ab4",
+        "InterviewEndDate": "2023-06-15 18:26:21",
+        "InterviewState": "Completed",
+        "Flight": "OS 0253",
+        "Dest": "LEJ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "a3394fab-0d3d-4e93-b961-2cfab68a5f64",
+        "InterviewEndDate": "2023-06-15 18:08:28",
+        "InterviewState": "Completed",
+        "Flight": "OS 0265",
+        "Dest": "NUE",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "3ff3e665-b618-4986-a770-5cdeffb5b96a",
+        "InterviewEndDate": "2023-06-15 18:09:20",
+        "InterviewState": "Completed",
+        "Flight": "OS 0265",
+        "Dest": "NUE",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "0bb02095-bd58-4d8b-9a2f-16e360373119",
+        "InterviewEndDate": "2023-06-15 18:08:29",
+        "InterviewState": "Completed",
+        "Flight": "OS 0265",
+        "Dest": "NUE",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "30daee54-7f26-4e72-9a4c-3a75be5a3161",
+        "InterviewEndDate": "2023-06-15 18:21:50",
+        "InterviewState": "Completed",
+        "Flight": "OS 0253",
+        "Dest": "LEJ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "b07a6618-cc08-4e45-afc9-807a1e8f7ae8",
+        "InterviewEndDate": "2023-06-15 18:23:38",
+        "InterviewState": "Completed",
+        "Flight": "OS 0253",
+        "Dest": "LEJ",
         "InterviewerID": 1008
     }
 ]    
