@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "16-06-2023 08:13:32"
+        "download_time": "16-06-2023 09:12:02"
     },
     {
         "InterviewId": "19b0cd19-2bb2-4399-ba03-91dc13ccf252",
@@ -2087,6 +2087,102 @@ let interview_data_raw = `[
         "Flight": "OS 0717",
         "Dest": "BUD",
         "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "92252544-7402-46a8-9f07-0f47758daa69",
+        "InterviewEndDate": "2023-06-16 09:26:55",
+        "InterviewState": "Completed",
+        "Flight": "FR 0699",
+        "Dest": "ATH",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "fa124f20-d2c5-44d4-99b9-e193c451499a",
+        "InterviewEndDate": "2023-06-16 10:03:55",
+        "InterviewState": "Completed",
+        "Flight": "XQ 0199",
+        "Dest": "AYT",
+        "InterviewerID": 999
+    },
+    {
+        "InterviewId": "c8108402-4c64-4c9f-b053-e4150c5b3416",
+        "InterviewEndDate": "2023-06-16 09:37:35",
+        "InterviewState": "Completed",
+        "Flight": "FR 0699",
+        "Dest": "ATH",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "8210410e-e1fe-4042-9616-879fd794cbd4",
+        "InterviewEndDate": "2023-06-16 09:25:09",
+        "InterviewState": "Completed",
+        "Flight": "FR 0699",
+        "Dest": "ATH",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "f1f4ac1a-2421-46f0-a69c-96e69670945a",
+        "InterviewEndDate": "2023-06-16 09:37:00",
+        "InterviewState": "Completed",
+        "Flight": "FR 0699",
+        "Dest": "ATH",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "a57084be-4637-4f98-be83-0463e1324f89",
+        "InterviewEndDate": "2023-06-16 09:34:50",
+        "InterviewState": "Completed",
+        "Flight": "FR 0699",
+        "Dest": "ATH",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "2b947a2e-ee6f-4672-a74d-1d1d45456d64",
+        "InterviewEndDate": "2023-06-16 09:44:05",
+        "InterviewState": "Completed",
+        "Flight": "FR 0699",
+        "Dest": "ATH",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "13528616-4dae-4ce3-a448-9cf23d1e4182",
+        "InterviewEndDate": "2023-06-16 09:45:53",
+        "InterviewState": "Completed",
+        "Flight": "FR 0699",
+        "Dest": "ATH",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "36507a7d-9a40-4e4d-988d-a38b3e41907e",
+        "InterviewEndDate": "2023-06-16 09:55:58",
+        "InterviewState": "Completed",
+        "Flight": "DY 1633",
+        "Dest": "OSL",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "526eddb7-9cde-46f5-8e8a-faff9005c010",
+        "InterviewEndDate": "2023-06-16 10:08:01",
+        "InterviewState": "Completed",
+        "Flight": "DY 1633",
+        "Dest": "OSL",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "54fdd25a-f9fa-49cc-9140-346ce8717c2d",
+        "InterviewEndDate": "2023-06-16 09:56:03",
+        "InterviewState": "Completed",
+        "Flight": "DY 1633",
+        "Dest": "OSL",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "8fcb968b-3162-4dfd-b14e-6b429fc65b63",
+        "InterviewEndDate": "2023-06-16 10:08:22",
+        "InterviewState": "Completed",
+        "Flight": "DY 1633",
+        "Dest": "OSL",
+        "InterviewerID": 1002
     }
 ]    
 
