@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "17-06-2023 12:43:59"
+        "download_time": "17-06-2023 13:43:00"
     },
     {
         "InterviewId": "66aab6a1-a385-4c29-9c30-aaef5d178d19",
@@ -4521,12 +4521,84 @@ let interview_data_raw = `[
         "InterviewerID": 1002
     },
     {
+        "InterviewId": "cec379ba-1689-4189-b840-1ea594563d66",
+        "InterviewEndDate": "2023-06-17 14:32:39",
+        "InterviewState": "Completed",
+        "Flight": "KL 1846",
+        "Dest": "AMS",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "096b9232-7a91-4657-bc44-0cfcd365a393",
+        "InterviewEndDate": "2023-06-17 14:31:43",
+        "InterviewState": "Completed",
+        "Flight": "KL 1846",
+        "Dest": "AMS",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "dafca4fd-4c5c-4939-afb2-8fb7c5dd5dce",
+        "InterviewEndDate": "2023-06-17 14:41:08",
+        "InterviewState": "Completed",
+        "Flight": "KL 1846",
+        "Dest": "AMS",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "0400df7e-9d03-438a-82c2-4780e5f0d3a6",
+        "InterviewEndDate": "2023-06-17 14:30:20",
+        "InterviewState": "Completed",
+        "Flight": "KL 1846",
+        "Dest": "AMS",
+        "InterviewerID": 1002
+    },
+    {
         "InterviewId": "7e36f996-6a5b-4c88-a3a5-c8c3c20bc088",
         "InterviewEndDate": "2023-06-17 13:29:11",
         "InterviewState": "Completed",
         "Flight": "CA 0842",
         "Dest": "PEK",
         "InterviewerID": 1007
+    },
+    {
+        "InterviewId": "f60952db-4a39-4269-b4c8-5ffc353bcfb8",
+        "InterviewEndDate": "2023-06-17 13:48:13",
+        "InterviewState": "Completed",
+        "Flight": "W6 2991",
+        "Dest": "RUH",
+        "InterviewerID": 1007
+    },
+    {
+        "InterviewId": "deb98008-a8de-49f3-9477-67ee71e79bef",
+        "InterviewEndDate": "2023-06-17 13:49:02",
+        "InterviewState": "Completed",
+        "Flight": "W6 2991",
+        "Dest": "RUH",
+        "InterviewerID": 1007
+    },
+    {
+        "InterviewId": "046a3b73-4688-4487-b238-7dc43ce5b8eb",
+        "InterviewEndDate": "2023-06-17 13:46:23",
+        "InterviewState": "Completed",
+        "Flight": "W6 2991",
+        "Dest": "RUH",
+        "InterviewerID": 1007
+    },
+    {
+        "InterviewId": "58b54805-7349-4eed-8db5-56c7385b054e",
+        "InterviewEndDate": "2023-06-17 13:48:32",
+        "InterviewState": "Completed",
+        "Flight": "W6 2991",
+        "Dest": "RUH",
+        "InterviewerID": 1007
+    },
+    {
+        "InterviewId": "3c74c70c-a18b-443c-a990-de4c11f876c5",
+        "InterviewEndDate": "2023-06-17 14:40:42",
+        "InterviewState": "Completed",
+        "Flight": "KL 1846",
+        "Dest": "AMS",
+        "InterviewerID": 1002
     }
 ]    
 
