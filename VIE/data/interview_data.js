@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "18-06-2023 08:24:46"
+        "download_time": "18-06-2023 09:23:47"
     },
     {
         "InterviewId": "66aab6a1-a385-4c29-9c30-aaef5d178d19",
@@ -4593,6 +4593,22 @@ let interview_data_raw = `[
         "InterviewerID": 1007
     },
     {
+        "InterviewId": "86cb1feb-ef6d-461e-88a5-c19e7887febd",
+        "InterviewEndDate": "2023-06-18 10:13:24",
+        "InterviewState": "Completed",
+        "Flight": "OS 0853",
+        "Dest": "AMM",
+        "InterviewerID": 1007
+    },
+    {
+        "InterviewId": "a3f83c07-2b42-4347-a5aa-71cc3dfd141c",
+        "InterviewEndDate": "2023-06-18 10:12:27",
+        "InterviewState": "Completed",
+        "Flight": "OS 0853",
+        "Dest": "AMM",
+        "InterviewerID": 1007
+    },
+    {
         "InterviewId": "3b7c167e-d55f-40a2-a911-48dade9c201b",
         "InterviewEndDate": "2023-06-17 14:43:54",
         "InterviewState": "Completed",
@@ -4615,6 +4631,46 @@ let interview_data_raw = `[
         "Flight": "KL 1846",
         "Dest": "AMS",
         "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "91996dd5-4ff4-4bfd-b820-9be542b9874c",
+        "InterviewEndDate": "2023-06-18 10:10:46",
+        "InterviewState": "Completed",
+        "Flight": "OS 0853",
+        "Dest": "AMM",
+        "InterviewerID": 1007
+    },
+    {
+        "InterviewId": "b9f290ea-8715-486c-a7ef-af9fef7bedf8",
+        "InterviewEndDate": "2023-06-18 10:10:50",
+        "InterviewState": "Completed",
+        "Flight": "OS 0853",
+        "Dest": "AMM",
+        "InterviewerID": 1007
+    },
+    {
+        "InterviewId": "c2d37700-343a-4224-aeb7-1b5eb70d8d8e",
+        "InterviewEndDate": "2023-06-18 10:12:56",
+        "InterviewState": "Completed",
+        "Flight": "OS 0853",
+        "Dest": "AMM",
+        "InterviewerID": 1007
+    },
+    {
+        "InterviewId": "6ef51261-626d-461a-985e-373b8fa94cdb",
+        "InterviewEndDate": "2023-06-18 10:23:21",
+        "InterviewState": "Completed",
+        "Flight": "OS 0853",
+        "Dest": "AMM",
+        "InterviewerID": 1007
+    },
+    {
+        "InterviewId": "58399afd-ee9b-4eb7-81af-ba7121f6869b",
+        "InterviewEndDate": "2023-06-18 10:20:14",
+        "InterviewState": "Completed",
+        "Flight": "OS 0853",
+        "Dest": "AMM",
+        "InterviewerID": 1007
     }
 ]    
 
