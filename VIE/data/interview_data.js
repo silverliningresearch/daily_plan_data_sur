@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "19-06-2023 09:59:20"
+        "download_time": "19-06-2023 10:58:08"
     },
     {
         "InterviewId": "66aab6a1-a385-4c29-9c30-aaef5d178d19",
@@ -6671,6 +6671,102 @@ let interview_data_raw = `[
         "Flight": "OS 0433",
         "Dest": "PMI",
         "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "da832743-b41b-4377-b8b9-4cab977a548e",
+        "InterviewEndDate": "2023-06-19 11:29:49",
+        "InterviewState": "Completed",
+        "Flight": "AC 0887",
+        "Dest": "YYZ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "db3545ab-9529-42ed-ae60-662f71b49c0e",
+        "InterviewEndDate": "2023-06-19 11:32:06",
+        "InterviewState": "Completed",
+        "Flight": "AC 0887",
+        "Dest": "YYZ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "3000b7f0-caac-4bc1-9c53-f26c8e3a8905",
+        "InterviewEndDate": "2023-06-19 11:31:21",
+        "InterviewState": "Completed",
+        "Flight": "AC 0887",
+        "Dest": "YYZ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "1d3936c0-6088-4ec6-88ab-ad5d4773d0f9",
+        "InterviewEndDate": "2023-06-19 11:52:51",
+        "InterviewState": "Completed",
+        "Flight": "OS 0753",
+        "Dest": "ZAD",
+        "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "cd03e7a0-a232-42a6-ba87-d42ae65a0b3d",
+        "InterviewEndDate": "2023-06-19 11:30:19",
+        "InterviewState": "Completed",
+        "Flight": "AC 0887",
+        "Dest": "YYZ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "4544b0ba-68f8-40f2-aa6a-6a13b8e462d8",
+        "InterviewEndDate": "2023-06-19 11:36:41",
+        "InterviewState": "Completed",
+        "Flight": "AC 0887",
+        "Dest": "YYZ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "4334b60c-ac30-4c6d-90e9-da5612af68d9",
+        "InterviewEndDate": "2023-06-19 11:39:18",
+        "InterviewState": "Completed",
+        "Flight": "AC 0887",
+        "Dest": "YYZ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "25f9e574-86c9-49fe-8c44-50f614237d07",
+        "InterviewEndDate": "2023-06-19 11:38:17",
+        "InterviewState": "Completed",
+        "Flight": "AC 0887",
+        "Dest": "YYZ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "b7dc57f4-e9e6-4121-aa57-1ba21075e312",
+        "InterviewEndDate": "2023-06-19 11:41:11",
+        "InterviewState": "Completed",
+        "Flight": "AC 0887",
+        "Dest": "YYZ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "d2d547e2-9584-4316-a593-d9662cd85a93",
+        "InterviewEndDate": "2023-06-19 11:54:24",
+        "InterviewState": "Completed",
+        "Flight": "AC 0887",
+        "Dest": "YYZ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "083b5a4a-19f0-4615-87e2-3af7e0b8c62f",
+        "InterviewEndDate": "2023-06-19 11:50:25",
+        "InterviewState": "Completed",
+        "Flight": "AC 0887",
+        "Dest": "YYZ",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "312aea34-5a32-4e63-8173-442ebb7ea9fa",
+        "InterviewEndDate": "2023-06-19 11:48:34",
+        "InterviewState": "Completed",
+        "Flight": "AC 0887",
+        "Dest": "YYZ",
+        "InterviewerID": 1008
     }
 ]    
 
