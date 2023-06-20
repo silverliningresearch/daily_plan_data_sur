@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Dest": "AMS",
         "AirlineCode": "KL",
         "InterviewerID": 999,
-        "download_time": "20-06-2023 19:24:04"
+        "download_time": "20-06-2023 20:23:04"
     },
     {
         "InterviewId": "61468726-6119-4479-86af-3df5cf97432d",
@@ -835,14 +835,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "313104e7-117d-44dc-a5ae-12a9e1d30e4e",
         "InterviewEndDate": "2023-06-02 14:22:12",
-        "InterviewState": "Completed",
-        "Dest": "KEF",
-        "AirlineCode": "FI",
-        "InterviewerID": 2
-    },
-    {
-        "InterviewId": "54361984-e754-4381-a5d0-58a11e4aef01",
-        "InterviewEndDate": "2023-06-02 14:24:13",
         "InterviewState": "Completed",
         "Dest": "KEF",
         "AirlineCode": "FI",
@@ -2719,14 +2711,6 @@ let interview_data_raw = `[
         "Dest": "LHR",
         "AirlineCode": "BA",
         "InterviewerID": 3
-    },
-    {
-        "InterviewId": "98eb87eb-10cf-43a7-b3ce-586b2419132f",
-        "InterviewEndDate": "2023-06-06 11:12:03",
-        "InterviewState": "Completed",
-        "Dest": "IST",
-        "AirlineCode": "TK",
-        "InterviewerID": 2
     },
     {
         "InterviewId": "8f05862a-e0d3-4d5b-8723-47bcd9f77df2",
@@ -5993,14 +5977,6 @@ let interview_data_raw = `[
         "InterviewerID": 5
     },
     {
-        "InterviewId": "587754c3-268a-4943-8a2f-5878b4ab6453",
-        "InterviewEndDate": "2023-06-12 20:19:38",
-        "InterviewState": "Completed",
-        "Dest": "IST",
-        "AirlineCode": "TK",
-        "InterviewerID": 5
-    },
-    {
         "InterviewId": "23af975b-87df-48ad-a083-549f1807957f",
         "InterviewEndDate": "2023-06-12 20:20:38",
         "InterviewState": "Completed",
@@ -8001,6 +7977,30 @@ let interview_data_raw = `[
         "InterviewerID": 2
     },
     {
+        "InterviewId": "32623074-098b-4d41-bf41-1eb8e4955969",
+        "InterviewEndDate": "2023-06-20 20:26:03",
+        "InterviewState": "Completed",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "222cf652-d1c0-4da9-998d-192e3b08c9ac",
+        "InterviewEndDate": "2023-06-20 20:48:26",
+        "InterviewState": "Completed",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "1a696b9a-ba51-4c4c-b08b-43fb752a127e",
+        "InterviewEndDate": "2023-06-20 20:51:51",
+        "InterviewState": "Completed",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 2
+    },
+    {
         "InterviewId": "8bb9fa20-9a42-4c80-a66e-93b5ccf07ddd",
         "InterviewEndDate": "2023-05-27 08:14:56",
         "InterviewState": "Completed",
@@ -8577,14 +8577,6 @@ let interview_data_raw = `[
         "InterviewerID": 3
     },
     {
-        "InterviewId": "7f6ba49a-79cc-4035-a024-b10cdb24a15e",
-        "InterviewEndDate": "2023-06-02 11:02:11",
-        "InterviewState": "Completed",
-        "Dest": "DUB",
-        "AirlineCode": "SK",
-        "InterviewerID": 2
-    },
-    {
         "InterviewId": "fa91f98a-b99d-447a-847d-85a22d180009",
         "InterviewEndDate": "2023-06-02 11:13:55",
         "InterviewState": "Completed",
@@ -8779,6 +8771,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "c8c9bba5-53bc-430b-8482-98b307bbc511",
         "InterviewEndDate": "2023-06-02 14:21:03",
+        "InterviewState": "Completed",
+        "Dest": "KEF",
+        "AirlineCode": "FI",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "54361984-e754-4381-a5d0-58a11e4aef01",
+        "InterviewEndDate": "2023-06-02 14:24:13",
         "InterviewState": "Completed",
         "Dest": "KEF",
         "AirlineCode": "FI",
@@ -9241,14 +9241,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "b9c1e5fe-229f-4fa7-bde2-b0af90c656c0",
-        "InterviewEndDate": "2023-06-04 13:03:56",
-        "InterviewState": "Completed",
-        "Dest": "SAW",
-        "AirlineCode": "PC",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "d0aee211-3cc5-42d9-b4f1-985a44d661d4",
         "InterviewEndDate": "2023-06-04 13:32:39",
         "InterviewState": "Completed",
@@ -9547,14 +9539,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "25a6bd0d-add1-459f-8260-acfdd7c4d9bc",
         "InterviewEndDate": "2023-06-04 16:25:02",
-        "InterviewState": "Completed",
-        "Dest": "SAW",
-        "AirlineCode": "PC",
-        "InterviewerID": 5
-    },
-    {
-        "InterviewId": "f00295b2-44f3-41fd-a824-b0af0407e796",
-        "InterviewEndDate": "2023-06-04 16:27:01",
         "InterviewState": "Completed",
         "Dest": "SAW",
         "AirlineCode": "PC",
@@ -10985,6 +10969,14 @@ let interview_data_raw = `[
         "InterviewerID": 3
     },
     {
+        "InterviewId": "98eb87eb-10cf-43a7-b3ce-586b2419132f",
+        "InterviewEndDate": "2023-06-06 11:12:03",
+        "InterviewState": "Completed",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 2
+    },
+    {
         "InterviewId": "5b8472ac-f9a5-40d6-95b1-66c53bbca11b",
         "InterviewEndDate": "2023-06-06 11:23:42",
         "InterviewState": "Completed",
@@ -11803,14 +11795,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "14176d05-dcbf-4c24-a4db-7cf393a8f813",
         "InterviewEndDate": "2023-06-07 16:01:17",
-        "InterviewState": "Completed",
-        "Dest": "IST",
-        "AirlineCode": "TK",
-        "InterviewerID": 5
-    },
-    {
-        "InterviewId": "1c73e74b-61a6-4756-a29c-b0b212543a26",
-        "InterviewEndDate": "2023-06-07 16:04:00",
         "InterviewState": "Completed",
         "Dest": "IST",
         "AirlineCode": "TK",
@@ -12651,14 +12635,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "4b213429-c044-4691-92ee-9aef8723c642",
         "InterviewEndDate": "2023-06-09 14:49:53",
-        "InterviewState": "Completed",
-        "Dest": "DXB",
-        "AirlineCode": "EK",
-        "InterviewerID": 5
-    },
-    {
-        "InterviewId": "20540ba5-1028-417a-83c3-b1058a1b781a",
-        "InterviewEndDate": "2023-06-09 15:04:25",
         "InterviewState": "Completed",
         "Dest": "DXB",
         "AirlineCode": "EK",
@@ -13665,14 +13641,6 @@ let interview_data_raw = `[
         "InterviewerID": 5
     },
     {
-        "InterviewId": "ee560800-de6b-4b56-8ddc-b0dc4a4379c2",
-        "InterviewEndDate": "2023-06-12 14:08:35",
-        "InterviewState": "Completed",
-        "Dest": "BRU",
-        "AirlineCode": "SK",
-        "InterviewerID": 2
-    },
-    {
         "InterviewId": "253b7497-f21e-41f9-8104-647c8b82e6b8",
         "InterviewEndDate": "2023-06-12 14:16:03",
         "InterviewState": "Completed",
@@ -14019,6 +13987,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "928baf74-e66c-4fac-982a-8e8029693560",
         "InterviewEndDate": "2023-06-12 20:07:38",
+        "InterviewState": "Completed",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "587754c3-268a-4943-8a2f-5878b4ab6453",
+        "InterviewEndDate": "2023-06-12 20:19:38",
         "InterviewState": "Completed",
         "Dest": "IST",
         "AirlineCode": "TK",
@@ -15993,6 +15969,30 @@ let interview_data_raw = `[
         "InterviewerID": 2
     },
     {
+        "InterviewId": "b4357bb6-9e9a-4732-ae57-9578958e0f06",
+        "InterviewEndDate": "2023-06-20 20:53:30",
+        "InterviewState": "Completed",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "7e5c9f54-bece-47a7-82fd-a43d4b903c45",
+        "InterviewEndDate": "2023-06-20 20:51:39",
+        "InterviewState": "Completed",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "251faab8-9dc1-4d67-ab40-6c9d393d47c6",
+        "InterviewEndDate": "2023-06-20 21:12:19",
+        "InterviewState": "Completed",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 2
+    },
+    {
         "InterviewId": "bf6f18f5-d86e-4ee8-bb70-d7db2be963e7",
         "InterviewEndDate": "2023-05-28 13:59:59",
         "InterviewState": "Completed",
@@ -16487,6 +16487,14 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 5
+    },
+    {
+        "InterviewId": "7f6ba49a-79cc-4035-a024-b10cdb24a15e",
+        "InterviewEndDate": "2023-06-02 11:02:11",
+        "InterviewState": "Completed",
+        "Dest": "DUB",
+        "AirlineCode": "SK",
+        "InterviewerID": 2
     },
     {
         "InterviewId": "5dc2e790-d0e0-4111-945f-e24e3542045d",
@@ -17161,6 +17169,14 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "b9c1e5fe-229f-4fa7-bde2-b0af90c656c0",
+        "InterviewEndDate": "2023-06-04 13:03:56",
+        "InterviewState": "Completed",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "d9da2e83-afde-4b74-8178-b7d8c4ef2806",
         "InterviewEndDate": "2023-06-04 13:13:37",
         "InterviewState": "Completed",
@@ -17491,6 +17507,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "6eb5e813-3dba-438b-8809-c2d314954e28",
         "InterviewEndDate": "2023-06-04 16:39:09",
+        "InterviewState": "Completed",
+        "Dest": "SAW",
+        "AirlineCode": "PC",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "f00295b2-44f3-41fd-a824-b0af0407e796",
+        "InterviewEndDate": "2023-06-04 16:27:01",
         "InterviewState": "Completed",
         "Dest": "SAW",
         "AirlineCode": "PC",
@@ -19377,6 +19401,14 @@ let interview_data_raw = `[
         "InterviewerID": 5
     },
     {
+        "InterviewId": "1c73e74b-61a6-4756-a29c-b0b212543a26",
+        "InterviewEndDate": "2023-06-07 16:04:00",
+        "InterviewState": "Completed",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 5
+    },
+    {
         "InterviewId": "4ea4ef1a-6a13-4078-af52-d4a992d3b37d",
         "InterviewEndDate": "2023-06-07 16:03:06",
         "InterviewState": "Completed",
@@ -20179,6 +20211,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "56d40118-e741-4c84-b370-b174ab486173",
         "InterviewEndDate": "2023-06-09 15:03:54",
+        "InterviewState": "Completed",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "20540ba5-1028-417a-83c3-b1058a1b781a",
+        "InterviewEndDate": "2023-06-09 15:04:25",
         "InterviewState": "Completed",
         "Dest": "DXB",
         "AirlineCode": "EK",
@@ -21143,6 +21183,14 @@ let interview_data_raw = `[
         "Dest": "LGW",
         "AirlineCode": "D8",
         "InterviewerID": 5
+    },
+    {
+        "InterviewId": "ee560800-de6b-4b56-8ddc-b0dc4a4379c2",
+        "InterviewEndDate": "2023-06-12 14:08:35",
+        "InterviewState": "Completed",
+        "Dest": "BRU",
+        "AirlineCode": "SK",
+        "InterviewerID": 2
     },
     {
         "InterviewId": "76c27cdc-7572-40dd-ba7e-bafe538ab25b",
@@ -23326,6 +23374,30 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "FRA",
         "AirlineCode": "LH",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "b045cc59-9429-4da4-9e68-c93763d80c61",
+        "InterviewEndDate": "2023-06-20 20:28:18",
+        "InterviewState": "Completed",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "bc5e589c-ae6c-44e9-adfc-c8eaf0d7e43d",
+        "InterviewEndDate": "2023-06-20 20:45:24",
+        "InterviewState": "Completed",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 2
+    },
+    {
+        "InterviewId": "e46bf90b-6d9c-40d6-8216-e3fc9cfac478",
+        "InterviewEndDate": "2023-06-20 20:47:08",
+        "InterviewState": "Completed",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
         "InterviewerID": 2
     }
 ]    
