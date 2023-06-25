@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "25-06-2023 19:40:06"
+        "download_time": "25-06-2023 20:39:06"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -8805,6 +8805,33 @@ let interview_data_raw = `[
     {
         "InterviewId": "f8c433a3-beaa-4d11-a422-fc7754de0b61",
         "InterviewEndDate": "2023-06-25 20:36:34",
+        "InterviewState": "Completed",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "3534e15e-0946-4acd-948b-0179b7ab410c",
+        "InterviewEndDate": "2023-06-25 20:43:07",
+        "InterviewState": "Completed",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "506ddaff-8294-4e86-9cc0-e91547621cc1",
+        "InterviewEndDate": "2023-06-25 20:45:53",
+        "InterviewState": "Completed",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "efdb9198-c8ff-492c-8a67-9c5a5ff46d55",
+        "InterviewEndDate": "2023-06-25 20:54:50",
         "InterviewState": "Completed",
         "Flight": "W6 2335",
         "Dest": "MXP",
