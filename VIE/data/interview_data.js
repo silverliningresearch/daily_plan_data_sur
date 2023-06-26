@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "26-06-2023 19:17:41"
+        "download_time": "26-06-2023 20:18:01"
     },
     {
         "InterviewId": "19b0cd19-2bb2-4399-ba03-91dc13ccf252",
@@ -366,14 +366,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "OS 0515",
         "Dest": "MXP",
-        "InterviewerID": 1008
-    },
-    {
-        "InterviewId": "c29d9e10-e9a6-4c30-93d2-95b7c1d4ff51",
-        "InterviewEndDate": "2023-06-13 18:58:01",
-        "InterviewState": "Completed",
-        "Flight": "OS 0429",
-        "Dest": "NCE",
         "InterviewerID": 1008
     },
     {
@@ -7929,6 +7921,14 @@ let interview_data_raw = `[
         "InterviewerID": 1008
     },
     {
+        "InterviewId": "0abd2d9a-b37a-4813-a685-17270aae60fb",
+        "InterviewEndDate": "2023-06-26 20:43:50",
+        "InterviewState": "Completed",
+        "Flight": "PC 5048",
+        "Dest": "AYT",
+        "InterviewerID": 8
+    },
+    {
         "InterviewId": "97143008-a7bf-4d13-b1be-7cd65899f7c6",
         "InterviewEndDate": "2023-06-26 17:54:22",
         "InterviewState": "Completed",
@@ -8331,6 +8331,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "39fbec54-078b-472a-ad92-fdc386f315d7",
         "InterviewEndDate": "2023-06-13 19:02:28",
+        "InterviewState": "Completed",
+        "Flight": "OS 0429",
+        "Dest": "NCE",
+        "InterviewerID": 1008
+    },
+    {
+        "InterviewId": "c29d9e10-e9a6-4c30-93d2-95b7c1d4ff51",
+        "InterviewEndDate": "2023-06-13 18:58:01",
         "InterviewState": "Completed",
         "Flight": "OS 0429",
         "Dest": "NCE",
@@ -14022,6 +14030,22 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 7177",
         "Dest": "FCO",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "c3c6f7d5-b93a-40e6-83c9-c4efe6a2832e",
+        "InterviewEndDate": "2023-06-26 20:34:13",
+        "InterviewState": "Completed",
+        "Flight": "PC 5048",
+        "Dest": "AYT",
+        "InterviewerID": 8
+    },
+    {
+        "InterviewId": "fd903133-a797-4724-bf3b-d75ffbaad9db",
+        "InterviewEndDate": "2023-06-26 20:33:56",
+        "InterviewState": "Completed",
+        "Flight": "PC 5048",
+        "Dest": "AYT",
         "InterviewerID": 8
     }
 ]    
