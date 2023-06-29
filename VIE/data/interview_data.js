@@ -6,7 +6,7 @@ let interview_data_raw = `[
         "Flight": "4M 0852",
         "Dest": "AYT",
         "InterviewerID": 999,
-        "download_time": "29-06-2023 06:37:28"
+        "download_time": "29-06-2023 07:32:37"
     },
     {
         "InterviewId": "965d167c-8ff2-4293-9236-12a1a0e6ea27",
@@ -2627,14 +2627,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "8fe2d441-b780-4e1e-8893-4aeaa2b0fcb9",
         "InterviewEndDate": "2023-06-18 16:07:16",
-        "InterviewState": "Completed",
-        "Flight": "MS 0798",
-        "Dest": "CAI",
-        "InterviewerID": 1008
-    },
-    {
-        "InterviewId": "732a1ad3-4fdd-4e01-b613-850dc9e19b27",
-        "InterviewEndDate": "2023-06-18 16:07:02",
         "InterviewState": "Completed",
         "Flight": "MS 0798",
         "Dest": "CAI",
@@ -8001,6 +7993,14 @@ let interview_data_raw = `[
         "InterviewerID": 1010
     },
     {
+        "InterviewId": "70093e3a-e5de-47e5-8603-3f138c727387",
+        "InterviewEndDate": "2023-06-29 07:45:42",
+        "InterviewState": "Completed",
+        "Flight": "OS 0175",
+        "Dest": "HAM",
+        "InterviewerID": 1010
+    },
+    {
         "InterviewId": "66aab6a1-a385-4c29-9c30-aaef5d178d19",
         "InterviewEndDate": "2023-06-16 10:50:32",
         "InterviewState": "Completed",
@@ -10663,6 +10663,14 @@ let interview_data_raw = `[
         "Flight": "OS 0087",
         "Dest": "JFK",
         "InterviewerID": 1002
+    },
+    {
+        "InterviewId": "732a1ad3-4fdd-4e01-b613-850dc9e19b27",
+        "InterviewEndDate": "2023-06-18 16:07:02",
+        "InterviewState": "Completed",
+        "Flight": "MS 0798",
+        "Dest": "CAI",
+        "InterviewerID": 1008
     },
     {
         "InterviewId": "ed05bc84-0ba0-4bb8-b6e2-e45426076800",
@@ -15867,6 +15875,14 @@ let interview_data_raw = `[
     {
         "InterviewId": "52290970-1ddc-4c6c-a5ce-90808b2de877",
         "InterviewEndDate": "2023-06-29 07:32:01",
+        "InterviewState": "Completed",
+        "Flight": "OS 0175",
+        "Dest": "HAM",
+        "InterviewerID": 1010
+    },
+    {
+        "InterviewId": "2aeb4b41-de58-4cd2-b79d-db2e6b23d8f1",
+        "InterviewEndDate": "2023-06-29 07:45:07",
         "InterviewState": "Completed",
         "Flight": "OS 0175",
         "Dest": "HAM",
