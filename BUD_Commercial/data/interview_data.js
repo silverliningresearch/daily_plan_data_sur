@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "02-07-2023 09:45:57"
+        "download_time": "02-07-2023 10:40:55"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -516,15 +516,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "46ee98c1-3d8a-494d-b3b4-253ef74a51f8",
         "InterviewEndDate": "2023-04-15 19:34:55",
-        "InterviewState": "Completed",
-        "Flight": "FR 6278",
-        "Dest": "CTA",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
-        "InterviewId": "197079c1-3459-486b-b38e-fdbd140bd60a",
-        "InterviewEndDate": "2023-04-15 19:34:20",
         "InterviewState": "Completed",
         "Flight": "FR 6278",
         "Dest": "CTA",
@@ -1951,15 +1942,6 @@ let interview_data_raw = `[
         "Flight": "LH 1339",
         "Dest": "FRA",
         "AirlineCode": "LH",
-        "InterviewerID": 1
-    },
-    {
-        "InterviewId": "aaa8e13a-5ea9-4667-b0fa-fe5487fff995",
-        "InterviewEndDate": "2023-04-25 07:32:30",
-        "InterviewState": "Completed",
-        "Flight": "W6 2375",
-        "Dest": "BCN",
-        "AirlineCode": "W6",
         "InterviewerID": 1
     },
     {
@@ -9001,12 +8983,48 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "8935fa79-2bf5-49c2-bc40-7cf6fc9368f6",
+        "InterviewEndDate": "2023-07-02 11:24:58",
+        "InterviewState": "Completed",
+        "Flight": "FR 4329",
+        "Dest": "SNN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "f4990f22-d7ae-4409-83bf-9a211b17fe4b",
+        "InterviewEndDate": "2023-07-02 11:34:46",
+        "InterviewState": "Completed",
+        "Flight": "FR 4329",
+        "Dest": "SNN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "7e279115-a158-4e52-b522-ff682c24618b",
         "InterviewEndDate": "2023-04-15 19:32:34",
         "InterviewState": "Completed",
         "Flight": "FR 6278",
         "Dest": "CTA",
         "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "197079c1-3459-486b-b38e-fdbd140bd60a",
+        "InterviewEndDate": "2023-04-15 19:34:20",
+        "InterviewState": "Completed",
+        "Flight": "FR 6278",
+        "Dest": "CTA",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "aaa8e13a-5ea9-4667-b0fa-fe5487fff995",
+        "InterviewEndDate": "2023-04-25 07:32:30",
+        "InterviewState": "Completed",
+        "Flight": "W6 2375",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
         "InterviewerID": 1
     },
     {
