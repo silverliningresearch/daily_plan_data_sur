@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "ICN",
         "AirlineCode": "SQ",
         "InterviewerID": "",
-        "download_time": "04-07-2023 01:41:57"
+        "download_time": "04-07-2023 02:37:00"
     },
     {
         "InterviewId": "ae9f7ed5-1e70-44a3-b255-16938fbc91ff",
@@ -57745,15 +57745,6 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
-        "InterviewId": "1a48faab-7968-463c-b51c-d7f2cc8276b3",
-        "InterviewEndDate": "2023-05-05 10:05:10",
-        "InterviewState": "Completed",
-        "Flight": "263",
-        "Dest": "CGK",
-        "AirlineCode": "QZ",
-        "InterviewerID": ""
-    },
-    {
         "InterviewId": "030b6ceb-a8f5-4021-811f-c643df2738c6",
         "InterviewEndDate": "2023-05-05 11:56:43",
         "InterviewState": "Completed",
@@ -62983,6 +62974,15 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
+        "InterviewId": "bfe27d94-0941-408c-bd41-c79e56bd083d",
+        "InterviewEndDate": "2023-07-04 02:45:36",
+        "InterviewState": "Completed",
+        "Flight": "52",
+        "Dest": "IAH",
+        "AirlineCode": "SQ",
+        "InterviewerID": ""
+    },
+    {
         "InterviewId": "3305e8dd-2e12-4777-9408-f6ed9213db12",
         "InterviewEndDate": "2023-04-01 09:36:18",
         "InterviewState": "Completed",
@@ -65008,15 +65008,6 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
-        "InterviewId": "2c06b17f-4a51-46cd-b1a9-f83f449db9e6",
-        "InterviewEndDate": "2023-04-17 22:26:28",
-        "InterviewState": "Completed",
-        "Flight": "644",
-        "Dest": "ICN",
-        "AirlineCode": "KE",
-        "InterviewerID": ""
-    },
-    {
         "InterviewId": "286845a4-b514-4300-b5e8-f2dc19c9d7f0",
         "InterviewEndDate": "2023-04-17 22:55:32",
         "InterviewState": "Completed",
@@ -66733,6 +66724,15 @@ let interview_data_raw = `[
         "Flight": "658",
         "Dest": "HKG",
         "AirlineCode": "CX",
+        "InterviewerID": ""
+    },
+    {
+        "InterviewId": "1a48faab-7968-463c-b51c-d7f2cc8276b3",
+        "InterviewEndDate": "2023-05-05 10:05:10",
+        "InterviewState": "Completed",
+        "Flight": "263",
+        "Dest": "CGK",
+        "AirlineCode": "QZ",
         "InterviewerID": ""
     },
     {
@@ -71398,15 +71398,6 @@ let interview_data_raw = `[
         "InterviewerID": ""
     },
     {
-        "InterviewId": "1a01ea99-1786-4597-baa4-f84aa108e499",
-        "InterviewEndDate": "2023-07-01 22:09:38",
-        "InterviewState": "Completed",
-        "Flight": "1730",
-        "Dest": "PEN",
-        "AirlineCode": "AK",
-        "InterviewerID": ""
-    },
-    {
         "InterviewId": "7fd01efc-f6fb-46b8-9343-db7542a94160",
         "InterviewEndDate": "2023-07-01 22:02:53",
         "InterviewState": "Completed",
@@ -71979,6 +71970,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "366",
         "Dest": "FCO",
+        "AirlineCode": "SQ",
+        "InterviewerID": ""
+    },
+    {
+        "InterviewId": "cd2ccffa-0535-405e-b57c-e4ec25696c4b",
+        "InterviewEndDate": "2023-07-04 02:51:23",
+        "InterviewState": "Completed",
+        "Flight": "52",
+        "Dest": "IAH",
         "AirlineCode": "SQ",
         "InterviewerID": ""
     },
@@ -72592,6 +72592,15 @@ let interview_data_raw = `[
         "Flight": "410",
         "Dest": "BKK",
         "AirlineCode": "TG",
+        "InterviewerID": ""
+    },
+    {
+        "InterviewId": "2c06b17f-4a51-46cd-b1a9-f83f449db9e6",
+        "InterviewEndDate": "2023-04-17 22:26:28",
+        "InterviewState": "Completed",
+        "Flight": "644",
+        "Dest": "ICN",
+        "AirlineCode": "KE",
         "InterviewerID": ""
     },
     {
@@ -74239,6 +74248,15 @@ let interview_data_raw = `[
         "Flight": "504",
         "Dest": "AMD",
         "AirlineCode": "SQ",
+        "InterviewerID": ""
+    },
+    {
+        "InterviewId": "1a01ea99-1786-4597-baa4-f84aa108e499",
+        "InterviewEndDate": "2023-07-01 22:09:38",
+        "InterviewState": "Completed",
+        "Flight": "1730",
+        "Dest": "PEN",
+        "AirlineCode": "AK",
         "InterviewerID": ""
     },
     {
