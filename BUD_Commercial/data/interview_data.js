@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "05-07-2023 12:56:00"
+        "download_time": "05-07-2023 13:50:56"
     },
     {
         "InterviewId": "5ff83009-9fc3-465b-97fb-4fddc230a041",
@@ -889,15 +889,6 @@ let interview_data_raw = `[
         "Flight": "W6 2273",
         "Dest": "EIN",
         "AirlineCode": "W6",
-        "InterviewerID": 1
-    },
-    {
-        "InterviewId": "fd5e6fed-fe6d-4a80-bcf9-f6c5a4eb00c1",
-        "InterviewEndDate": "2023-04-18 13:23:59",
-        "InterviewState": "Completed",
-        "Flight": "DY 1551",
-        "Dest": "OSL",
-        "AirlineCode": "DY",
         "InterviewerID": 1
     },
     {
@@ -2941,15 +2932,6 @@ let interview_data_raw = `[
         "Flight": "FR 3330",
         "Dest": "PFO",
         "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
-        "InterviewId": "0e93b2d5-51fa-4993-aa5f-f64927172295",
-        "InterviewEndDate": "2023-05-13 06:37:16",
-        "InterviewState": "Completed",
-        "Flight": "W6 2447",
-        "Dest": "SKG",
-        "AirlineCode": "W6",
         "InterviewerID": 1
     },
     {
@@ -6391,15 +6373,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "2fbfa583-7e3d-4cb7-87f7-f5d637af6b2b",
-        "InterviewEndDate": "2023-06-08 12:30:18",
-        "InterviewState": "Completed",
-        "Flight": "W6 2357",
-        "Dest": "AUH",
-        "AirlineCode": "W6",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "5f89a589-9079-427d-b863-d1f7d0856f91",
         "InterviewEndDate": "2023-06-08 12:41:03",
         "InterviewState": "Completed",
@@ -7948,15 +7921,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "b3207cac-72c5-47b6-8b7a-f63b7f6949c9",
-        "InterviewEndDate": "2023-06-18 16:33:31",
-        "InterviewState": "Completed",
-        "Flight": "W6 2387",
-        "Dest": "ALC",
-        "AirlineCode": "W6",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "ef332ed0-d4d7-47fd-9746-1beb713a8f15",
         "InterviewEndDate": "2023-06-18 16:34:17",
         "InterviewState": "Completed",
@@ -9001,6 +8965,42 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "235ede5a-317c-4665-836e-48ac122a2a5a",
+        "InterviewEndDate": "2023-07-05 14:07:24",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ecdc4d69-c4c5-49cb-b417-705bd7153af9",
+        "InterviewEndDate": "2023-07-05 14:11:46",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "eebcd220-1850-441a-b32c-348f8cdfe65a",
+        "InterviewEndDate": "2023-07-05 14:12:31",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "5001ffeb-7c53-4d4c-b134-b114b7ef282c",
+        "InterviewEndDate": "2023-07-05 14:08:27",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "f1855e13-8d8a-4895-9b92-f8b1e0e76482",
         "InterviewEndDate": "2023-04-06 15:36:27",
         "InterviewState": "Completed",
@@ -9062,6 +9062,15 @@ let interview_data_raw = `[
         "Dest": "FRA",
         "AirlineCode": "LH",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "fd5e6fed-fe6d-4a80-bcf9-f6c5a4eb00c1",
+        "InterviewEndDate": "2023-04-18 13:23:59",
+        "InterviewState": "Completed",
+        "Flight": "DY 1551",
+        "Dest": "OSL",
+        "AirlineCode": "DY",
+        "InterviewerID": 1
     },
     {
         "InterviewId": "6341c72f-9867-4304-b265-f823620c680b",
@@ -9169,6 +9178,15 @@ let interview_data_raw = `[
         "Flight": "OS  714",
         "Dest": "VIE",
         "AirlineCode": "OS",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "0e93b2d5-51fa-4993-aa5f-f64927172295",
+        "InterviewEndDate": "2023-05-13 06:37:16",
+        "InterviewState": "Completed",
+        "Flight": "W6 2447",
+        "Dest": "SKG",
+        "AirlineCode": "W6",
         "InterviewerID": 1
     },
     {
@@ -9316,6 +9334,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "2fbfa583-7e3d-4cb7-87f7-f5d637af6b2b",
+        "InterviewEndDate": "2023-06-08 12:30:18",
+        "InterviewState": "Completed",
+        "Flight": "W6 2357",
+        "Dest": "AUH",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "d7be72b6-2659-4486-8172-ffc74b3fffe8",
         "InterviewEndDate": "2023-06-09 11:16:34",
         "InterviewState": "Completed",
@@ -9379,6 +9406,15 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "b3207cac-72c5-47b6-8b7a-f63b7f6949c9",
+        "InterviewEndDate": "2023-06-18 16:33:31",
+        "InterviewState": "Completed",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "f33ba70b-6f11-4f03-b028-fa56b4aeb328",
         "InterviewEndDate": "2023-06-22 10:39:32",
         "InterviewState": "Completed",
@@ -9421,6 +9457,15 @@ let interview_data_raw = `[
         "Flight": "W6 2315",
         "Dest": "BER",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "982cd81d-ab99-4759-b37d-f65c21f60800",
+        "InterviewEndDate": "2023-07-05 14:14:30",
+        "InterviewState": "Completed",
+        "Flight": "TK 1034",
+        "Dest": "IST",
+        "AirlineCode": "TK",
         "InterviewerID": 1
     }
 ]    
