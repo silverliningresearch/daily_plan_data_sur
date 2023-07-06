@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "Funchal (FNC)",
         "AirlineCode": "easyJet Europe",
         "InterviewerID": 11,
-        "download_time": "06-07-2023 13:43:48"
+        "download_time": "06-07-2023 14:38:38"
     },
     {
         "InterviewId": "43d7a983-e57c-4a0c-b16d-042e9d875c97",
@@ -50581,15 +50581,6 @@ let interview_data_raw = `[
         "InterviewerID": 10
     },
     {
-        "InterviewId": "0a54c106-2a57-40cb-8cff-bd25754fdc8e",
-        "InterviewEndDate": "2023-06-06 10:07:56",
-        "InterviewState": "Completed",
-        "Flight": "EZY2602",
-        "Dest": "London (LTN)",
-        "AirlineCode": "easyJet UK",
-        "InterviewerID": 10
-    },
-    {
         "InterviewId": "2c65c0c9-5f5c-49fc-8b34-af0e00e4d921",
         "InterviewEndDate": "2023-06-06 10:41:36",
         "InterviewState": "Completed",
@@ -53963,6 +53954,15 @@ let interview_data_raw = `[
         "Dest": "Frankfurt (FRA)",
         "AirlineCode": "Lufthansa",
         "InterviewerID": 23
+    },
+    {
+        "InterviewId": "616d654c-a757-4b27-b266-abb6ba3a1d53",
+        "InterviewEndDate": "2023-07-06 14:43:58",
+        "InterviewState": "Completed",
+        "Flight": "LH  189",
+        "Dest": "Frankfurt (FRA)",
+        "AirlineCode": "Lufthansa",
+        "InterviewerID": 16
     },
     {
         "InterviewId": "b9a18691-ed90-47f0-bcec-a3863309634f",
@@ -58852,15 +58852,6 @@ let interview_data_raw = `[
         "InterviewerID": 12
     },
     {
-        "InterviewId": "1dc18ac8-c261-4443-941a-db5b398fb131",
-        "InterviewEndDate": "2023-05-25 22:13:32",
-        "InterviewState": "Completed",
-        "Flight": "JU  355",
-        "Dest": "Belgrad (BEG)",
-        "AirlineCode": "Air Serbia",
-        "InterviewerID": 12
-    },
-    {
         "InterviewId": "bb37a6f6-916c-48f5-bdf2-ca086582fec8",
         "InterviewEndDate": "2023-05-26 12:58:10",
         "InterviewState": "Completed",
@@ -59407,6 +59398,15 @@ let interview_data_raw = `[
         "Flight": "KL 1822",
         "Dest": "Amsterdam (AMS)",
         "AirlineCode": "KLM Royal Dutch Airlines",
+        "InterviewerID": 10
+    },
+    {
+        "InterviewId": "0a54c106-2a57-40cb-8cff-bd25754fdc8e",
+        "InterviewEndDate": "2023-06-06 10:07:56",
+        "InterviewState": "Completed",
+        "Flight": "EZY2602",
+        "Dest": "London (LTN)",
+        "AirlineCode": "easyJet UK",
         "InterviewerID": 10
     },
     {
@@ -66961,15 +66961,6 @@ let interview_data_raw = `[
         "InterviewerID": 11
     },
     {
-        "InterviewId": "101e094d-c5b9-40fd-9ccc-f84620fb5ac8",
-        "InterviewEndDate": "2023-05-17 20:35:13",
-        "InterviewState": "Completed",
-        "Flight": "AF 1535",
-        "Dest": "Paris (CDG)",
-        "AirlineCode": "Air France",
-        "InterviewerID": 11
-    },
-    {
         "InterviewId": "f444c465-5f83-45f2-b8cc-e7198ade06f6",
         "InterviewEndDate": "2023-05-17 21:27:31",
         "InterviewState": "Completed",
@@ -67602,6 +67593,15 @@ let interview_data_raw = `[
     {
         "InterviewId": "bfdd1f3a-c21c-4043-a6cb-eab94c3b78f9",
         "InterviewEndDate": "2023-05-25 22:30:37",
+        "InterviewState": "Completed",
+        "Flight": "JU  355",
+        "Dest": "Belgrad (BEG)",
+        "AirlineCode": "Air Serbia",
+        "InterviewerID": 12
+    },
+    {
+        "InterviewId": "1dc18ac8-c261-4443-941a-db5b398fb131",
+        "InterviewEndDate": "2023-05-25 22:13:32",
         "InterviewState": "Completed",
         "Flight": "JU  355",
         "Dest": "Belgrad (BEG)",
@@ -73142,6 +73142,15 @@ let interview_data_raw = `[
         "Dest": "Wien (VIE)",
         "AirlineCode": "Austrian Airlines",
         "InterviewerID": 12
+    },
+    {
+        "InterviewId": "101e094d-c5b9-40fd-9ccc-f84620fb5ac8",
+        "InterviewEndDate": "2023-05-17 20:35:13",
+        "InterviewState": "Completed",
+        "Flight": "AF 1535",
+        "Dest": "Paris (CDG)",
+        "AirlineCode": "Air France",
+        "InterviewerID": 11
     },
     {
         "InterviewId": "c749c015-500e-4369-85e4-f8985da21f48",
