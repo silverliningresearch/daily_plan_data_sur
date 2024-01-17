@@ -4,7 +4,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "17-01-2024 16:01:21"
+        "download_time": "17-01-2024 16:56:15"
     },
     {
         "InterviewEndDate": "2023-05-27",
@@ -151285,6 +151285,12 @@ let interview_data_raw = `[
         "AirlineCode": "QR"
     },
     {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
         "InterviewEndDate": "2024-01-15",
         "InterviewState": "Completed",
         "Dest": "KEF",
@@ -154133,6 +154139,78 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "CDG",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "VIE",
+        "AirlineCode": "OS"
     }
 ]    
 
