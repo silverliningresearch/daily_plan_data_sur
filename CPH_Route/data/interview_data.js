@@ -4,7 +4,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "23-01-2024 10:26:11"
+        "download_time": "23-01-2024 11:21:16"
     },
     {
         "InterviewEndDate": "2023-05-27",
@@ -156027,6 +156027,12 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2024-01-23",
         "InterviewState": "Completed",
+        "Dest": "AGP",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
         "Dest": "FRA",
         "AirlineCode": "LH"
     },
@@ -156059,6 +156065,84 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "AGP",
         "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "AGP",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "AGP",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "AGP",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "AGP",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "AGP",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "AGP",
+        "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-23",
+        "InterviewState": "Completed",
+        "Dest": "BUD",
+        "AirlineCode": "FR"
     }
 ]    
 
