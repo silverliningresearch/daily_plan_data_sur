@@ -4,7 +4,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "24-01-2024 16:41:03"
+        "download_time": "24-01-2024 17:36:15"
     },
     {
         "InterviewEndDate": "2023-05-27",
@@ -156905,6 +156905,78 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "LYS",
         "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "MUC",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "MUC",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "MUC",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "ZRH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "MUC",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "MUC",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "ZRH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "MUC",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "ZRH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "ZRH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "ZRH",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-24",
+        "InterviewState": "Completed",
+        "Dest": "ZRH",
+        "AirlineCode": "SK"
     }
 ]    
 
