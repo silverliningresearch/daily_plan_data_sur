@@ -4,7 +4,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "26-01-2024 15:26:32"
+        "download_time": "26-01-2024 16:21:40"
     },
     {
         "InterviewEndDate": "2023-05-27",
@@ -153447,12 +153447,6 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2024-01-17",
         "InterviewState": "Completed",
-        "Dest": "IST",
-        "AirlineCode": "TK"
-    },
-    {
-        "InterviewEndDate": "2024-01-17",
-        "InterviewState": "Completed",
         "Dest": "SIN",
         "AirlineCode": "SQ"
     },
@@ -157187,6 +157181,90 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "STN",
         "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "STN",
+        "AirlineCode": "FR"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-26",
+        "InterviewState": "Completed",
+        "Dest": "CDG",
+        "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
+        "Dest": "IST",
+        "AirlineCode": "TK"
     }
 ]    
 
