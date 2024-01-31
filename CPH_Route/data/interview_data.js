@@ -4,7 +4,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "31-01-2024 11:51:22"
+        "download_time": "31-01-2024 12:46:13"
     },
     {
         "InterviewEndDate": "2023-05-27",
@@ -154485,12 +154485,6 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2024-01-21",
         "InterviewState": "Completed",
-        "Dest": "WAW",
-        "AirlineCode": "W6"
-    },
-    {
-        "InterviewEndDate": "2024-01-21",
-        "InterviewState": "Completed",
         "Dest": "HEL",
         "AirlineCode": "SK"
     },
@@ -156387,12 +156381,6 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2024-01-27",
         "InterviewState": "Completed",
-        "Dest": "LYS",
-        "AirlineCode": "D8"
-    },
-    {
-        "InterviewEndDate": "2024-01-27",
-        "InterviewState": "Completed",
         "Dest": "DXB",
         "AirlineCode": "EK"
     },
@@ -157241,6 +157229,18 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "CDG",
         "AirlineCode": "AF"
+    },
+    {
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Completed",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
+    },
+    {
+        "InterviewEndDate": "2024-01-31",
+        "InterviewState": "Completed",
+        "Dest": "BRU",
+        "AirlineCode": "SN"
     },
     {
         "InterviewEndDate": "2024-01-31",
@@ -158203,6 +158203,12 @@ let interview_data_raw = `[
         "AirlineCode": "SK"
     },
     {
+        "InterviewEndDate": "2024-01-21",
+        "InterviewState": "Completed",
+        "Dest": "WAW",
+        "AirlineCode": "W6"
+    },
+    {
         "InterviewEndDate": "2024-01-22",
         "InterviewState": "Completed",
         "Dest": "LHR",
@@ -158783,6 +158789,12 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "AMS",
         "AirlineCode": "SK"
+    },
+    {
+        "InterviewEndDate": "2024-01-27",
+        "InterviewState": "Completed",
+        "Dest": "LYS",
+        "AirlineCode": "D8"
     },
     {
         "InterviewEndDate": "2024-01-27",
