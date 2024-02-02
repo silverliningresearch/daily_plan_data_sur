@@ -4,7 +4,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "AMS",
         "AirlineCode": "KL",
-        "download_time": "02-02-2024 16:06:21"
+        "download_time": "02-02-2024 17:01:12"
     },
     {
         "InterviewEndDate": "2023-05-27",
@@ -152901,12 +152901,6 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2024-01-17",
         "InterviewState": "Completed",
-        "Dest": "OTP",
-        "AirlineCode": "W4"
-    },
-    {
-        "InterviewEndDate": "2024-01-17",
-        "InterviewState": "Completed",
         "Dest": "DXB",
         "AirlineCode": "EK"
     },
@@ -154091,12 +154085,6 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "DXB",
         "AirlineCode": "EK"
-    },
-    {
-        "InterviewEndDate": "2024-01-22",
-        "InterviewState": "Completed",
-        "Dest": "DOH",
-        "AirlineCode": "AY"
     },
     {
         "InterviewEndDate": "2024-01-22",
@@ -155205,12 +155193,6 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2024-01-27",
         "InterviewState": "Completed",
-        "Dest": "EWR",
-        "AirlineCode": "SK"
-    },
-    {
-        "InterviewEndDate": "2024-01-27",
-        "InterviewState": "Completed",
         "Dest": "IAD",
         "AirlineCode": "SK"
     },
@@ -157265,6 +157247,24 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "ARN",
         "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2024-02-02",
+        "InterviewState": "Completed",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewEndDate": "2024-02-02",
+        "InterviewState": "Completed",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewEndDate": "2024-02-02",
+        "InterviewState": "Completed",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     },
     {
         "InterviewEndDate": "2024-01-27",
@@ -158289,6 +158289,12 @@ let interview_data_raw = `[
     {
         "InterviewEndDate": "2024-01-17",
         "InterviewState": "Completed",
+        "Dest": "OTP",
+        "AirlineCode": "W4"
+    },
+    {
+        "InterviewEndDate": "2024-01-17",
+        "InterviewState": "Completed",
         "Dest": "DXB",
         "AirlineCode": "EK"
     },
@@ -159031,6 +159037,12 @@ let interview_data_raw = `[
         "AirlineCode": "AY"
     },
     {
+        "InterviewEndDate": "2024-01-22",
+        "InterviewState": "Completed",
+        "Dest": "DOH",
+        "AirlineCode": "AY"
+    },
+    {
         "InterviewEndDate": "2024-01-24",
         "InterviewState": "Completed",
         "Dest": "YYZ",
@@ -159725,6 +159737,12 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "SIN",
         "AirlineCode": "SQ"
+    },
+    {
+        "InterviewEndDate": "2024-01-27",
+        "InterviewState": "Completed",
+        "Dest": "EWR",
+        "AirlineCode": "SK"
     },
     {
         "InterviewEndDate": "2024-01-27",
@@ -161135,6 +161153,42 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Dest": "ARN",
         "AirlineCode": "D8"
+    },
+    {
+        "InterviewEndDate": "2024-02-02",
+        "InterviewState": "Completed",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewEndDate": "2024-02-02",
+        "InterviewState": "Completed",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewEndDate": "2024-02-02",
+        "InterviewState": "Completed",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewEndDate": "2024-02-02",
+        "InterviewState": "Completed",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewEndDate": "2024-02-02",
+        "InterviewState": "Completed",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
+    },
+    {
+        "InterviewEndDate": "2024-02-02",
+        "InterviewState": "Completed",
+        "Dest": "AMS",
+        "AirlineCode": "KL"
     }
 ]    
 
