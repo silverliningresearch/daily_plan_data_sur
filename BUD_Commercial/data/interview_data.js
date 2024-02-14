@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "14-02-2024 18:40:58"
+        "download_time": "14-02-2024 19:35:58"
     },
     {
         "InterviewId": "3a098953-ee22-4aa2-90f8-3090e371cff3",
@@ -26668,15 +26668,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "64684ed3-f746-4771-9a10-def913fcf1e2",
-        "InterviewEndDate": "2024-02-06 16:36:18",
-        "InterviewState": "Completed",
-        "Flight": "W6 2335",
-        "Dest": "MXP",
-        "AirlineCode": "W6",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "4ebea5a6-8161-4c7d-9e50-b90e138b0449",
         "InterviewEndDate": "2024-02-06 17:22:24",
         "InterviewState": "Completed",
@@ -26971,6 +26962,15 @@ let interview_data_raw = `[
         "Flight": "W6 2437",
         "Dest": "IST",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "4a9cc86b-8c8f-4031-aad9-a91e3556283b",
+        "InterviewEndDate": "2024-02-14 20:35:04",
+        "InterviewState": "Completed",
+        "Flight": "EW 2785",
+        "Dest": "STR",
+        "AirlineCode": "EW",
         "InterviewerID": 1
     },
     {
@@ -30988,6 +30988,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "64684ed3-f746-4771-9a10-def913fcf1e2",
+        "InterviewEndDate": "2024-02-06 16:36:18",
+        "InterviewState": "Completed",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "9a691ac2-e3e1-4518-937a-efc8971e21d8",
         "InterviewEndDate": "2024-02-09 14:10:32",
         "InterviewState": "Completed",
@@ -31120,6 +31129,24 @@ let interview_data_raw = `[
         "Flight": "W6 2387",
         "Dest": "ALC",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "068fb233-bf65-4fb5-b37a-fa4f89162d3d",
+        "InterviewEndDate": "2024-02-14 20:29:21",
+        "InterviewState": "Completed",
+        "Flight": "EW 2785",
+        "Dest": "STR",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "a74217d5-8962-4d83-8e37-e98ff1197605",
+        "InterviewEndDate": "2024-02-14 20:24:22",
+        "InterviewState": "Completed",
+        "Flight": "EW 2785",
+        "Dest": "STR",
+        "AirlineCode": "EW",
         "InterviewerID": 1
     }
 ]    
