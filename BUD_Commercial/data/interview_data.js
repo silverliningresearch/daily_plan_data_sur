@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "IST",
         "AirlineCode": "TK",
         "InterviewerID": 7,
-        "download_time": "20-03-2024 06:25:53"
+        "download_time": "20-03-2024 07:20:58"
     },
     {
         "InterviewId": "3a098953-ee22-4aa2-90f8-3090e371cff3",
@@ -26677,15 +26677,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "45bdd9d9-aac1-4f1d-9f01-cf68e808b9b1",
-        "InterviewEndDate": "2024-03-05 15:32:04",
-        "InterviewState": "Completed",
-        "Flight": "XQ  521",
-        "Dest": "AYT",
-        "AirlineCode": "XQ",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "c67b5ac2-eeb6-4c6d-aec3-cc2a987f393f",
         "InterviewEndDate": "2024-03-05 15:26:41",
         "InterviewState": "Completed",
@@ -26971,6 +26962,15 @@ let interview_data_raw = `[
         "Flight": "W6 2485",
         "Dest": "TGM",
         "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "68c3de01-a2c8-4450-adfd-c049f044daac",
+        "InterviewEndDate": "2024-03-20 07:46:25",
+        "InterviewState": "Completed",
+        "Flight": "FR 4329",
+        "Dest": "SNN",
+        "AirlineCode": "FR",
         "InterviewerID": 16
     },
     {
@@ -33613,6 +33613,15 @@ let interview_data_raw = `[
         "Flight": "BA  869",
         "Dest": "LHR",
         "AirlineCode": "BA",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "45bdd9d9-aac1-4f1d-9f01-cf68e808b9b1",
+        "InterviewEndDate": "2024-03-05 15:32:04",
+        "InterviewState": "Completed",
+        "Flight": "XQ  521",
+        "Dest": "AYT",
+        "AirlineCode": "XQ",
         "InterviewerID": 1
     },
     {
