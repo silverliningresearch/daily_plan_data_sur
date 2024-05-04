@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "WAW",
         "AirlineCode": "LO",
         "InterviewerID": 9,
-        "download_time": "04-05-2024 10:01:16"
+        "download_time": "04-05-2024 10:56:02"
     },
     {
         "InterviewId": "b2034ee5-1e99-4877-8f93-18b9280c67d5",
@@ -22645,15 +22645,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "4bf73837-d738-412a-a1c7-c6d0adbf68b2",
-        "InterviewEndDate": "2023-10-29 18:40:38",
-        "InterviewState": "Completed",
-        "Flight": "LH 1345",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "InterviewerID": 16
-    },
-    {
         "InterviewId": "7c73f7b1-fd24-42d4-80c0-ba330ed1c3ba",
         "InterviewEndDate": "2023-10-29 20:22:11",
         "InterviewState": "Completed",
@@ -26974,6 +26965,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "4bf5ff90-c736-4e43-9306-a7ba013a46fa",
+        "InterviewEndDate": "2024-05-04 11:24:36",
+        "InterviewState": "Completed",
+        "Flight": "XQ  521",
+        "Dest": "AYT",
+        "AirlineCode": "XQ",
+        "InterviewerID": 9
+    },
+    {
         "InterviewId": "0a447aa2-4a54-4b43-986f-e3ac0fc9535f",
         "InterviewEndDate": "2023-04-30 18:04:03",
         "InterviewState": "Completed",
@@ -31249,6 +31249,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "4bf73837-d738-412a-a1c7-c6d0adbf68b2",
+        "InterviewEndDate": "2023-10-29 18:40:38",
+        "InterviewState": "Completed",
+        "Flight": "LH 1345",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "f326097f-4d56-4438-8176-f032d4d07f71",
         "InterviewEndDate": "2023-10-29 20:09:48",
         "InterviewState": "Completed",
@@ -35459,6 +35468,15 @@ let interview_data_raw = `[
         "Dest": "SKG",
         "AirlineCode": "FR",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "336d0bde-7ab2-47fe-918a-e66c7ff90752",
+        "InterviewEndDate": "2024-05-04 11:21:10",
+        "InterviewState": "Completed",
+        "Flight": "XQ  521",
+        "Dest": "AYT",
+        "AirlineCode": "XQ",
+        "InterviewerID": 9
     }
 ]    
 
