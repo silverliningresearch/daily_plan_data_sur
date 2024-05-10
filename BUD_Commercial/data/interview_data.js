@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "WAW",
         "AirlineCode": "LO",
         "InterviewerID": 9,
-        "download_time": "10-05-2024 09:56:01"
+        "download_time": "10-05-2024 10:51:02"
     },
     {
         "InterviewId": "b2034ee5-1e99-4877-8f93-18b9280c67d5",
@@ -35754,6 +35754,33 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 6712",
         "Dest": "MAD",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "35d4f7f7-ae09-4931-9a65-f3d7f7310f7f",
+        "InterviewEndDate": "2024-05-10 11:47:28",
+        "InterviewState": "Completed",
+        "Flight": "FR  080",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "82f170b5-d294-46de-bc27-e4f5494a47c7",
+        "InterviewEndDate": "2024-05-10 11:43:18",
+        "InterviewState": "Completed",
+        "Flight": "FR  080",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "2c237cac-3b30-49f8-bb97-dfbbd1747f5a",
+        "InterviewEndDate": "2024-05-10 11:50:00",
+        "InterviewState": "Completed",
+        "Flight": "FR  080",
+        "Dest": "CPH",
         "AirlineCode": "FR",
         "InterviewerID": 1
     }
