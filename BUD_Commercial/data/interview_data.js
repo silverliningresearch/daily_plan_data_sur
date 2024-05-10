@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "WAW",
         "AirlineCode": "LO",
         "InterviewerID": 9,
-        "download_time": "10-05-2024 09:01:01"
+        "download_time": "10-05-2024 09:56:01"
     },
     {
         "InterviewId": "b2034ee5-1e99-4877-8f93-18b9280c67d5",
@@ -21304,15 +21304,6 @@ let interview_data_raw = `[
         "InterviewerID": 15
     },
     {
-        "InterviewId": "e3a2e064-a760-47cd-a477-c539d8eaa8fb",
-        "InterviewEndDate": "2023-09-17 18:35:19",
-        "InterviewState": "Completed",
-        "Flight": "RO  238",
-        "Dest": "OTP",
-        "AirlineCode": "RO",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "2babc602-d28d-455d-9fc0-bbd8c2ecf594",
         "InterviewEndDate": "2023-09-18 14:30:41",
         "InterviewState": "Completed",
@@ -26974,6 +26965,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "4198032d-a536-492f-85e8-c0d8a61a2fa9",
+        "InterviewEndDate": "2024-05-10 10:31:57",
+        "InterviewState": "Completed",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "0a447aa2-4a54-4b43-986f-e3ac0fc9535f",
         "InterviewEndDate": "2023-04-30 18:04:03",
         "InterviewState": "Completed",
@@ -30283,6 +30283,15 @@ let interview_data_raw = `[
         "Flight": "W6 2273",
         "Dest": "EIN",
         "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "e3a2e064-a760-47cd-a477-c539d8eaa8fb",
+        "InterviewEndDate": "2023-09-17 18:35:19",
+        "InterviewState": "Completed",
+        "Flight": "RO  238",
+        "Dest": "OTP",
+        "AirlineCode": "RO",
         "InterviewerID": 7
     },
     {
@@ -35738,6 +35747,15 @@ let interview_data_raw = `[
         "Dest": "AMS",
         "AirlineCode": "KL",
         "InterviewerID": 16
+    },
+    {
+        "InterviewId": "67dc78f9-0f32-4610-8bd8-ea7a22b592a2",
+        "InterviewEndDate": "2024-05-10 10:43:43",
+        "InterviewState": "Completed",
+        "Flight": "FR 6712",
+        "Dest": "MAD",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
     }
 ]    
 
