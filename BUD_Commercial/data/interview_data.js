@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "FAO",
         "AirlineCode": "FR",
         "InterviewerID": 9,
-        "download_time": "10-06-2024 05:40:40"
+        "download_time": "10-06-2024 06:35:44"
     },
     {
         "InterviewId": "4ceaf5c3-7bb4-4dc5-a054-4ca592b496f7",
@@ -206,6 +206,69 @@ let interview_data_raw = `[
         "Dest": "NAP",
         "AirlineCode": "W6",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "85383301-5e03-4313-a64c-a93ffccc308e",
+        "InterviewEndDate": "2024-06-10 07:19:04",
+        "InterviewState": "Completed",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "72c12523-e184-43d8-b06a-6e6404138ef2",
+        "InterviewEndDate": "2024-06-10 07:12:32",
+        "InterviewState": "Completed",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "12966d7c-d172-43db-8132-689b10d5f738",
+        "InterviewEndDate": "2024-06-10 07:13:25",
+        "InterviewState": "Completed",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "dd3fd479-b324-4394-9723-3da5a28c91fd",
+        "InterviewEndDate": "2024-06-10 07:11:19",
+        "InterviewState": "Completed",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "7f42b055-9ce8-4f52-b804-fd4a9e53bce3",
+        "InterviewEndDate": "2024-06-10 07:20:39",
+        "InterviewState": "Completed",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "c10d2590-7bc6-42ee-a948-3b722d3e0cdb",
+        "InterviewEndDate": "2024-06-10 07:25:56",
+        "InterviewState": "Completed",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "178b9f0f-fe1c-48ec-8097-e1bac70f003b",
+        "InterviewEndDate": "2024-06-10 07:32:39",
+        "InterviewState": "Completed",
+        "Flight": "W6 2429",
+        "Dest": "IST",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
     }
 ]    
 
