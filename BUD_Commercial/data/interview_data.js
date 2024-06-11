@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "FAO",
         "AirlineCode": "FR",
         "InterviewerID": 9,
-        "download_time": "11-06-2024 15:35:40"
+        "download_time": "11-06-2024 16:30:41"
     },
     {
         "InterviewId": "4ceaf5c3-7bb4-4dc5-a054-4ca592b496f7",
@@ -295,6 +295,96 @@ let interview_data_raw = `[
         "Flight": "FR 2273",
         "Dest": "AGP",
         "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "1548ee12-05af-4082-a564-4e3bfa823de2",
+        "InterviewEndDate": "2024-06-11 17:12:12",
+        "InterviewState": "Completed",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "449ddef3-8f64-40c1-a2f3-5c7a6fbf026f",
+        "InterviewEndDate": "2024-06-11 17:08:53",
+        "InterviewState": "Completed",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "11d55272-9e8b-4efb-a370-93b6e607e9fd",
+        "InterviewEndDate": "2024-06-11 17:12:19",
+        "InterviewState": "Completed",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "320b0efc-8687-47f8-8ba0-55ca74a632c1",
+        "InterviewEndDate": "2024-06-11 17:07:07",
+        "InterviewState": "Completed",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "700650da-43e3-430c-a10f-1cb30a984449",
+        "InterviewEndDate": "2024-06-11 17:16:09",
+        "InterviewState": "Completed",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "30750ff4-e281-463a-be21-476ce2989bba",
+        "InterviewEndDate": "2024-06-11 17:17:56",
+        "InterviewState": "Completed",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "98ee951e-a127-49e2-adef-f3cb89badd0c",
+        "InterviewEndDate": "2024-06-11 17:26:42",
+        "InterviewState": "Completed",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d5832ede-e588-49ff-9201-58c273a96608",
+        "InterviewEndDate": "2024-06-11 17:27:15",
+        "InterviewState": "Completed",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "a6267d13-967c-4204-83e1-01fccdb3afd8",
+        "InterviewEndDate": "2024-06-11 17:30:14",
+        "InterviewState": "Completed",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "6272f177-58c7-4a9d-85ec-0afaaad4238c",
+        "InterviewEndDate": "2024-06-11 17:24:08",
+        "InterviewState": "Completed",
+        "Flight": "W6 2377",
+        "Dest": "BCN",
+        "AirlineCode": "W6",
         "InterviewerID": 1
     }
 ]    
