@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "13-06-2024 04:15:46"
+        "download_time": "13-06-2024 05:10:45"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -5437,15 +5437,6 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
-        "InterviewId": "e1ad78e9-152d-442b-b67b-a20df0bd6ab3",
-        "InterviewEndDate": "2024-04-07 15:00:49",
-        "InterviewState": "Completed",
-        "Flight": "W6 2273",
-        "Dest": "EIN",
-        "AirlineCode": "W6",
-        "InterviewerID": 16
-    },
-    {
         "InterviewId": "8d3096dd-d96f-43d5-b536-02e526e85f03",
         "InterviewEndDate": "2024-04-07 16:07:42",
         "InterviewState": "Completed",
@@ -9001,6 +8992,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "499c7661-9388-48ea-970b-6f3bf67f63ba",
+        "InterviewEndDate": "2024-06-13 05:54:15",
+        "InterviewState": "Completed",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
         "InterviewEndDate": "2024-04-12 16:57:50",
         "InterviewState": "Completed",
@@ -12232,6 +12232,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "e1ad78e9-152d-442b-b67b-a20df0bd6ab3",
+        "InterviewEndDate": "2024-04-07 15:00:49",
+        "InterviewState": "Completed",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "11f6afbd-a694-462d-a88c-fb44220ac6d2",
         "InterviewEndDate": "2024-04-07 16:13:32",
         "InterviewState": "Completed",
@@ -14408,6 +14417,15 @@ let interview_data_raw = `[
         "Dest": "TGM",
         "AirlineCode": "W6",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "da94a243-4967-46eb-93dc-aa42329c3b96",
+        "InterviewEndDate": "2024-06-13 06:00:30",
+        "InterviewState": "Completed",
+        "Flight": "FR 9566",
+        "Dest": "BFS",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
     }
 ]    
 
