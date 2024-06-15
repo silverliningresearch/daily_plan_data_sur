@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "15-06-2024 14:00:55"
+        "download_time": "15-06-2024 14:56:20"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -4042,15 +4042,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "6054871b-e5bf-4ecd-8f6c-9d73c6b43823",
-        "InterviewEndDate": "2024-03-19 20:21:44",
-        "InterviewState": "Completed",
-        "Flight": "6H  728",
-        "Dest": "TLV",
-        "AirlineCode": "6H",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "2903e36e-f6db-41d7-a2f6-9a834efbaf95",
         "InterviewEndDate": "2024-03-19 20:15:24",
         "InterviewState": "Completed",
@@ -4813,15 +4804,6 @@ let interview_data_raw = `[
         "Flight": "TK 1036",
         "Dest": "IST",
         "AirlineCode": "TK",
-        "InterviewerID": 1
-    },
-    {
-        "InterviewId": "c2db081a-913b-4194-a27f-9d4dd545ee87",
-        "InterviewEndDate": "2024-03-27 09:59:45",
-        "InterviewState": "Completed",
-        "Flight": "LX 2251",
-        "Dest": "ZRH",
-        "AirlineCode": "LX",
         "InterviewerID": 1
     },
     {
@@ -9001,6 +8983,24 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "263f2ac6-f4b7-485b-afd4-9c89fdfab54d",
+        "InterviewEndDate": "2024-06-15 15:38:28",
+        "InterviewState": "Completed",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "b0d3ad2d-12b2-40d4-b04b-77dc4bd9d749",
+        "InterviewEndDate": "2024-06-15 15:50:51",
+        "InterviewState": "Completed",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB",
+        "InterviewerID": 9
+    },
+    {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
         "InterviewEndDate": "2024-04-12 16:57:50",
         "InterviewState": "Completed",
@@ -11656,6 +11656,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "6054871b-e5bf-4ecd-8f6c-9d73c6b43823",
+        "InterviewEndDate": "2024-03-19 20:21:44",
+        "InterviewState": "Completed",
+        "Flight": "6H  728",
+        "Dest": "TLV",
+        "AirlineCode": "6H",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "74e0818a-680c-443c-965f-dc4a361c1dfc",
         "InterviewEndDate": "2024-03-20 06:30:31",
         "InterviewState": "Completed",
@@ -12112,6 +12121,15 @@ let interview_data_raw = `[
         "Flight": "TK 1036",
         "Dest": "IST",
         "AirlineCode": "TK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "c2db081a-913b-4194-a27f-9d4dd545ee87",
+        "InterviewEndDate": "2024-03-27 09:59:45",
+        "InterviewState": "Completed",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
         "InterviewerID": 1
     },
     {
@@ -14722,6 +14740,33 @@ let interview_data_raw = `[
         "Flight": "FR 1018",
         "Dest": "EDI",
         "AirlineCode": "FR",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "819e8248-2bfa-481c-8a92-bff37e23b349",
+        "InterviewEndDate": "2024-06-15 15:41:10",
+        "InterviewState": "Completed",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "a4de9c40-bc7f-46e8-9f62-bff024a02485",
+        "InterviewEndDate": "2024-06-15 15:39:49",
+        "InterviewState": "Completed",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "a1b656e1-cc26-4f4d-92fc-a2df84b2ef56",
+        "InterviewEndDate": "2024-06-15 15:40:21",
+        "InterviewState": "Completed",
+        "Flight": "IB 3279",
+        "Dest": "MAD",
+        "AirlineCode": "IB",
         "InterviewerID": 9
     }
 ]    
