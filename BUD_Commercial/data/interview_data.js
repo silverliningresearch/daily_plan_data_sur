@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "18-06-2024 18:05:53"
+        "download_time": "18-06-2024 18:59:44"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -7012,15 +7012,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "0e7439f7-d514-4da9-b2a4-9a0ae34a6f97",
-        "InterviewEndDate": "2024-05-17 15:33:47",
-        "InterviewState": "Completed",
-        "Flight": "FR  605",
-        "Dest": "CPH",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "9172ef83-cf41-4f91-9af3-47257102d2cd",
         "InterviewEndDate": "2024-05-17 16:53:04",
         "InterviewState": "Completed",
@@ -8998,6 +8989,15 @@ let interview_data_raw = `[
         "Flight": "EK  112",
         "Dest": "DXB",
         "AirlineCode": "EK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "eaa6d97b-6dbc-4082-a4d9-1250787457eb",
+        "InterviewEndDate": "2024-06-18 19:06:19",
+        "InterviewState": "Completed",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
         "InterviewerID": 1
     },
     {
@@ -13663,6 +13663,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "0e7439f7-d514-4da9-b2a4-9a0ae34a6f97",
+        "InterviewEndDate": "2024-05-17 15:33:47",
+        "InterviewState": "Completed",
+        "Flight": "FR  605",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "98aba921-8f1f-4856-9fca-b9acdf6b6068",
         "InterviewEndDate": "2024-05-17 17:58:00",
         "InterviewState": "Completed",
@@ -15019,6 +15028,33 @@ let interview_data_raw = `[
         "Flight": "EK  112",
         "Dest": "DXB",
         "AirlineCode": "EK",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "183b418c-0db0-4f00-b342-cf921d3fb429",
+        "InterviewEndDate": "2024-06-18 19:06:41",
+        "InterviewState": "Completed",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d3255289-37e3-49f1-88c2-d6671847621f",
+        "InterviewEndDate": "2024-06-18 19:07:26",
+        "InterviewState": "Completed",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "bc036006-916c-441f-a151-d2cedfa431d9",
+        "InterviewEndDate": "2024-06-18 19:06:22",
+        "InterviewState": "Completed",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
         "InterviewerID": 1
     }
 ]    
