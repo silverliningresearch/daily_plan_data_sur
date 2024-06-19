@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "19-06-2024 18:49:48"
+        "download_time": "19-06-2024 19:44:44"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -4951,15 +4951,6 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
-        "InterviewId": "df322ecd-ccca-467c-8088-943147436fbc",
-        "InterviewEndDate": "2024-04-06 16:26:53",
-        "InterviewState": "Completed",
-        "Flight": "W6 2211",
-        "Dest": "LPL",
-        "AirlineCode": "W6",
-        "InterviewerID": 9
-    },
-    {
         "InterviewId": "34bbf918-61ab-4bc2-976e-4dd6c78d73f8",
         "InterviewEndDate": "2024-04-07 12:36:00",
         "InterviewState": "Completed",
@@ -9001,6 +8992,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "b5ff55c2-661e-424a-ac35-41a3037a89dc",
+        "InterviewEndDate": "2024-06-19 19:56:09",
+        "InterviewState": "Completed",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
         "InterviewEndDate": "2024-04-12 16:57:50",
         "InterviewState": "Completed",
@@ -12646,6 +12646,15 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "df322ecd-ccca-467c-8088-943147436fbc",
+        "InterviewEndDate": "2024-04-06 16:26:53",
+        "InterviewState": "Completed",
+        "Flight": "W6 2211",
+        "Dest": "LPL",
+        "AirlineCode": "W6",
+        "InterviewerID": 9
+    },
+    {
         "InterviewId": "5528e298-fc96-4e43-b7e3-b6e962150ab9",
         "InterviewEndDate": "2024-04-07 12:30:22",
         "InterviewState": "Completed",
@@ -15505,6 +15514,15 @@ let interview_data_raw = `[
         "Flight": "AY 1256",
         "Dest": "HEL",
         "AirlineCode": "AY",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "586f01be-40b2-4b0e-b843-c64cbe670520",
+        "InterviewEndDate": "2024-06-19 19:56:56",
+        "InterviewState": "Completed",
+        "Flight": "FR 2277",
+        "Dest": "MLA",
+        "AirlineCode": "FR",
         "InterviewerID": 1
     }
 ]    
