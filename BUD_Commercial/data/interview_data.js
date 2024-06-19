@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "19-06-2024 15:09:44"
+        "download_time": "19-06-2024 16:05:36"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -8371,15 +8371,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "44a75d35-cbe0-4130-9502-94f3fdf83a16",
-        "InterviewEndDate": "2024-06-12 19:22:18",
-        "InterviewState": "Completed",
-        "Flight": "FR 7604",
-        "Dest": "ARN",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "2a0a8c5b-cce5-483a-b82e-88d465f30270",
         "InterviewEndDate": "2024-06-12 19:54:43",
         "InterviewState": "Completed",
@@ -8998,6 +8989,15 @@ let interview_data_raw = `[
         "Flight": "LO 2001",
         "Dest": "ICN",
         "AirlineCode": "LO",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "7cd8ad11-1bde-4505-9053-8f4ac4dc3d55",
+        "InterviewEndDate": "2024-06-19 16:20:58",
+        "InterviewState": "Completed",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM",
         "InterviewerID": 1
     },
     {
@@ -14995,6 +14995,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "44a75d35-cbe0-4130-9502-94f3fdf83a16",
+        "InterviewEndDate": "2024-06-12 19:22:18",
+        "InterviewState": "Completed",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "b5cb3794-1f2e-4b4d-9fd0-f4cbd59a020c",
         "InterviewEndDate": "2024-06-12 19:22:11",
         "InterviewState": "Completed",
@@ -15406,6 +15415,15 @@ let interview_data_raw = `[
         "Flight": "LO 2001",
         "Dest": "ICN",
         "AirlineCode": "LO",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "8e87dc3e-c3b3-49c6-908c-e0ddb194f29f",
+        "InterviewEndDate": "2024-06-19 16:18:21",
+        "InterviewState": "Completed",
+        "Flight": "SM 2915",
+        "Dest": "HRG",
+        "AirlineCode": "SM",
         "InterviewerID": 1
     }
 ]    
