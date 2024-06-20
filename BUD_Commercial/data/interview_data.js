@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "20-06-2024 06:44:42"
+        "download_time": "20-06-2024 07:39:44"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -6733,15 +6733,6 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
-        "InterviewId": "3e51e657-da8a-4554-90e7-9423be3b2bad",
-        "InterviewEndDate": "2024-05-16 16:35:11",
-        "InterviewState": "Completed",
-        "Flight": "FR 1024",
-        "Dest": "DUB",
-        "AirlineCode": "FR",
-        "InterviewerID": 16
-    },
-    {
         "InterviewId": "a50ffc05-3043-49a1-988b-6b1d1903b513",
         "InterviewEndDate": "2024-05-16 16:45:43",
         "InterviewState": "Completed",
@@ -8997,6 +8988,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "W6 2467",
         "Dest": "WAW",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "befc1a77-e036-4dba-b9ef-369ee37310a5",
+        "InterviewEndDate": "2024-06-20 08:33:56",
+        "InterviewState": "Completed",
+        "Flight": "W6 2291",
+        "Dest": "DTM",
         "AirlineCode": "W6",
         "InterviewerID": 16
     },
@@ -13843,6 +13843,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "3e51e657-da8a-4554-90e7-9423be3b2bad",
+        "InterviewEndDate": "2024-05-16 16:35:11",
+        "InterviewState": "Completed",
+        "Flight": "FR 1024",
+        "Dest": "DUB",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "d182c63f-3bdb-4a42-996c-ee6ce2489727",
         "InterviewEndDate": "2024-05-17 13:48:05",
         "InterviewState": "Completed",
@@ -15549,6 +15558,24 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "W6 2467",
         "Dest": "WAW",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "e4c5795e-99f1-4451-9f86-a2d669870c21",
+        "InterviewEndDate": "2024-06-20 08:34:29",
+        "InterviewState": "Completed",
+        "Flight": "W6 2291",
+        "Dest": "DTM",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "9650fa98-c7bd-4d3c-a7eb-c0d404342c46",
+        "InterviewEndDate": "2024-06-20 08:35:05",
+        "InterviewState": "Completed",
+        "Flight": "W6 2291",
+        "Dest": "DTM",
         "AirlineCode": "W6",
         "InterviewerID": 16
     }
