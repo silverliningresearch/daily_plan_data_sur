@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "24-06-2024 17:59:42"
+        "download_time": "24-06-2024 18:54:51"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -16108,6 +16108,33 @@ let interview_data_raw = `[
         "Flight": "LH 1341",
         "Dest": "FRA",
         "AirlineCode": "LH",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "291cfc27-b5f0-400d-9257-c8da59fd2f42",
+        "InterviewEndDate": "2024-06-24 19:41:09",
+        "InterviewState": "Completed",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "5fc2ff05-b305-46c9-84fd-d4cad1cd4b30",
+        "InterviewEndDate": "2024-06-24 19:48:54",
+        "InterviewState": "Completed",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "face6e9d-afba-45d2-8619-9db48985857c",
+        "InterviewEndDate": "2024-06-24 19:51:20",
+        "InterviewState": "Completed",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE",
         "InterviewerID": 1
     }
 ]    
