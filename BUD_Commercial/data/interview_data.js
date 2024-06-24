@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "24-06-2024 13:25:07"
+        "download_time": "24-06-2024 14:20:07"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -6337,15 +6337,6 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
-        "InterviewId": "7edca51b-49f5-4add-9b2a-902a56e952f9",
-        "InterviewEndDate": "2024-05-11 14:47:46",
-        "InterviewState": "Completed",
-        "Flight": "W6 2397",
-        "Dest": "FNC",
-        "AirlineCode": "W6",
-        "InterviewerID": 9
-    },
-    {
         "InterviewId": "bffb5e3d-a237-460c-8000-1437bd4def51",
         "InterviewEndDate": "2024-05-11 16:35:00",
         "InterviewState": "Completed",
@@ -8999,6 +8990,15 @@ let interview_data_raw = `[
         "Dest": "NCE",
         "AirlineCode": "W6",
         "InterviewerID": 16
+    },
+    {
+        "InterviewId": "8e8d8a04-0bbe-4ea7-8c82-668f21e5d7a3",
+        "InterviewEndDate": "2024-06-24 15:17:43",
+        "InterviewState": "Completed",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
     },
     {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
@@ -13924,6 +13924,15 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "7edca51b-49f5-4add-9b2a-902a56e952f9",
+        "InterviewEndDate": "2024-05-11 14:47:46",
+        "InterviewState": "Completed",
+        "Flight": "W6 2397",
+        "Dest": "FNC",
+        "AirlineCode": "W6",
+        "InterviewerID": 9
+    },
+    {
         "InterviewId": "66cd5712-9489-40be-ba55-cfe240d019fd",
         "InterviewEndDate": "2024-05-11 16:26:11",
         "InterviewState": "Completed",
@@ -16037,6 +16046,42 @@ let interview_data_raw = `[
         "Dest": "NCE",
         "AirlineCode": "W6",
         "InterviewerID": 16
+    },
+    {
+        "InterviewId": "74ba5dd1-127a-4cac-a7b6-dc846611fb0a",
+        "InterviewEndDate": "2024-06-24 15:09:08",
+        "InterviewState": "Completed",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "b0ad5b72-b722-4339-b1da-fcb049be6840",
+        "InterviewEndDate": "2024-06-24 15:15:05",
+        "InterviewState": "Completed",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "a1c5c544-0b39-4526-a3d9-fe574b7de8c0",
+        "InterviewEndDate": "2024-06-24 15:15:05",
+        "InterviewState": "Completed",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "40764ba7-6ff4-4429-a03f-ffc137ce8ecf",
+        "InterviewEndDate": "2024-06-24 15:15:12",
+        "InterviewState": "Completed",
+        "Flight": "FR 4090",
+        "Dest": "NAP",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
     }
 ]    
 
