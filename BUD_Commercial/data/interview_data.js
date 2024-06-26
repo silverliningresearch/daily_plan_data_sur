@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "26-06-2024 13:04:55"
+        "download_time": "26-06-2024 13:59:46"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -2656,15 +2656,6 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
-        "InterviewId": "6fdfae68-436d-475b-acc0-8e95a8a9f589",
-        "InterviewEndDate": "2024-02-24 15:19:41",
-        "InterviewState": "Completed",
-        "Flight": "QR  200",
-        "Dest": "DOH",
-        "AirlineCode": "QR",
-        "InterviewerID": 9
-    },
-    {
         "InterviewId": "325c733c-4bb3-48eb-a398-71903d3736ff",
         "InterviewEndDate": "2024-02-24 15:11:08",
         "InterviewState": "Completed",
@@ -5142,15 +5133,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "6493d799-4c8f-45ea-8d24-0236e1d0fa4a",
         "InterviewEndDate": "2024-04-14 17:19:27",
-        "InterviewState": "Completed",
-        "Flight": "KL 1368",
-        "Dest": "AMS",
-        "AirlineCode": "KL",
-        "InterviewerID": 16
-    },
-    {
-        "InterviewId": "3d5573f7-8de0-4bea-855c-8e9543f054f9",
-        "InterviewEndDate": "2024-04-14 17:19:26",
         "InterviewState": "Completed",
         "Flight": "KL 1368",
         "Dest": "AMS",
@@ -9001,6 +8983,24 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "55af0f80-9281-4a5d-97ea-59456a75bbaa",
+        "InterviewEndDate": "2024-06-26 14:48:53",
+        "InterviewState": "Completed",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "a3bcb96f-8588-4177-bf02-7b7181a4a629",
+        "InterviewEndDate": "2024-06-26 14:54:17",
+        "InterviewState": "Completed",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
         "InterviewEndDate": "2024-04-12 16:57:50",
         "InterviewState": "Completed",
@@ -11161,6 +11161,15 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "6fdfae68-436d-475b-acc0-8e95a8a9f589",
+        "InterviewEndDate": "2024-02-24 15:19:41",
+        "InterviewState": "Completed",
+        "Flight": "QR  200",
+        "Dest": "DOH",
+        "AirlineCode": "QR",
+        "InterviewerID": 9
+    },
+    {
         "InterviewId": "798da8fb-f54e-44e2-b366-c547e2347b0c",
         "InterviewEndDate": "2024-02-24 15:20:26",
         "InterviewState": "Completed",
@@ -13255,6 +13264,15 @@ let interview_data_raw = `[
         "Flight": "EK  112",
         "Dest": "DXB",
         "AirlineCode": "EK",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "3d5573f7-8de0-4bea-855c-8e9543f054f9",
+        "InterviewEndDate": "2024-04-14 17:19:26",
+        "InterviewState": "Completed",
+        "Flight": "KL 1368",
+        "Dest": "AMS",
+        "AirlineCode": "KL",
         "InterviewerID": 16
     },
     {
@@ -16252,6 +16270,33 @@ let interview_data_raw = `[
         "Flight": "LY 2366",
         "Dest": "TLV",
         "AirlineCode": "LY",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "5c78bf7d-edd1-4c5a-aa8d-d7ac001f84da",
+        "InterviewEndDate": "2024-06-26 14:44:16",
+        "InterviewState": "Completed",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "9ecf73f0-8583-42bd-8ab3-dec93b2c1845",
+        "InterviewEndDate": "2024-06-26 14:49:19",
+        "InterviewState": "Completed",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "f3a98f40-c2a3-4e64-98bd-f9ceccff44c9",
+        "InterviewEndDate": "2024-06-26 14:50:26",
+        "InterviewState": "Completed",
+        "Flight": "BA  869",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
         "InterviewerID": 1
     }
 ]    
