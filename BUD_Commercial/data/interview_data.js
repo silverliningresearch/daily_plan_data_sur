@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "05-07-2024 11:34:46"
+        "download_time": "05-07-2024 12:29:45"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -876,15 +876,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "a7488569-7438-4f12-82c7-850fb55c5181",
         "InterviewEndDate": "2024-01-22 18:58:02",
-        "InterviewState": "Completed",
-        "Flight": "FR 5190",
-        "Dest": "BRI",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
-        "InterviewId": "47c86051-aed2-4cc4-81bc-8bd3d5c636ff",
-        "InterviewEndDate": "2024-01-22 18:53:20",
         "InterviewState": "Completed",
         "Flight": "FR 5190",
         "Dest": "BRI",
@@ -9001,6 +8992,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "ff869bae-c04b-4d26-b5e2-74dc09fada01",
+        "InterviewEndDate": "2024-07-05 13:05:52",
+        "InterviewState": "Completed",
+        "Flight": "FR 1668",
+        "Dest": "JSI",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
         "InterviewEndDate": "2024-04-12 16:57:50",
         "InterviewState": "Completed",
@@ -9690,6 +9690,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 1243",
         "Dest": "ATH",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "47c86051-aed2-4cc4-81bc-8bd3d5c636ff",
+        "InterviewEndDate": "2024-01-22 18:53:20",
+        "InterviewState": "Completed",
+        "Flight": "FR 5190",
+        "Dest": "BRI",
         "AirlineCode": "FR",
         "InterviewerID": 1
     },
@@ -16566,6 +16575,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 7604",
         "Dest": "ARN",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "5a2eebba-30e7-41bf-a6ee-a0ef0de29865",
+        "InterviewEndDate": "2024-07-05 13:01:08",
+        "InterviewState": "Completed",
+        "Flight": "FR 1668",
+        "Dest": "JSI",
         "AirlineCode": "FR",
         "InterviewerID": 16
     }
