@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "07-07-2024 15:49:52"
+        "download_time": "07-07-2024 16:44:44"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -6202,15 +6202,6 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
-        "InterviewId": "181a07fe-4174-4c76-87d3-8bcf1bed33eb",
-        "InterviewEndDate": "2024-05-15 15:09:29",
-        "InterviewState": "Completed",
-        "Flight": "FR 6748",
-        "Dest": "GOT",
-        "AirlineCode": "FR",
-        "InterviewerID": 16
-    },
-    {
         "InterviewId": "b6030d9c-4470-4610-9a88-3d99f2f1737f",
         "InterviewEndDate": "2024-05-15 15:28:27",
         "InterviewState": "Completed",
@@ -8997,6 +8988,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 1668",
         "Dest": "JSI",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "718c0636-6f7d-4b0a-a23d-66ae06bbe5be",
+        "InterviewEndDate": "2024-07-07 17:28:28",
+        "InterviewState": "Completed",
+        "Flight": "FR  186",
+        "Dest": "CHQ",
         "AirlineCode": "FR",
         "InterviewerID": 16
     },
@@ -14266,6 +14266,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "181a07fe-4174-4c76-87d3-8bcf1bed33eb",
+        "InterviewEndDate": "2024-05-15 15:09:29",
+        "InterviewState": "Completed",
+        "Flight": "FR 6748",
+        "Dest": "GOT",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "2ec29482-7146-4107-9031-dc4b5177d353",
         "InterviewEndDate": "2024-05-16 15:05:10",
         "InterviewState": "Completed",
@@ -16584,6 +16593,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 1668",
         "Dest": "JSI",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "ab736a40-268d-4358-af93-cf7fc8e00baf",
+        "InterviewEndDate": "2024-07-07 17:39:02",
+        "InterviewState": "Completed",
+        "Flight": "FR  186",
+        "Dest": "CHQ",
         "AirlineCode": "FR",
         "InterviewerID": 16
     }
