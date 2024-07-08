@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "08-07-2024 18:24:45"
+        "download_time": "08-07-2024 19:19:47"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -2771,15 +2771,6 @@ let interview_data_raw = `[
         "Dest": "PFO",
         "AirlineCode": "FR",
         "InterviewerID": 1
-    },
-    {
-        "InterviewId": "930eff05-cbdc-4dd0-b48d-8b816af4f515",
-        "InterviewEndDate": "2024-02-25 20:56:21",
-        "InterviewState": "Completed",
-        "Flight": "LY 2368",
-        "Dest": "TLV",
-        "AirlineCode": "LY",
-        "InterviewerID": 16
     },
     {
         "InterviewId": "eed991aa-4e33-4792-bb9a-1be9ff841260",
@@ -9001,6 +8992,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "1d26f435-7626-4d7f-8aa9-11b581b5d252",
+        "InterviewEndDate": "2024-07-08 19:57:55",
+        "InterviewState": "Completed",
+        "Flight": "6H  728",
+        "Dest": "TLV",
+        "AirlineCode": "6H",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
         "InterviewEndDate": "2024-04-12 16:57:50",
         "InterviewState": "Completed",
@@ -11348,6 +11348,15 @@ let interview_data_raw = `[
         "Dest": "PFO",
         "AirlineCode": "FR",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "930eff05-cbdc-4dd0-b48d-8b816af4f515",
+        "InterviewEndDate": "2024-02-25 20:56:21",
+        "InterviewState": "Completed",
+        "Flight": "LY 2368",
+        "Dest": "TLV",
+        "AirlineCode": "LY",
+        "InterviewerID": 16
     },
     {
         "InterviewId": "95144cbc-54ee-4f84-8ddd-ec39fa67478d",
@@ -16693,6 +16702,24 @@ let interview_data_raw = `[
         "Flight": "FR 2517",
         "Dest": "STN",
         "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "7546ccbb-cfc9-4ab4-92a2-a2b4210eb8c3",
+        "InterviewEndDate": "2024-07-08 20:02:43",
+        "InterviewState": "Completed",
+        "Flight": "6H  728",
+        "Dest": "TLV",
+        "AirlineCode": "6H",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "117dc392-46b4-4d05-94d2-dcaccaee69a7",
+        "InterviewEndDate": "2024-07-08 20:04:56",
+        "InterviewState": "Completed",
+        "Flight": "6H  728",
+        "Dest": "TLV",
+        "AirlineCode": "6H",
         "InterviewerID": 1
     }
 ]    
