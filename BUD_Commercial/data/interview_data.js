@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "10-07-2024 16:14:46"
+        "download_time": "10-07-2024 17:09:42"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -4722,7 +4722,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY",
+        "AirlineCode": "D8",
         "InterviewerID": 5
     },
     {
@@ -5469,7 +5469,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY",
+        "AirlineCode": "D8",
         "InterviewerID": 1
     },
     {
@@ -5478,7 +5478,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY",
+        "AirlineCode": "D8",
         "InterviewerID": 1
     },
     {
@@ -6486,7 +6486,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3808",
         "Dest": "ARN",
-        "AirlineCode": "DY",
+        "AirlineCode": "D8",
         "InterviewerID": 1
     },
     {
@@ -6495,7 +6495,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3808",
         "Dest": "ARN",
-        "AirlineCode": "DY",
+        "AirlineCode": "D8",
         "InterviewerID": 1
     },
     {
@@ -11373,7 +11373,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY",
+        "AirlineCode": "D8",
         "InterviewerID": 1
     },
     {
@@ -11391,7 +11391,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY",
+        "AirlineCode": "D8",
         "InterviewerID": 1
     },
     {
@@ -13137,7 +13137,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY",
+        "AirlineCode": "D8",
         "InterviewerID": 5
     },
     {
@@ -13146,7 +13146,7 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "D8 3551",
         "Dest": "CPH",
-        "AirlineCode": "DY",
+        "AirlineCode": "D8",
         "InterviewerID": 5
     },
     {
