@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "12-07-2024 08:34:49"
+        "download_time": "12-07-2024 09:29:43"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -5707,15 +5707,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "38ca210f-87a5-47ab-83a4-89578e9bb127",
-        "InterviewEndDate": "2024-04-29 11:48:19",
-        "InterviewState": "Completed",
-        "Flight": "FR 4277",
-        "Dest": "SKG",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "1b426d00-025a-472a-a5a1-2bdd5728a065",
         "InterviewEndDate": "2024-04-29 11:55:49",
         "InterviewState": "Completed",
@@ -8999,6 +8990,15 @@ let interview_data_raw = `[
         "Dest": "TGM",
         "AirlineCode": "W6",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "b085a01f-dfcc-45fa-a7b3-4095bf12b623",
+        "InterviewEndDate": "2024-07-12 09:53:23",
+        "InterviewState": "Completed",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
     },
     {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
@@ -14059,6 +14059,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "38ca210f-87a5-47ab-83a4-89578e9bb127",
+        "InterviewEndDate": "2024-04-29 11:48:19",
+        "InterviewState": "Completed",
+        "Flight": "FR 4277",
+        "Dest": "SKG",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "1f0319fb-a51b-4000-82b6-89af2d32523f",
         "InterviewEndDate": "2024-04-29 13:07:19",
         "InterviewState": "Completed",
@@ -16838,6 +16847,24 @@ let interview_data_raw = `[
         "Dest": "TGM",
         "AirlineCode": "W6",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "7b531ae3-00e7-4cb8-a16f-f6333b7483bd",
+        "InterviewEndDate": "2024-07-12 09:42:34",
+        "InterviewState": "Completed",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "db6301fc-bbf6-4abe-9a3e-9afe27259b7a",
+        "InterviewEndDate": "2024-07-12 09:53:20",
+        "InterviewState": "Completed",
+        "Flight": "FR 4216",
+        "Dest": "RHO",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
     }
 ]    
 
