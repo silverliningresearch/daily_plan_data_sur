@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "12-07-2024 20:29:43"
+        "download_time": "12-07-2024 21:24:48"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -6103,15 +6103,6 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
-        "InterviewId": "b3a5e546-7b35-41dc-a4db-87f5ce7d09d7",
-        "InterviewEndDate": "2024-05-16 10:04:11",
-        "InterviewState": "Completed",
-        "Flight": "FR 8385",
-        "Dest": "BCN",
-        "AirlineCode": "FR",
-        "InterviewerID": 16
-    },
-    {
         "InterviewId": "d56d72ad-d643-4373-ba73-1ef31e942554",
         "InterviewEndDate": "2024-05-16 10:15:04",
         "InterviewState": "Completed",
@@ -8998,6 +8989,15 @@ let interview_data_raw = `[
         "Flight": "W6 2445",
         "Dest": "CFU",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ae5b17a5-455e-4d16-ac4a-5a4e3fd6c897",
+        "InterviewEndDate": "2024-07-12 21:36:14",
+        "InterviewState": "Completed",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     },
     {
@@ -14401,6 +14401,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "b3a5e546-7b35-41dc-a4db-87f5ce7d09d7",
+        "InterviewEndDate": "2024-05-16 10:04:11",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "2ec29482-7146-4107-9031-dc4b5177d353",
         "InterviewEndDate": "2024-05-16 15:05:10",
         "InterviewState": "Completed",
@@ -16999,6 +17008,15 @@ let interview_data_raw = `[
         "Flight": "W6 2445",
         "Dest": "CFU",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "cf613aeb-5ad6-4488-8b0a-e3694c1ff098",
+        "InterviewEndDate": "2024-07-12 21:36:21",
+        "InterviewState": "Completed",
+        "Flight": "EZS1566",
+        "Dest": "GVA",
+        "AirlineCode": "EC",
         "InterviewerID": 1
     }
 ]    
