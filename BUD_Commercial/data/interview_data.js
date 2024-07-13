@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "13-07-2024 15:44:45"
+        "download_time": "13-07-2024 16:39:45"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -6301,15 +6301,6 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
-        "InterviewId": "fee66852-b974-45a9-acc4-87621d5d5b49",
-        "InterviewEndDate": "2024-05-18 15:43:58",
-        "InterviewState": "Completed",
-        "Flight": "LO 2001",
-        "Dest": "ICN",
-        "AirlineCode": "LO",
-        "InterviewerID": 9
-    },
-    {
         "InterviewId": "a8595692-74d6-47c2-a630-35c9e821c75f",
         "InterviewEndDate": "2024-05-18 15:38:16",
         "InterviewState": "Completed",
@@ -8999,6 +8990,15 @@ let interview_data_raw = `[
         "Dest": "SPX",
         "AirlineCode": "W6",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "45e4bf58-b046-4709-b980-6a052ddaf46d",
+        "InterviewEndDate": "2024-07-13 17:24:29",
+        "InterviewState": "Completed",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
     },
     {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
@@ -14608,6 +14608,15 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
+        "InterviewId": "fee66852-b974-45a9-acc4-87621d5d5b49",
+        "InterviewEndDate": "2024-05-18 15:43:58",
+        "InterviewState": "Completed",
+        "Flight": "LO 2001",
+        "Dest": "ICN",
+        "AirlineCode": "LO",
+        "InterviewerID": 9
+    },
+    {
         "InterviewId": "c79e1a39-61a2-4183-bb1b-a95c39206bfb",
         "InterviewEndDate": "2024-05-18 16:37:09",
         "InterviewState": "Completed",
@@ -17063,6 +17072,15 @@ let interview_data_raw = `[
         "Dest": "SPX",
         "AirlineCode": "W6",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "3a1ea07d-9a6d-4a98-a4ba-a12a66bdd550",
+        "InterviewEndDate": "2024-07-13 17:35:11",
+        "InterviewState": "Completed",
+        "Flight": "FR 2515",
+        "Dest": "STN",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
     }
 ]    
 
