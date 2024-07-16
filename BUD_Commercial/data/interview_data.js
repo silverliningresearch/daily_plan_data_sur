@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "16-07-2024 08:49:47"
+        "download_time": "16-07-2024 09:44:44"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -8551,15 +8551,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "dc8aacf6-88b7-4310-ac9a-86528693d0c6",
-        "InterviewEndDate": "2024-06-27 09:40:37",
-        "InterviewState": "Completed",
-        "Flight": "EW 9785",
-        "Dest": "DUS",
-        "AirlineCode": "EW",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "0a8c0593-d1c6-41b7-86f7-33da1bfa8a76",
         "InterviewEndDate": "2024-06-27 09:36:24",
         "InterviewState": "Completed",
@@ -8999,6 +8990,15 @@ let interview_data_raw = `[
         "Dest": "STN",
         "AirlineCode": "FR",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "9d766f6d-c755-49ad-9480-817918b17fb3",
+        "InterviewEndDate": "2024-07-16 10:17:34",
+        "InterviewState": "Completed",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 16
     },
     {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
@@ -16804,6 +16804,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "dc8aacf6-88b7-4310-ac9a-86528693d0c6",
+        "InterviewEndDate": "2024-06-27 09:40:37",
+        "InterviewState": "Completed",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "35d03a66-87f3-4e13-99ba-aaded2c2e457",
         "InterviewEndDate": "2024-06-27 09:38:12",
         "InterviewState": "Completed",
@@ -17198,6 +17207,15 @@ let interview_data_raw = `[
         "Dest": "STN",
         "AirlineCode": "FR",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "fbfb5b44-7bed-4d52-b8ca-e27270546e7d",
+        "InterviewEndDate": "2024-07-16 10:00:10",
+        "InterviewState": "Completed",
+        "Flight": "EW 9785",
+        "Dest": "DUS",
+        "AirlineCode": "EW",
+        "InterviewerID": 16
     }
 ]    
 
