@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "16-07-2024 16:09:46"
+        "download_time": "16-07-2024 17:05:13"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -6499,15 +6499,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "bd8bf0fe-957b-476d-856f-84f3c437df95",
-        "InterviewEndDate": "2024-05-20 11:39:39",
-        "InterviewState": "Completed",
-        "Flight": "OS  714",
-        "Dest": "VIE",
-        "AirlineCode": "OS",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "45bbc100-cc47-41fa-a2fe-36b643e97146",
         "InterviewEndDate": "2024-05-20 12:30:13",
         "InterviewState": "Completed",
@@ -8998,6 +8989,15 @@ let interview_data_raw = `[
         "Flight": "W6 2387",
         "Dest": "ALC",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "99b90e8d-79d6-44f9-9500-5cade874125d",
+        "InterviewEndDate": "2024-07-16 17:37:49",
+        "InterviewState": "Completed",
+        "Flight": "FR 2273",
+        "Dest": "AGP",
+        "AirlineCode": "FR",
         "InterviewerID": 1
     },
     {
@@ -14923,6 +14923,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "bd8bf0fe-957b-476d-856f-84f3c437df95",
+        "InterviewEndDate": "2024-05-20 11:39:39",
+        "InterviewState": "Completed",
+        "Flight": "OS  714",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "5192ffb9-83c0-4321-8b78-dcd0e98b91b4",
         "InterviewEndDate": "2024-05-20 12:24:06",
         "InterviewState": "Completed",
@@ -17368,6 +17377,15 @@ let interview_data_raw = `[
         "Flight": "W6 2387",
         "Dest": "ALC",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d5c645c8-f455-433e-af11-fa9f4b66dc5c",
+        "InterviewEndDate": "2024-07-16 17:34:28",
+        "InterviewState": "Completed",
+        "Flight": "FR 2273",
+        "Dest": "AGP",
+        "AirlineCode": "FR",
         "InterviewerID": 1
     }
 ]    
