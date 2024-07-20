@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "20-07-2024 19:09:42"
+        "download_time": "20-07-2024 20:04:56"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -1470,15 +1470,6 @@ let interview_data_raw = `[
     {
         "InterviewId": "b3abfc66-1b3d-43d2-9d0c-3a5eb1f300c1",
         "InterviewEndDate": "2024-02-05 15:14:08",
-        "InterviewState": "Completed",
-        "Flight": "W6 2273",
-        "Dest": "EIN",
-        "AirlineCode": "W6",
-        "InterviewerID": 1
-    },
-    {
-        "InterviewId": "f9e810dc-6a16-4c7a-899e-8239414c97a9",
-        "InterviewEndDate": "2024-02-05 15:18:37",
         "InterviewState": "Completed",
         "Flight": "W6 2273",
         "Dest": "EIN",
@@ -8839,15 +8830,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "cb223b59-bc56-4ab8-a61b-823e920be536",
-        "InterviewEndDate": "2024-07-16 19:08:58",
-        "InterviewState": "Completed",
-        "Flight": "FR 7604",
-        "Dest": "ARN",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "b2313752-7fe6-4d77-ac22-7f9caf661118",
         "InterviewEndDate": "2024-07-16 19:10:26",
         "InterviewState": "Completed",
@@ -8998,6 +8980,24 @@ let interview_data_raw = `[
         "Flight": "FM  892",
         "Dest": "XIY",
         "AirlineCode": "FM",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "376727ca-7e0e-447c-b50e-46fbcc8e1b86",
+        "InterviewEndDate": "2024-07-20 20:19:09",
+        "InterviewState": "Completed",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "d36ff031-40f8-4ea3-923c-56f3f973b6b0",
+        "InterviewEndDate": "2024-07-20 20:18:47",
+        "InterviewState": "Completed",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE",
         "InterviewerID": 1
     },
     {
@@ -10313,6 +10313,15 @@ let interview_data_raw = `[
         "Dest": "RUH",
         "AirlineCode": "W6",
         "InterviewerID": 9
+    },
+    {
+        "InterviewId": "f9e810dc-6a16-4c7a-899e-8239414c97a9",
+        "InterviewEndDate": "2024-02-05 15:18:37",
+        "InterviewState": "Completed",
+        "Flight": "W6 2273",
+        "Dest": "EIN",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
     },
     {
         "InterviewId": "8737ce2e-453d-4689-b35b-ece376dc11db",
@@ -17641,6 +17650,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "cb223b59-bc56-4ab8-a61b-823e920be536",
+        "InterviewEndDate": "2024-07-16 19:08:58",
+        "InterviewState": "Completed",
+        "Flight": "FR 7604",
+        "Dest": "ARN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "c08b3630-1de5-46a5-adb7-e551ab06f704",
         "InterviewEndDate": "2024-07-16 21:08:30",
         "InterviewState": "Completed",
@@ -17747,6 +17765,33 @@ let interview_data_raw = `[
         "Dest": "ZTH",
         "AirlineCode": "W6",
         "InterviewerID": 16
+    },
+    {
+        "InterviewId": "eac3322a-264b-46e6-b675-98d2721907fe",
+        "InterviewEndDate": "2024-07-20 20:18:20",
+        "InterviewState": "Completed",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "03ff2a66-15ac-4c99-9c48-ecaa03b78765",
+        "InterviewEndDate": "2024-07-20 20:47:00",
+        "InterviewState": "Completed",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "ba620e18-41f3-483a-a4cc-db4305413cb6",
+        "InterviewEndDate": "2024-07-20 20:50:11",
+        "InterviewState": "Completed",
+        "Flight": "KE  962",
+        "Dest": "ICN",
+        "AirlineCode": "KE",
+        "InterviewerID": 1
     }
 ]    
 
