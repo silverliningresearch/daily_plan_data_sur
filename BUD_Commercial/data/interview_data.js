@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "20-07-2024 09:59:42"
+        "download_time": "20-07-2024 10:54:42"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -7624,15 +7624,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "7b992024-ccd7-4548-93a4-83212746609d",
-        "InterviewEndDate": "2024-06-14 19:31:45",
-        "InterviewState": "Completed",
-        "Flight": "W6 2335",
-        "Dest": "MXP",
-        "AirlineCode": "W6",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "e8a52dc5-fbcf-4685-8029-03ca9cde6b7c",
         "InterviewEndDate": "2024-06-14 19:41:59",
         "InterviewState": "Completed",
@@ -8998,6 +8989,15 @@ let interview_data_raw = `[
         "Flight": "LH 1335",
         "Dest": "FRA",
         "AirlineCode": "LH",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "1602c65d-0e51-4e9f-8362-2eec399978f8",
+        "InterviewEndDate": "2024-07-20 11:03:45",
+        "InterviewState": "Completed",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR",
         "InterviewerID": 16
     },
     {
@@ -16039,6 +16039,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "7b992024-ccd7-4548-93a4-83212746609d",
+        "InterviewEndDate": "2024-06-14 19:31:45",
+        "InterviewState": "Completed",
+        "Flight": "W6 2335",
+        "Dest": "MXP",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "5bb00b53-169f-4273-9134-cb3e78863efa",
         "InterviewEndDate": "2024-06-14 19:36:45",
         "InterviewState": "Completed",
@@ -17620,6 +17629,33 @@ let interview_data_raw = `[
         "Flight": "LH 1335",
         "Dest": "FRA",
         "AirlineCode": "LH",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "ba39d730-605d-4544-b35e-ab1147b152c6",
+        "InterviewEndDate": "2024-07-20 11:17:55",
+        "InterviewState": "Completed",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "d9d1d1e8-7737-4d2c-b0a7-db9522659bd0",
+        "InterviewEndDate": "2024-07-20 11:20:51",
+        "InterviewState": "Completed",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "7cd82d72-0cc8-4891-a490-9a27de29d943",
+        "InterviewEndDate": "2024-07-20 11:26:45",
+        "InterviewState": "Completed",
+        "Flight": "FR 4263",
+        "Dest": "CRL",
+        "AirlineCode": "FR",
         "InterviewerID": 16
     }
 ]    
