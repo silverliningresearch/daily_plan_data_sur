@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "21-07-2024 08:54:42"
+        "download_time": "21-07-2024 09:49:50"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -8749,15 +8749,6 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
-        "InterviewId": "a009aa92-dbf8-4eb5-948e-823307763a9b",
-        "InterviewEndDate": "2024-07-16 11:47:43",
-        "InterviewState": "Completed",
-        "Flight": "LH 1337",
-        "Dest": "FRA",
-        "AirlineCode": "LH",
-        "InterviewerID": 16
-    },
-    {
         "InterviewId": "46de99c7-bbe3-4d0f-a257-4f738996c048",
         "InterviewEndDate": "2024-07-16 12:21:31",
         "InterviewState": "Completed",
@@ -8999,6 +8990,15 @@ let interview_data_raw = `[
         "Dest": "ICN",
         "AirlineCode": "KE",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "c84d1aff-da99-452e-a0f0-1a3ad550e186",
+        "InterviewEndDate": "2024-07-21 10:05:19",
+        "InterviewState": "Completed",
+        "Flight": "W6 3292",
+        "Dest": "OTP",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
     },
     {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
@@ -17506,6 +17506,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "a009aa92-dbf8-4eb5-948e-823307763a9b",
+        "InterviewEndDate": "2024-07-16 11:47:43",
+        "InterviewState": "Completed",
+        "Flight": "LH 1337",
+        "Dest": "FRA",
+        "AirlineCode": "LH",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "a79392aa-d4de-42de-87f7-e20bd11583fe",
         "InterviewEndDate": "2024-07-16 12:21:41",
         "InterviewState": "Completed",
@@ -17796,6 +17805,24 @@ let interview_data_raw = `[
     {
         "InterviewId": "8161dbc4-b997-4b47-a05a-89b90d96918e",
         "InterviewEndDate": "2024-07-21 09:48:18",
+        "InterviewState": "Completed",
+        "Flight": "W6 3292",
+        "Dest": "OTP",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "e98cd204-9905-4810-a6e2-9fccb40e02f6",
+        "InterviewEndDate": "2024-07-21 09:58:57",
+        "InterviewState": "Completed",
+        "Flight": "W6 3292",
+        "Dest": "OTP",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "7338d30e-d823-41a8-b85a-f461252e4a8e",
+        "InterviewEndDate": "2024-07-21 10:15:42",
         "InterviewState": "Completed",
         "Flight": "W6 3292",
         "Dest": "OTP",
