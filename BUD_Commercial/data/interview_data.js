@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "25-07-2024 08:14:49"
+        "download_time": "25-07-2024 09:09:47"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -13141,15 +13141,6 @@ let interview_data_raw = `[
         "InterviewerID": 5
     },
     {
-        "InterviewId": "0676d66c-9cfa-4755-95c4-f7def29fbebd",
-        "InterviewEndDate": "2024-04-07 20:11:35",
-        "InterviewState": "Completed",
-        "Flight": "6H  726",
-        "Dest": "TLV",
-        "AirlineCode": "6H",
-        "InterviewerID": 5
-    },
-    {
         "InterviewId": "fa4fdea9-7202-40c0-8949-a29f50121abe",
         "InterviewEndDate": "2024-04-07 20:19:40",
         "InterviewState": "Completed",
@@ -13157,15 +13148,6 @@ let interview_data_raw = `[
         "Dest": "TLV",
         "AirlineCode": "6H",
         "InterviewerID": 5
-    },
-    {
-        "InterviewId": "21188142-02d3-4e68-b8cb-f7da75d320c9",
-        "InterviewEndDate": "2024-04-09 11:29:33",
-        "InterviewState": "Completed",
-        "Flight": "BZ  441",
-        "Dest": "TLV",
-        "AirlineCode": "BZ",
-        "InterviewerID": 16
     },
     {
         "InterviewId": "f4b63d1c-0e78-4015-91c6-d7043918b97b",
@@ -14372,15 +14354,6 @@ let interview_data_raw = `[
         "Dest": "AGP",
         "AirlineCode": "FR",
         "InterviewerID": 9
-    },
-    {
-        "InterviewId": "d0815125-d360-4fe3-8960-f7f8e6d8d37e",
-        "InterviewEndDate": "2024-05-11 16:35:46",
-        "InterviewState": "Completed",
-        "Flight": "FR 8357",
-        "Dest": "MAN",
-        "AirlineCode": "FR",
-        "InterviewerID": 16
     },
     {
         "InterviewId": "e2f56f64-d813-416d-8f7d-e3644b223e14",
@@ -18001,6 +17974,33 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "d2be39f0-fc7a-4ce2-9ea6-96dfc16dabcb",
+        "InterviewEndDate": "2024-07-25 10:08:29",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "cb3885f5-f786-45b6-9cf4-d81af49ffa8a",
+        "InterviewEndDate": "2024-07-25 10:05:18",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "9eb9bb0c-42d1-44a8-a658-8602770a2556",
+        "InterviewEndDate": "2024-07-25 10:08:00",
+        "InterviewState": "Completed",
+        "Flight": "FR 8385",
+        "Dest": "BCN",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "18400735-3855-4be6-90c0-fe634e2e1b39",
         "InterviewEndDate": "2024-01-04 11:14:57",
         "InterviewState": "Completed",
@@ -18334,6 +18334,24 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "0676d66c-9cfa-4755-95c4-f7def29fbebd",
+        "InterviewEndDate": "2024-04-07 20:11:35",
+        "InterviewState": "Completed",
+        "Flight": "6H  726",
+        "Dest": "TLV",
+        "AirlineCode": "6H",
+        "InterviewerID": 5
+    },
+    {
+        "InterviewId": "21188142-02d3-4e68-b8cb-f7da75d320c9",
+        "InterviewEndDate": "2024-04-09 11:29:33",
+        "InterviewState": "Completed",
+        "Flight": "BZ  441",
+        "Dest": "TLV",
+        "AirlineCode": "BZ",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "57fa6eda-4276-4853-bd04-fc599909babf",
         "InterviewEndDate": "2024-04-11 13:40:19",
         "InterviewState": "Completed",
@@ -18385,6 +18403,15 @@ let interview_data_raw = `[
         "Flight": "AF 1495",
         "Dest": "CDG",
         "AirlineCode": "AF",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "d0815125-d360-4fe3-8960-f7f8e6d8d37e",
+        "InterviewEndDate": "2024-05-11 16:35:46",
+        "InterviewState": "Completed",
+        "Flight": "FR 8357",
+        "Dest": "MAN",
+        "AirlineCode": "FR",
         "InterviewerID": 16
     },
     {
