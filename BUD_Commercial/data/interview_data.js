@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "25-07-2024 11:54:44"
+        "download_time": "25-07-2024 12:50:03"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -16858,15 +16858,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "6bdd79ce-258b-4044-843d-f68e3169e429",
-        "InterviewEndDate": "2024-06-28 08:25:14",
-        "InterviewState": "Completed",
-        "Flight": "EW 2781",
-        "Dest": "STR",
-        "AirlineCode": "EW",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "54a47225-0618-487b-9293-e43ac3fd790a",
         "InterviewEndDate": "2024-06-28 09:00:29",
         "InterviewState": "Completed",
@@ -18001,6 +17992,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "c8bfc231-c93f-4308-86ad-b76aefac2c0b",
+        "InterviewEndDate": "2024-07-25 13:09:21",
+        "InterviewState": "Completed",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "18400735-3855-4be6-90c0-fe634e2e1b39",
         "InterviewEndDate": "2024-01-04 11:14:57",
         "InterviewState": "Completed",
@@ -18694,6 +18694,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "6bdd79ce-258b-4044-843d-f68e3169e429",
+        "InterviewEndDate": "2024-06-28 08:25:14",
+        "InterviewState": "Completed",
+        "Flight": "EW 2781",
+        "Dest": "STR",
+        "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "da879cba-f14c-4243-91c5-fb5af5b23749",
         "InterviewEndDate": "2024-07-08 18:25:18",
         "InterviewState": "Completed",
@@ -18763,6 +18772,15 @@ let interview_data_raw = `[
         "Flight": "W6 2341",
         "Dest": "FCO",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "8b4a5c8a-00cc-4396-bd41-f713881925ba",
+        "InterviewEndDate": "2024-07-25 13:09:03",
+        "InterviewState": "Completed",
+        "Flight": "FR 4229",
+        "Dest": "BVA",
+        "AirlineCode": "FR",
         "InterviewerID": 1
     }
 ]    
