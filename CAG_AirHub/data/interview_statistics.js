@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "BWN",
         "AirlineCode": "BI",
         "completed_interviews": 1,
-        "download_time": "02-08-2024 11:04:58"
+        "download_time": "02-08-2024 12:00:00"
     },
     {
         "Interview_Date": "2023-01-16",
@@ -51284,6 +51284,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-08-02",
+        "Dest": "BKI",
+        "AirlineCode": "AK",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-08-02",
         "Dest": "BOM",
         "AirlineCode": "SQ",
         "completed_interviews": 8
@@ -51298,6 +51304,12 @@ let interview_statistics = `[
         "Interview_Date": "2024-08-02",
         "Dest": "CEB",
         "AirlineCode": "5J",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-08-02",
+        "Dest": "CGK",
+        "AirlineCode": "GA",
         "completed_interviews": 5
     },
     {
@@ -51338,6 +51350,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-08-02",
+        "Dest": "HAK",
+        "AirlineCode": "HU",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-08-02",
+        "Dest": "HDY",
+        "AirlineCode": "TR",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-08-02",
         "Dest": "IAH",
         "AirlineCode": "SQ",
         "completed_interviews": 4
@@ -51346,7 +51370,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-08-02",
         "Dest": "ICN",
         "AirlineCode": "TR",
-        "completed_interviews": 1
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2024-08-02",
@@ -51358,7 +51382,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-08-02",
         "Dest": "KCH",
         "AirlineCode": "AK",
-        "completed_interviews": 5
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2024-08-02",
@@ -51443,6 +51467,12 @@ let interview_statistics = `[
         "Dest": "SUB",
         "AirlineCode": "3K",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-08-02",
+        "Dest": "TPE",
+        "AirlineCode": "SQ",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2024-08-02",
