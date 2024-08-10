@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "10-08-2024 09:14:48"
+        "download_time": "10-08-2024 10:10:14"
     },
     {
         "InterviewId": "af134b98-c1f1-4352-a6f5-529c16b3169a",
@@ -8398,15 +8398,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "f91b3a14-4818-4a57-b5a6-774e9b6c9695",
-        "InterviewEndDate": "2024-07-24 17:38:37",
-        "InterviewState": "Completed",
-        "Flight": "W6 2495",
-        "Dest": "MLA",
-        "AirlineCode": "W6",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "ded3a331-1e68-4e4a-82d3-4fd609a7fe95",
         "InterviewEndDate": "2024-07-24 17:49:53",
         "InterviewState": "Completed",
@@ -8997,6 +8988,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 1910",
         "Dest": "JMK",
+        "AirlineCode": "FR",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "7748dcc9-0707-4a6e-86be-6b5d3c070bba",
+        "InterviewEndDate": "2024-08-10 10:26:40",
+        "InterviewState": "Completed",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
         "AirlineCode": "FR",
         "InterviewerID": 7
     },
@@ -14617,15 +14617,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "fa1ee13e-5012-417a-a3d9-e7afaf23394d",
-        "InterviewEndDate": "2024-05-23 10:17:13",
-        "InterviewState": "Completed",
-        "Flight": "LX 2251",
-        "Dest": "ZRH",
-        "AirlineCode": "LX",
-        "InterviewerID": 16
-    },
-    {
         "InterviewId": "4622ae1f-92d5-4365-b9b8-b49fbfcda602",
         "InterviewEndDate": "2024-05-23 16:43:15",
         "InterviewState": "Completed",
@@ -17236,6 +17227,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "f91b3a14-4818-4a57-b5a6-774e9b6c9695",
+        "InterviewEndDate": "2024-07-24 17:38:37",
+        "InterviewState": "Completed",
+        "Flight": "W6 2495",
+        "Dest": "MLA",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "35f84166-8902-42f3-8220-965bfb340ec2",
         "InterviewEndDate": "2024-07-24 17:52:32",
         "InterviewState": "Completed",
@@ -17965,15 +17965,6 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
-        "InterviewId": "fba6ac49-7edc-4f08-b1e3-e7c4c8e4a3d2",
-        "InterviewEndDate": "2024-08-09 06:10:17",
-        "InterviewState": "Completed",
-        "Flight": "FR 7432",
-        "Dest": "BOJ",
-        "AirlineCode": "FR",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "2781dde6-0f04-49e5-ba82-971814ffcf03",
         "InterviewEndDate": "2024-08-09 08:14:34",
         "InterviewState": "Completed",
@@ -17998,6 +17989,15 @@ let interview_data_raw = `[
         "Flight": "W6 2231",
         "Dest": "TGD",
         "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "2a8564f7-871c-49f1-bdf5-a40b4a74e111",
+        "InterviewEndDate": "2024-08-10 10:28:33",
+        "InterviewState": "Completed",
+        "Flight": "FR 4247",
+        "Dest": "BOH",
+        "AirlineCode": "FR",
         "InterviewerID": 7
     },
     {
@@ -19360,6 +19360,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "fa1ee13e-5012-417a-a3d9-e7afaf23394d",
+        "InterviewEndDate": "2024-05-23 10:17:13",
+        "InterviewState": "Completed",
+        "Flight": "LX 2251",
+        "Dest": "ZRH",
+        "AirlineCode": "LX",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "cd505d82-40de-4419-a355-fc61893173c0",
         "InterviewEndDate": "2024-05-23 10:25:53",
         "InterviewState": "Completed",
@@ -20086,6 +20095,15 @@ let interview_data_raw = `[
         "Flight": "LH 1677",
         "Dest": "MUC",
         "AirlineCode": "LH",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "fba6ac49-7edc-4f08-b1e3-e7c4c8e4a3d2",
+        "InterviewEndDate": "2024-08-09 06:10:17",
+        "InterviewState": "Completed",
+        "Flight": "FR 7432",
+        "Dest": "BOJ",
+        "AirlineCode": "FR",
         "InterviewerID": 7
     },
     {
