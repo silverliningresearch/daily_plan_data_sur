@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "13-08-2024 18:49:54"
+        "download_time": "13-08-2024 19:44:50"
     },
     {
         "InterviewId": "af134b98-c1f1-4352-a6f5-529c16b3169a",
@@ -15868,15 +15868,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "e4419bfd-b71a-4aaa-af3d-e466eb8eb811",
-        "InterviewEndDate": "2024-06-22 12:29:10",
-        "InterviewState": "Completed",
-        "Flight": "FR 9894",
-        "Dest": "SVQ",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "4d2ae2ef-ace8-4f2e-ab50-c933390727e0",
         "InterviewEndDate": "2024-06-22 12:15:52",
         "InterviewState": "Completed",
@@ -18001,6 +17992,15 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
+        "InterviewId": "cfb4a576-6ae8-4ae0-a3a4-e2875b693a88",
+        "InterviewEndDate": "2024-08-13 20:40:37",
+        "InterviewState": "Completed",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK",
+        "InterviewerID": 16
+    },
+    {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
         "InterviewEndDate": "2024-04-12 16:57:50",
         "InterviewState": "Completed",
@@ -19918,6 +19918,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "e4419bfd-b71a-4aaa-af3d-e466eb8eb811",
+        "InterviewEndDate": "2024-06-22 12:29:10",
+        "InterviewState": "Completed",
+        "Flight": "FR 9894",
+        "Dest": "SVQ",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "2f79b381-2572-44b4-a8fa-f1926393f546",
         "InterviewEndDate": "2024-06-24 13:38:27",
         "InterviewState": "Completed",
@@ -20419,6 +20428,15 @@ let interview_data_raw = `[
         "Flight": "OS  722",
         "Dest": "VIE",
         "AirlineCode": "OS",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "e7285e0b-0383-4a7c-82ca-f80993b6e79f",
+        "InterviewEndDate": "2024-08-13 20:35:53",
+        "InterviewState": "Completed",
+        "Flight": "TK 1038",
+        "Dest": "IST",
+        "AirlineCode": "TK",
         "InterviewerID": 16
     }
 ]    
