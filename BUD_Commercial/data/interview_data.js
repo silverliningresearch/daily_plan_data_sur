@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "13-08-2024 14:14:49"
+        "download_time": "13-08-2024 15:09:50"
     },
     {
         "InterviewId": "af134b98-c1f1-4352-a6f5-529c16b3169a",
@@ -13726,15 +13726,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "82f170b5-d294-46de-bc27-e4f5494a47c7",
-        "InterviewEndDate": "2024-05-10 11:43:18",
-        "InterviewState": "Completed",
-        "Flight": "FR  080",
-        "Dest": "CPH",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "2c237cac-3b30-49f8-bb97-dfbbd1747f5a",
         "InterviewEndDate": "2024-05-10 11:50:00",
         "InterviewState": "Completed",
@@ -16606,15 +16597,6 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
-        "InterviewId": "645488c8-8619-43d4-bb2e-e4fd9c3298ea",
-        "InterviewEndDate": "2024-07-16 18:38:42",
-        "InterviewState": "Completed",
-        "Flight": "W6 2451",
-        "Dest": "LCA",
-        "AirlineCode": "W6",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "2bb3c655-f58d-44c0-a7fe-e4132f14c9a3",
         "InterviewEndDate": "2024-07-16 18:38:42",
         "InterviewState": "Completed",
@@ -17983,15 +17965,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "c788b20e-c71a-408c-bcd2-e4ffcdb295c0",
-        "InterviewEndDate": "2024-08-12 12:03:16",
-        "InterviewState": "Completed",
-        "Flight": "FR 8325",
-        "Dest": "MXP",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "443364f7-a234-48af-bef6-838561df9097",
         "InterviewEndDate": "2024-08-12 12:06:33",
         "InterviewState": "Completed",
@@ -17999,6 +17972,33 @@ let interview_data_raw = `[
         "Dest": "MXP",
         "AirlineCode": "FR",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "dac5e784-1ea7-447d-ad14-de0afde72222",
+        "InterviewEndDate": "2024-08-13 15:28:50",
+        "InterviewState": "Completed",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "08546132-3018-4fe3-b043-b4a71c51b28f",
+        "InterviewEndDate": "2024-08-13 15:40:06",
+        "InterviewState": "Completed",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "a4262bf5-b2b1-445c-9d68-c432972a1007",
+        "InterviewEndDate": "2024-08-13 15:40:28",
+        "InterviewState": "Completed",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 16
     },
     {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
@@ -19369,6 +19369,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "82f170b5-d294-46de-bc27-e4f5494a47c7",
+        "InterviewEndDate": "2024-05-10 11:43:18",
+        "InterviewState": "Completed",
+        "Flight": "FR  080",
+        "Dest": "CPH",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "893b7ca1-3e95-40ee-9efe-ed4483419c9d",
         "InterviewEndDate": "2024-05-11 14:48:57",
         "InterviewState": "Completed",
@@ -20035,6 +20044,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "645488c8-8619-43d4-bb2e-e4fd9c3298ea",
+        "InterviewEndDate": "2024-07-16 18:38:42",
+        "InterviewState": "Completed",
+        "Flight": "W6 2451",
+        "Dest": "LCA",
+        "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "e46799cb-cf29-4f88-9d08-ee687556ed78",
         "InterviewEndDate": "2024-07-16 19:07:33",
         "InterviewState": "Completed",
@@ -20348,6 +20366,24 @@ let interview_data_raw = `[
         "Dest": "MXP",
         "AirlineCode": "FR",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "c788b20e-c71a-408c-bcd2-e4ffcdb295c0",
+        "InterviewEndDate": "2024-08-12 12:03:16",
+        "InterviewState": "Completed",
+        "Flight": "FR 8325",
+        "Dest": "MXP",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "45544125-446c-4cd3-92ca-fabcba468cb2",
+        "InterviewEndDate": "2024-08-13 15:24:15",
+        "InterviewState": "Completed",
+        "Flight": "OS  722",
+        "Dest": "VIE",
+        "AirlineCode": "OS",
+        "InterviewerID": 16
     }
 ]    
 
