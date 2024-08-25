@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "AYT",
         "AirlineCode": "W62273",
         "InterviewerID": 16,
-        "download_time": "25-08-2024 19:34:57"
+        "download_time": "25-08-2024 20:29:50"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -13330,15 +13330,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "c1d60612-7f36-406c-91f4-d9c75185b96b",
-        "InterviewEndDate": "2024-04-26 12:33:12",
-        "InterviewState": "Completed",
-        "Flight": "FR 1923",
-        "Dest": "WMI",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "5f0f727c-3d2f-4f4c-930a-8741beaedcf1",
         "InterviewEndDate": "2024-04-26 13:20:36",
         "InterviewState": "Completed",
@@ -18001,6 +17992,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "b0dd05da-c907-4900-9d72-76ad7dce6158",
+        "InterviewEndDate": "2024-08-25 20:36:21",
+        "InterviewState": "Completed",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
         "InterviewEndDate": "2024-04-12 16:57:50",
         "InterviewState": "Completed",
@@ -19716,6 +19716,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 5190",
         "Dest": "BRI",
+        "AirlineCode": "FR",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "c1d60612-7f36-406c-91f4-d9c75185b96b",
+        "InterviewEndDate": "2024-04-26 12:33:12",
+        "InterviewState": "Completed",
+        "Flight": "FR 1923",
+        "Dest": "WMI",
         "AirlineCode": "FR",
         "InterviewerID": 1
     },
@@ -21598,6 +21607,15 @@ let interview_data_raw = `[
         "Flight": "W6 2361",
         "Dest": "BRI",
         "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
+        "InterviewId": "1bed996a-0371-4ae7-b03e-f564762cda44",
+        "InterviewEndDate": "2024-08-25 20:42:03",
+        "InterviewState": "Completed",
+        "Flight": "LS  898",
+        "Dest": "MAN",
+        "AirlineCode": "LS",
         "InterviewerID": 7
     }
 ]    
