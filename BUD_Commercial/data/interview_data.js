@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "AYT",
         "AirlineCode": "W62273",
         "InterviewerID": 16,
-        "download_time": "31-08-2024 16:44:50"
+        "download_time": "31-08-2024 17:40:09"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -17191,15 +17191,6 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
-        "InterviewId": "14381f5c-f0df-49b2-bd70-d6f22e11c867",
-        "InterviewEndDate": "2024-08-08 07:34:15",
-        "InterviewState": "Completed",
-        "Flight": "W6 2281",
-        "Dest": "CRL",
-        "AirlineCode": "W6",
-        "InterviewerID": 7
-    },
-    {
         "InterviewId": "6d96cd17-e236-444f-b3b5-c945405be35e",
         "InterviewEndDate": "2024-08-08 07:42:32",
         "InterviewState": "Completed",
@@ -17998,6 +17989,15 @@ let interview_data_raw = `[
         "Flight": "W6 2223",
         "Dest": "GLA",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "cfdd2840-4f92-4c35-8a41-cb89d0a5a270",
+        "InterviewEndDate": "2024-08-31 18:37:39",
+        "InterviewState": "Completed",
+        "Flight": "FR 4275",
+        "Dest": "MRS",
+        "AirlineCode": "FR",
         "InterviewerID": 1
     },
     {
@@ -21601,6 +21601,15 @@ let interview_data_raw = `[
         "InterviewerID": 7
     },
     {
+        "InterviewId": "14381f5c-f0df-49b2-bd70-d6f22e11c867",
+        "InterviewEndDate": "2024-08-08 07:34:15",
+        "InterviewState": "Completed",
+        "Flight": "W6 2281",
+        "Dest": "CRL",
+        "AirlineCode": "W6",
+        "InterviewerID": 7
+    },
+    {
         "InterviewId": "fba6ac49-7edc-4f08-b1e3-e7c4c8e4a3d2",
         "InterviewEndDate": "2024-08-09 06:10:17",
         "InterviewState": "Completed",
@@ -21949,6 +21958,15 @@ let interview_data_raw = `[
         "Flight": "W6 2223",
         "Dest": "GLA",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "358f6c62-c484-4202-9036-d8f6890a3fda",
+        "InterviewEndDate": "2024-08-31 18:27:47",
+        "InterviewState": "Completed",
+        "Flight": "FR 4275",
+        "Dest": "MRS",
+        "AirlineCode": "FR",
         "InterviewerID": 1
     }
 ]    
