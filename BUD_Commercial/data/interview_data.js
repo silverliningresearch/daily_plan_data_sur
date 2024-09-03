@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "AYT",
         "AirlineCode": "W62273",
         "InterviewerID": 16,
-        "download_time": "03-09-2024 05:14:50"
+        "download_time": "03-09-2024 06:12:04"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -12601,15 +12601,6 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
-        "InterviewId": "024a1327-7ec3-411e-b776-d5e80b12605c",
-        "InterviewEndDate": "2024-04-13 12:01:58",
-        "InterviewState": "Completed",
-        "Flight": "FR 9943",
-        "Dest": "TFS",
-        "AirlineCode": "FR",
-        "InterviewerID": 9
-    },
-    {
         "InterviewId": "691d832f-9abd-4c88-b3a5-7bd088d3048d",
         "InterviewEndDate": "2024-04-13 13:03:28",
         "InterviewState": "Completed",
@@ -18001,6 +17992,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "a65a50b3-61ab-4993-8d7e-cf417d3472db",
+        "InterviewEndDate": "2024-09-03 06:21:44",
+        "InterviewState": "Completed",
+        "Flight": "W6 2431",
+        "Dest": "AYT",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
         "InterviewEndDate": "2024-04-12 16:57:50",
         "InterviewState": "Completed",
@@ -19725,6 +19725,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "FR 4263",
         "Dest": "CRL",
+        "AirlineCode": "FR",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "024a1327-7ec3-411e-b776-d5e80b12605c",
+        "InterviewEndDate": "2024-04-13 12:01:58",
+        "InterviewState": "Completed",
+        "Flight": "FR 9943",
+        "Dest": "TFS",
         "AirlineCode": "FR",
         "InterviewerID": 9
     },
@@ -22085,6 +22094,15 @@ let interview_data_raw = `[
         "Dest": "DUB",
         "AirlineCode": "EI",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "454a8e9b-7079-42c9-bc79-db61643c51c8",
+        "InterviewEndDate": "2024-09-03 06:25:35",
+        "InterviewState": "Completed",
+        "Flight": "W6 2431",
+        "Dest": "AYT",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
     }
 ]    
 
