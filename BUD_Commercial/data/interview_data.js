@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "AYT",
         "AirlineCode": "W62273",
         "InterviewerID": 16,
-        "download_time": "06-09-2024 10:16:27"
+        "download_time": "06-09-2024 11:10:03"
     },
     {
         "InterviewId": "a62663f8-574c-466e-9cf5-58c788c60e77",
@@ -13807,15 +13807,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "0418b9a4-53fa-44af-9b29-d3282fc3668d",
-        "InterviewEndDate": "2024-05-20 10:27:35",
-        "InterviewState": "Completed",
-        "Flight": "FR 4091",
-        "Dest": "PRG",
-        "AirlineCode": "FR",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "f88ca5f2-13e8-4494-b996-b7cfabfe40f0",
         "InterviewEndDate": "2024-05-20 11:53:08",
         "InterviewState": "Completed",
@@ -18001,6 +17992,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "68cd3d94-f100-4972-8620-af3786f7e4fe",
+        "InterviewEndDate": "2024-09-06 11:56:55",
+        "InterviewState": "Completed",
+        "Flight": "HU  762",
+        "Dest": "SZX",
+        "AirlineCode": "HU",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
         "InterviewEndDate": "2024-04-12 16:57:50",
         "InterviewState": "Completed",
@@ -20482,6 +20482,15 @@ let interview_data_raw = `[
         "Flight": "EW 7785",
         "Dest": "HAM",
         "AirlineCode": "EW",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "0418b9a4-53fa-44af-9b29-d3282fc3668d",
+        "InterviewEndDate": "2024-05-20 10:27:35",
+        "InterviewState": "Completed",
+        "Flight": "FR 4091",
+        "Dest": "PRG",
+        "AirlineCode": "FR",
         "InterviewerID": 1
     },
     {
