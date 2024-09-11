@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "11-09-2024 09:24:56"
+        "download_time": "11-09-2024 10:20:01"
     },
     {
         "InterviewId": "af134b98-c1f1-4352-a6f5-529c16b3169a",
@@ -14788,15 +14788,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "183b418c-0db0-4f00-b342-cf921d3fb429",
-        "InterviewEndDate": "2024-06-18 19:06:41",
-        "InterviewState": "Completed",
-        "Flight": "AY 1256",
-        "Dest": "HEL",
-        "AirlineCode": "AY",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "a60a7431-03e7-49a4-b66a-743e31d5f360",
         "InterviewEndDate": "2024-06-18 20:33:58",
         "InterviewState": "Completed",
@@ -17998,6 +17989,15 @@ let interview_data_raw = `[
         "Flight": "W6 2359",
         "Dest": "NAP",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "29324cb3-53c6-45ff-8613-cbdfe94e4435",
+        "InterviewEndDate": "2024-09-11 10:43:41",
+        "InterviewState": "Completed",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR",
         "InterviewerID": 1
     },
     {
@@ -21205,6 +21205,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "183b418c-0db0-4f00-b342-cf921d3fb429",
+        "InterviewEndDate": "2024-06-18 19:06:41",
+        "InterviewState": "Completed",
+        "Flight": "AY 1256",
+        "Dest": "HEL",
+        "AirlineCode": "AY",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "d3255289-37e3-49f1-88c2-d6671847621f",
         "InterviewEndDate": "2024-06-18 19:07:26",
         "InterviewState": "Completed",
@@ -22921,6 +22930,15 @@ let interview_data_raw = `[
         "Flight": "W6 2359",
         "Dest": "NAP",
         "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
+        "InterviewId": "bf73067f-2d41-4d74-b132-f7d274b83b66",
+        "InterviewEndDate": "2024-09-11 10:32:06",
+        "InterviewState": "Completed",
+        "Flight": "FR  221",
+        "Dest": "EMA",
+        "AirlineCode": "FR",
         "InterviewerID": 1
     }
 ]    
