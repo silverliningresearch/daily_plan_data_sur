@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "21-09-2024 09:34:59"
+        "download_time": "21-09-2024 10:30:01"
     },
     {
         "InterviewId": "af134b98-c1f1-4352-a6f5-529c16b3169a",
@@ -15868,15 +15868,6 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
-        "InterviewId": "07674928-e259-4aca-861b-c479a3147d12",
-        "InterviewEndDate": "2024-07-25 10:54:50",
-        "InterviewState": "Completed",
-        "Flight": "W6 2387",
-        "Dest": "ALC",
-        "AirlineCode": "W6",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "91f13634-adca-4171-b64d-c298cc1248ac",
         "InterviewEndDate": "2024-07-25 11:34:30",
         "InterviewState": "Completed",
@@ -17999,6 +17990,15 @@ let interview_data_raw = `[
         "Dest": "DXB",
         "AirlineCode": "EK",
         "InterviewerID": 16
+    },
+    {
+        "InterviewId": "8b410058-b305-4cff-ae97-66b1676ff8d7",
+        "InterviewEndDate": "2024-09-21 11:19:53",
+        "InterviewState": "Completed",
+        "Flight": "NP 7604",
+        "Dest": "HRG",
+        "AirlineCode": "NP",
+        "InterviewerID": 9
     },
     {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
@@ -22906,6 +22906,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "07674928-e259-4aca-861b-c479a3147d12",
+        "InterviewEndDate": "2024-07-25 10:54:50",
+        "InterviewState": "Completed",
+        "Flight": "W6 2387",
+        "Dest": "ALC",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "55175e0e-8051-42c6-a06c-db1744fbf540",
         "InterviewEndDate": "2024-07-25 12:43:59",
         "InterviewState": "Completed",
@@ -24353,6 +24362,24 @@ let interview_data_raw = `[
         "Dest": "DXB",
         "AirlineCode": "EK",
         "InterviewerID": 16
+    },
+    {
+        "InterviewId": "c4bfa922-d521-4c7d-bbd0-fa8df473df80",
+        "InterviewEndDate": "2024-09-21 11:14:20",
+        "InterviewState": "Completed",
+        "Flight": "NP 7604",
+        "Dest": "HRG",
+        "AirlineCode": "NP",
+        "InterviewerID": 9
+    },
+    {
+        "InterviewId": "fcbe08a6-a6f8-41f0-9bb2-f3aed4ead0cf",
+        "InterviewEndDate": "2024-09-21 11:14:39",
+        "InterviewState": "Completed",
+        "Flight": "NP 7604",
+        "Dest": "HRG",
+        "AirlineCode": "NP",
+        "InterviewerID": 9
     }
 ]    
 
