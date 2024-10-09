@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "BWN",
         "AirlineCode": "BI",
         "completed_interviews": 1,
-        "download_time": "09-10-2024 20:50:44"
+        "download_time": "09-10-2024 21:46:16"
     },
     {
         "Interview_Date": "2023-01-16",
@@ -57712,7 +57712,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-10-09",
         "Dest": "BNE",
         "AirlineCode": "SQ",
-        "completed_interviews": 3
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2024-10-09",
@@ -57728,9 +57728,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-10-09",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-10-09",
         "Dest": "CGK",
         "AirlineCode": "GA",
         "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-10-09",
+        "Dest": "CGK",
+        "AirlineCode": "SQ",
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-10-09",
@@ -57743,6 +57755,12 @@ let interview_statistics = `[
         "Dest": "DAD",
         "AirlineCode": "SQ",
         "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-10-09",
+        "Dest": "DMK",
+        "AirlineCode": "SL",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2024-10-09",
@@ -57766,7 +57784,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-10-09",
         "Dest": "HEL",
         "AirlineCode": "AY",
-        "completed_interviews": 1
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-10-09",
@@ -57839,6 +57857,12 @@ let interview_statistics = `[
         "Dest": "RGN",
         "AirlineCode": "SQ",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-10-09",
+        "Dest": "SZX",
+        "AirlineCode": "SQ",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2024-10-09",
