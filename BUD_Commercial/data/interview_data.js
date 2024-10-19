@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "19-10-2024 09:09:49"
+        "download_time": "19-10-2024 11:09:57"
     },
     {
         "InterviewId": "af134b98-c1f1-4352-a6f5-529c16b3169a",
@@ -13897,15 +13897,6 @@ let interview_data_raw = `[
         "InterviewerID": 16
     },
     {
-        "InterviewId": "e8f0b9c5-9583-4231-993e-bb161bba009f",
-        "InterviewEndDate": "2024-06-12 17:24:21",
-        "InterviewState": "Completed",
-        "Flight": "W6 2393",
-        "Dest": "LIS",
-        "AirlineCode": "W6",
-        "InterviewerID": 1
-    },
-    {
         "InterviewId": "f64627d4-3371-4b76-8af8-b5bf6e9f4a84",
         "InterviewEndDate": "2024-06-12 17:30:05",
         "InterviewState": "Completed",
@@ -17999,6 +17990,15 @@ let interview_data_raw = `[
         "Dest": "STN",
         "AirlineCode": "FR",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "0c898cc3-a2a0-439a-a976-9604b33c89ff",
+        "InterviewEndDate": "2024-10-19 12:08:55",
+        "InterviewState": "Completed",
+        "Flight": "FR 9943",
+        "Dest": "TFS",
+        "AirlineCode": "FR",
+        "InterviewerID": 9
     },
     {
         "InterviewId": "bdf51355-1dbf-4691-bfff-f1c06d5c6db8",
@@ -22213,6 +22213,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "e8f0b9c5-9583-4231-993e-bb161bba009f",
+        "InterviewEndDate": "2024-06-12 17:24:21",
+        "InterviewState": "Completed",
+        "Flight": "W6 2393",
+        "Dest": "LIS",
+        "AirlineCode": "W6",
+        "InterviewerID": 1
+    },
+    {
         "InterviewId": "b5cb3794-1f2e-4b4d-9fd0-f4cbd59a020c",
         "InterviewEndDate": "2024-06-12 19:22:11",
         "InterviewState": "Completed",
@@ -25478,6 +25487,15 @@ let interview_data_raw = `[
         "Dest": "FCO",
         "AirlineCode": "W6",
         "InterviewerID": 1
+    },
+    {
+        "InterviewId": "4e5b66f8-10e2-41c3-82a7-ef60a6579390",
+        "InterviewEndDate": "2024-10-19 12:05:22",
+        "InterviewState": "Completed",
+        "Flight": "FR 9943",
+        "Dest": "TFS",
+        "AirlineCode": "FR",
+        "InterviewerID": 9
     }
 ]    
 
