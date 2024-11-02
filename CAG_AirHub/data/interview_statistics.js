@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "BWN",
         "AirlineCode": "BI",
         "completed_interviews": 1,
-        "download_time": "02-11-2024 21:09:58"
+        "download_time": "02-11-2024 23:09:56"
     },
     {
         "Interview_Date": "2023-01-16",
@@ -59516,6 +59516,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-11-02",
+        "Dest": "ADL",
+        "AirlineCode": "SQ",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-11-02",
         "Dest": "BNE",
         "AirlineCode": "SQ",
         "completed_interviews": 10
@@ -59524,7 +59530,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-02",
         "Dest": "CAN",
         "AirlineCode": "SQ",
-        "completed_interviews": 1
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-11-02",
@@ -59606,6 +59612,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-11-02",
+        "Dest": "HND",
+        "AirlineCode": "JL",
+        "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-11-02",
         "Dest": "HYD",
         "AirlineCode": "SQ",
         "completed_interviews": 4
@@ -59666,9 +59678,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-11-02",
+        "Dest": "LHR",
+        "AirlineCode": "BA",
+        "completed_interviews": 10
+    },
+    {
+        "Interview_Date": "2024-11-02",
         "Dest": "LHW",
         "AirlineCode": "GX",
         "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-11-02",
+        "Dest": "MEL",
+        "AirlineCode": "QF",
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2024-11-02",
@@ -59698,7 +59722,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-02",
         "Dest": "PVG",
         "AirlineCode": "MU",
-        "completed_interviews": 13
+        "completed_interviews": 22
     },
     {
         "Interview_Date": "2024-11-02",
@@ -59722,7 +59746,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-02",
         "Dest": "SZX",
         "AirlineCode": "SQ",
-        "completed_interviews": 2
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2024-11-02",
@@ -59741,6 +59765,12 @@ let interview_statistics = `[
         "Dest": "XMN",
         "AirlineCode": "SQ",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-11-03",
+        "Dest": "MEL",
+        "AirlineCode": "QF",
+        "completed_interviews": 4
     }
 ]    
 
