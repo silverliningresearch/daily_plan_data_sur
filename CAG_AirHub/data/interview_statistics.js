@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "BWN",
         "AirlineCode": "BI",
         "completed_interviews": 1,
-        "download_time": "04-11-2024 09:11:12"
+        "download_time": "04-11-2024 11:11:04"
     },
     {
         "Interview_Date": "2023-01-16",
@@ -59972,6 +59972,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-11-04",
+        "Dest": "DAD",
+        "AirlineCode": "VJ",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "DPS",
+        "AirlineCode": "TR",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-11-04",
         "Dest": "HAK",
         "AirlineCode": "3K",
         "completed_interviews": 3
@@ -59986,13 +59998,25 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-04",
         "Dest": "HKG",
         "AirlineCode": "SQ",
-        "completed_interviews": 5
+        "completed_interviews": 8
     },
     {
         "Interview_Date": "2024-11-04",
         "Dest": "HND",
         "AirlineCode": "SQ",
         "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "ICN",
+        "AirlineCode": "KE",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "IPH",
+        "AirlineCode": "AK",
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2024-11-04",
@@ -60020,6 +60044,18 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-11-04",
+        "Dest": "MEL",
+        "AirlineCode": "SQ",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "MEL",
+        "AirlineCode": "TK",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-11-04",
         "Dest": "NRT",
         "AirlineCode": "JL",
         "completed_interviews": 4
@@ -60034,7 +60070,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-04",
         "Dest": "SYD",
         "AirlineCode": "TR",
-        "completed_interviews": 9
+        "completed_interviews": 11
     }
 ]    
 
