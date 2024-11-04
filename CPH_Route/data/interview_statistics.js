@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "AMS",
         "AirlineCode": "KL",
         "completed_interviews": 3,
-        "download_time": "04-11-2024 14:10:53"
+        "download_time": "04-11-2024 16:11:12"
     },
     {
         "Interview_Date": "2023-05-28",
@@ -34570,7 +34570,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-04",
         "Dest": "AMS",
         "AirlineCode": "SK",
-        "completed_interviews": 4
+        "completed_interviews": 11
     },
     {
         "Interview_Date": "2024-11-04",
@@ -34598,15 +34598,33 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-11-04",
+        "Dest": "CDG",
+        "AirlineCode": "AF",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-11-04",
         "Dest": "DOH",
         "AirlineCode": "AY",
-        "completed_interviews": 10
+        "completed_interviews": 12
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "DUS",
+        "AirlineCode": "SK",
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2024-11-04",
         "Dest": "DXB",
         "AirlineCode": "EK",
         "completed_interviews": 14
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "HEL",
+        "AirlineCode": "SK",
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-11-04",
@@ -34630,7 +34648,13 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-04",
         "Dest": "LHR",
         "AirlineCode": "BA",
-        "completed_interviews": 19
+        "completed_interviews": 29
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "LHR",
+        "AirlineCode": "SK",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2024-11-04",
@@ -34649,6 +34673,12 @@ let interview_statistics = `[
         "Dest": "OSL",
         "AirlineCode": "D8",
         "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "OSL",
+        "AirlineCode": "DY",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2024-11-04",
