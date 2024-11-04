@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "BWN",
         "AirlineCode": "BI",
         "completed_interviews": 1,
-        "download_time": "04-11-2024 11:11:04"
+        "download_time": "04-11-2024 13:10:00"
     },
     {
         "Interview_Date": "2023-01-16",
@@ -59990,6 +59990,12 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-11-04",
+        "Dest": "HAK",
+        "AirlineCode": "HU",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-11-04",
         "Dest": "HKG",
         "AirlineCode": "CX",
         "completed_interviews": 7
@@ -60014,9 +60020,33 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-11-04",
+        "Dest": "ICN",
+        "AirlineCode": "TR",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-11-04",
         "Dest": "IPH",
         "AirlineCode": "AK",
         "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "JJN",
+        "AirlineCode": "MF",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "KMG",
+        "AirlineCode": "MU",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "KNO",
+        "AirlineCode": "ID",
+        "completed_interviews": 1
     },
     {
         "Interview_Date": "2024-11-04",
@@ -60035,6 +60065,12 @@ let interview_statistics = `[
         "Dest": "LAX",
         "AirlineCode": "SQ",
         "completed_interviews": 7
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "LGK",
+        "AirlineCode": "TR",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2024-11-04",
@@ -60065,6 +60101,24 @@ let interview_statistics = `[
         "Dest": "PEK",
         "AirlineCode": "CA",
         "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "RGN",
+        "AirlineCode": "UB",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "SGN",
+        "AirlineCode": "TR",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-11-04",
+        "Dest": "SUB",
+        "AirlineCode": "3K",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2024-11-04",
