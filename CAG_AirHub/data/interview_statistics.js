@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "BWN",
         "AirlineCode": "BI",
         "completed_interviews": 1,
-        "download_time": "05-11-2024 13:10:11"
+        "download_time": "05-11-2024 15:10:01"
     },
     {
         "Interview_Date": "2023-01-16",
@@ -60244,7 +60244,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-05",
         "Dest": "CDG",
         "AirlineCode": "SQ",
-        "completed_interviews": 2
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2024-11-05",
@@ -60269,6 +60269,12 @@ let interview_statistics = `[
         "Dest": "CPT",
         "AirlineCode": "SQ",
         "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-11-05",
+        "Dest": "DAC",
+        "AirlineCode": "BG",
+        "completed_interviews": 3
     },
     {
         "Interview_Date": "2024-11-05",
@@ -60316,7 +60322,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-05",
         "Dest": "KUL",
         "AirlineCode": "MH",
-        "completed_interviews": 3
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2024-11-05",
@@ -60328,7 +60334,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-05",
         "Dest": "KUL",
         "AirlineCode": "SQ",
-        "completed_interviews": 7
+        "completed_interviews": 9
     },
     {
         "Interview_Date": "2024-11-05",
@@ -60346,7 +60352,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-05",
         "Dest": "MNL",
         "AirlineCode": "PR",
-        "completed_interviews": 3
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2024-11-05",
@@ -60413,6 +60419,12 @@ let interview_statistics = `[
         "Dest": "TRZ",
         "AirlineCode": "IX",
         "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-11-05",
+        "Dest": "UPG",
+        "AirlineCode": "TR",
+        "completed_interviews": 2
     },
     {
         "Interview_Date": "2024-11-05",
