@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "BWN",
         "AirlineCode": "BI",
         "completed_interviews": 1,
-        "download_time": "05-11-2024 09:13:16"
+        "download_time": "05-11-2024 11:10:08"
     },
     {
         "Interview_Date": "2023-01-16",
@@ -60226,7 +60226,7 @@ let interview_statistics = `[
         "Interview_Date": "2024-11-05",
         "Dest": "BNE",
         "AirlineCode": "SQ",
-        "completed_interviews": 5
+        "completed_interviews": 7
     },
     {
         "Interview_Date": "2024-11-05",
@@ -60245,6 +60245,12 @@ let interview_statistics = `[
         "Dest": "CEB",
         "AirlineCode": "TR",
         "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-11-05",
+        "Dest": "CGK",
+        "AirlineCode": "ID",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2024-11-05",
@@ -60308,9 +60314,21 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-11-05",
+        "Dest": "MNL",
+        "AirlineCode": "PR",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-11-05",
         "Dest": "NRT",
         "AirlineCode": "ZG",
         "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-11-05",
+        "Dest": "PEN",
+        "AirlineCode": "FY",
+        "completed_interviews": 4
     },
     {
         "Interview_Date": "2024-11-05",
@@ -60332,9 +60350,33 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-11-05",
+        "Dest": "SYD",
+        "AirlineCode": "SQ",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2024-11-05",
         "Dest": "TAO",
         "AirlineCode": "TR",
         "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-11-05",
+        "Dest": "TFU",
+        "AirlineCode": "SQ",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2024-11-05",
+        "Dest": "TRZ",
+        "AirlineCode": "IX",
+        "completed_interviews": 5
+    },
+    {
+        "Interview_Date": "2024-11-05",
+        "Dest": "VTE",
+        "AirlineCode": "TR",
+        "completed_interviews": 3
     }
 ]    
 
