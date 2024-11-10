@@ -7,7 +7,7 @@ let interview_data_raw = `[
         "Dest": "KEF",
         "AirlineCode": "W6",
         "InterviewerID": 1,
-        "download_time": "10-11-2024 18:09:50"
+        "download_time": "10-11-2024 20:09:49"
     },
     {
         "InterviewId": "f22e46a7-b994-4335-b51f-37ecb22423c6",
@@ -25993,15 +25993,6 @@ let interview_data_raw = `[
         "InterviewerID": 9
     },
     {
-        "InterviewId": "17c1476b-9543-4ce0-8137-f59502aad4f4",
-        "InterviewEndDate": "2024-10-12 16:33:09",
-        "InterviewState": "Completed",
-        "Flight": "A3  879",
-        "Dest": "ATH",
-        "AirlineCode": "A3",
-        "InterviewerID": 9
-    },
-    {
         "InterviewId": "b4088673-a752-4000-a558-dc15f619618c",
         "InterviewEndDate": "2024-10-12 16:35:48",
         "InterviewState": "Completed",
@@ -26988,6 +26979,15 @@ let interview_data_raw = `[
         "InterviewState": "Completed",
         "Flight": "W6 2437",
         "Dest": "IST",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
+    },
+    {
+        "InterviewId": "8e3157dd-479e-40ef-8995-c474fb2410c2",
+        "InterviewEndDate": "2024-11-10 19:31:16",
+        "InterviewState": "Completed",
+        "Flight": "W6 2293",
+        "Dest": "RMO",
         "AirlineCode": "W6",
         "InterviewerID": 16
     },
@@ -28162,6 +28162,15 @@ let interview_data_raw = `[
         "InterviewerID": 1
     },
     {
+        "InterviewId": "17c1476b-9543-4ce0-8137-f59502aad4f4",
+        "InterviewEndDate": "2024-10-12 16:33:09",
+        "InterviewState": "Completed",
+        "Flight": "A3  879",
+        "Dest": "ATH",
+        "AirlineCode": "A3",
+        "InterviewerID": 9
+    },
+    {
         "InterviewId": "09a7687b-8c0e-48e8-b2e9-f7c6a2fdc7a0",
         "InterviewEndDate": "2024-10-15 20:39:31",
         "InterviewState": "Completed",
@@ -28286,6 +28295,15 @@ let interview_data_raw = `[
         "Dest": "WAW",
         "AirlineCode": "W6",
         "InterviewerID": 7
+    },
+    {
+        "InterviewId": "e17fdf77-524e-476e-81c9-f5a3e4c67e99",
+        "InterviewEndDate": "2024-11-10 19:37:26",
+        "InterviewState": "Completed",
+        "Flight": "W6 2293",
+        "Dest": "RMO",
+        "AirlineCode": "W6",
+        "InterviewerID": 16
     }
 ]    
 
