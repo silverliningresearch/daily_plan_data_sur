@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "AMS",
         "AirlineCode": "KL",
         "completed_interviews": 3,
-        "download_time": "20-12-2024 12:12:44"
+        "download_time": "20-12-2024 14:15:34"
     },
     {
         "Interview_Date": "2023-05-28",
@@ -37234,13 +37234,19 @@ let interview_statistics = `[
         "Interview_Date": "2024-12-20",
         "Dest": "BOS",
         "AirlineCode": "SK",
-        "completed_interviews": 10
+        "completed_interviews": 13
     },
     {
         "Interview_Date": "2024-12-20",
         "Dest": "CDG",
         "AirlineCode": "AF",
         "completed_interviews": 9
+    },
+    {
+        "Interview_Date": "2024-12-20",
+        "Dest": "DXB",
+        "AirlineCode": "EK",
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2024-12-20",
@@ -37256,21 +37262,45 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2024-12-20",
+        "Dest": "GDN",
+        "AirlineCode": "W6",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-12-20",
+        "Dest": "HEL",
+        "AirlineCode": "SK",
+        "completed_interviews": 6
+    },
+    {
+        "Interview_Date": "2024-12-20",
         "Dest": "IST",
         "AirlineCode": "TK",
-        "completed_interviews": 5
+        "completed_interviews": 17
     },
     {
         "Interview_Date": "2024-12-20",
         "Dest": "LHR",
         "AirlineCode": "BA",
-        "completed_interviews": 8
+        "completed_interviews": 20
+    },
+    {
+        "Interview_Date": "2024-12-20",
+        "Dest": "MAD",
+        "AirlineCode": "FR",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2024-12-20",
+        "Dest": "ORD",
+        "AirlineCode": "SK",
+        "completed_interviews": 5
     },
     {
         "Interview_Date": "2024-12-20",
         "Dest": "SFO",
         "AirlineCode": "SK",
-        "completed_interviews": 5
+        "completed_interviews": 12
     },
     {
         "Interview_Date": "2024-12-20",
