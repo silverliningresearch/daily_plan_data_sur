@@ -4,7 +4,7 @@ let interview_statistics = `[
         "Dest": "BWN",
         "AirlineCode": "BI",
         "completed_interviews": 1,
-        "download_time": "02-01-2025 07:12:17"
+        "download_time": "02-01-2025 09:15:02"
     },
     {
         "Interview_Date": "2023-01-16",
@@ -65192,14 +65192,32 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-01-02",
+        "Dest": "ATQ",
+        "AirlineCode": "TR",
+        "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-01-02",
         "Dest": "CAN",
         "AirlineCode": "CZ",
-        "completed_interviews": 4
+        "completed_interviews": 6
     },
     {
         "Interview_Date": "2025-01-02",
         "Dest": "CEB",
         "AirlineCode": "5J",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-01-02",
+        "Dest": "DRW",
+        "AirlineCode": "SQ",
+        "completed_interviews": 3
+    },
+    {
+        "Interview_Date": "2025-01-02",
+        "Dest": "HKG",
+        "AirlineCode": "SQ",
         "completed_interviews": 4
     },
     {
@@ -65222,6 +65240,24 @@ let interview_statistics = `[
     },
     {
         "Interview_Date": "2025-01-02",
+        "Dest": "MAA",
+        "AirlineCode": "AI",
+        "completed_interviews": 4
+    },
+    {
+        "Interview_Date": "2025-01-02",
+        "Dest": "NRT",
+        "AirlineCode": "JL",
+        "completed_interviews": 1
+    },
+    {
+        "Interview_Date": "2025-01-02",
+        "Dest": "NRT",
+        "AirlineCode": "TR",
+        "completed_interviews": 8
+    },
+    {
+        "Interview_Date": "2025-01-02",
         "Dest": "OKA",
         "AirlineCode": "3K",
         "completed_interviews": 2
@@ -65230,7 +65266,7 @@ let interview_statistics = `[
         "Interview_Date": "2025-01-02",
         "Dest": "PEN",
         "AirlineCode": "SQ",
-        "completed_interviews": 4
+        "completed_interviews": 8
     },
     {
         "Interview_Date": "2025-01-02",
@@ -65249,6 +65285,12 @@ let interview_statistics = `[
         "Dest": "YIH",
         "AirlineCode": "HU",
         "completed_interviews": 2
+    },
+    {
+        "Interview_Date": "2025-01-02",
+        "Dest": "YVR",
+        "AirlineCode": "AC",
+        "completed_interviews": 4
     }
 ]    
 
